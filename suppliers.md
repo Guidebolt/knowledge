@@ -14,6 +14,8 @@ Our suppliers are primarily in Canada and the United States. Their lead-times ar
 
 ## Office and IT
 
+[Github](https://github.com/) - Version control hosting service
+
 [Namecheap](https://www.namecheap.com/) - Domain Name Registrar
 
 [Fastmail](https://www.fastmail.com/) - Email Hosting

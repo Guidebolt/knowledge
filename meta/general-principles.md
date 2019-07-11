@@ -1,8 +1,8 @@
 # General Principles
 
-Commit to versatile mental shortcuts that will help you make correct decisions quickly in any field of work.
+Versatile mental shortcuts help you make correct decisions quickly in any field of work.
 
-## Principle of Safety
+## Safety First
 
 Prioritize safety first. Don't let the unthinkable happen to yourself or others. Beware how easy it is to be lulled into a false sense of security when you have not experienced unthinkable tragedies.
 
@@ -12,11 +12,11 @@ Avoid unnecessary risks and reduce necessary risks. The human mind has a stubbor
 
 Be fully consistent with safe behaviors and procedures. The human mind has a fickle convenience bias, tempting dangerous exceptions that invite accidents.
 
-## Principle of Reversibility
+## Reversibility
 
 Prefer decisions with reversible consequences. You will make mistakes. When you make a serious mistake, you need to be able to take it back.
 
-## Principle of Resilient Value
+## Resilient Value
 
 Make decisions that generate useful value for a long time even when plans change, environments evolve, and exceptions emerge. When the future unravels in unexpected ways, you want your purchased resources, learned knowledge, and produced work to stay relevant.
 
@@ -65,9 +65,11 @@ Balance progress between short-term and long-term goals.
 
 Stay flexible and avoid over-committing your resources. You want to be able to pivot your goals based on new information.
 
-## Principle of Continuous Progression
+## Principle of Time Efficiency
 
-Keep moving forward and make the most of every moment. Time is always ticking.
+Perform every task with quality and speed, striving to do the best you can with the time you have.
+
+Time efficiency is not only about the efficiency of a single task but also about the consistency of efficient performance, the prioritization of task timings, and the selection of necessary tasks. In other words, you must perform your current task efficiently, perform all upcoming tasks efficiently, perform the right tasks at the right times in the right order, and plan for the most important tasks that you can complete within your time constraints.
 
 ## Principle of Useful Learning
 
@@ -182,3 +184,33 @@ Strive to take the perfect action that equals the best possible life you can rea
 Question every allocation of your time and resources against what you truly want to accomplish in life. Pick your battles.
 
 Do what unmistakably needs to be done. Consider the do-it-now heuristic for simple, quick, and certain tasks.
+
+## Power of One
+
+One is simple:
+
+* One place to store and find things.
+* One goal to prioritize.
+* One dependable tool to use and maintain.
+* One detail to remember.
+* One clear plan to perform without confusion.
+* One good option to make an unmistakably good decision.
+
+## Power of Two
+
+Two is reliable:
+
+* When the first fails, the second succeeds while the first is recovered, repaired, or replaced.
+* When the first exceeds capacity, the second adds immediate capacity while extra capacity is prepared as necessary.
+
+## Power of Three
+
+Three is versatile:
+
+* The first development is conservatively sparse. The second development is ambitiously bloated. The third development is well-balanced. (Third System Effect)
+* Two people can sleep while one person watches (Overwatch Efficiency)
+* One person can work while two people watch (Overwatch Redundancy)
+
+## Possibility Over Probability
+
+When the stakes are high, think through normal and abnormal possibilities.
