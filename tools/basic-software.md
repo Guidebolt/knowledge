@@ -1,9 +1,5 @@
 # Tools - Basic Software
 
-[Microsoft Windows 10](https://www.microsoft.com/en-ca/software-download/windows10ISO) - Most popular consumer PC operating system.
-
-[Ubuntu](https://ubuntu.com/) - Most popular Linux-based operating system for personal computers and servers.
-
 [Libreoffice](https://www.libreoffice.org/)- Office Suite - Free, open-source, high-quality, cross-platform alternative to Microsoft Word for producing text documents, spreadsheets, slideshows, and basic drawings. Great import/export compatibility for various file formats.
 
 [Atom](https://atom.io/) - Text Editor - Free, simple, customizable integrated development environment (IDE). Developed by Github.

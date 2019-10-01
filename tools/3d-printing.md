@@ -7,16 +7,20 @@ We use the following FFF-type 3D printers:
 * Lulzbot Taz Pro
 * Lulzbot Mini 2
 
-We recommend using a 3D printer that supports a detachable data drive (like a USB drive or SD card). Portable drive support is essential for convenient printing because MCAD design work often occurs on a desktop computer far away from the 3D printer. Also, tethered prints depend on a persistent printer-computer data-link which is more prone to disruptions (ex. sleep mode, loose cables) and commits the computer (stay tethered nearby, send data without interruptions) for the print duration.
+We like bioplastic filaments for their human and environmental safety, which requires relatively low protection-elements while offering versatile post-processing. We are trying Natureworks Ingeo Biopolymer 3D870 through 3D-Fuel's Pro PLA series.
 
-We recommend placing your 3D printer on a hard, flat table surface because it significantly improves the stability of your print bed (especially for larger work volumes). Uneven, soft tabletop surfaces can cause the print-bed to sag and wobble at its corners (especially during fast and long travel movements), causing poor inter-filament adhesion both horizontally (line-to-line) and vertically (layer-to-layer).
+## Recommendations
 
-We recommend setting an aggressive Z-offset (low nozzle-to-bed distance) to ensure good first-layer-to-bed adhesion and good layer-to-layer/line-to-line adhesion. Excessive nozzle-to-bed distance can cause weak vertical adhesion that peels easily and horizontal gaps that sharply weaken the print.
+Use a 3D printer that supports a detachable data drive (ex. USB drive, SD card). Computer-tethered prints depend on a persistent data-link that incurs higher disruption risk (ex. sleep mode, loose cables, latency) and commits the computer to close physical proximity for the duration of the print.
 
-We recommend setting a balanced nozzle-wipe temperature (high enough to soften the on-nozzle filament, low enough to avoid filament dripping) for consistently accurate pre-print calibration. A dirty nozzle can interfere with the automatic Z-probing sequence, either stopping the print process entirely or causing over-compensated bed leveling (which excessively reduces the nozzle Z clearance and ruins the first-layer).
+Place your 3D printer on a hard, flat table surface for significantly improved print-bed stability, especially for larger work volumes. Uneven, soft tabletop surfaces can cause the print bed to sag and wobble at its corners, especially during fast and long travel movements, causing poor inter-filament adhesion across all XYZ dimensions.
 
-We recommend setting a high printing temperature to ensure strong inter-filament adhesion. But keep the temperature low enough to avoid stringing, which is hazardous and can add significant post-processing work.
+Use an aggressive Z-offset (low nozzle-to-bed distance) to ensure tight XY adhesion and bed adhesion while minimizing first-layer-bottom bulging. A tight first-layer is essential for strong printing of the remaining layers.
 
-We recommend setting a high bed temperature to maintain good first-layer-to-bed adhesion throughout the entire print, especially for larger prints which warp more easily (usually after a few layers).
+Set a balanced nozzle-wipe temperature that is high enough to soften the on-nozzle filament and low enough to avoid filament dripping. Consistent nozzle-wiping is essential for worry-free, accurate pre-print calibration. A dirty nozzle can interfere with the automatic Z-probe sequence, either stopping the print or causing over-compensated software-bed-leveling (which ruins the first layer).
+
+Set a high printing temperature within the material's safe range to ensure strong inter-filament adhesion. Avoid excessively high temperatures to avoid stringing, which is hazardous and can add significant post-processing work.
+
+Set a high bed temperature to ensure first-layer bed-adhesion during the whole print.
 
 
