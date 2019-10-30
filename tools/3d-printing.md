@@ -1,15 +1,18 @@
-# Tools - 3D Printing
+# 3D Printing Tools
 
-Read [here](https://www.lulzbot.com/learn/tutorials/2019-3d-printer-buyers-guide-compare-technologies) about different types of 3D printers.
+## FFF 3D Printer
 
-We use the following FFF-type 3D printers:
+We use the Lulzbot Taz Pro and Lulzbot Mini 2.
 
-* Lulzbot Taz Pro
-* Lulzbot Mini 2
+## PLA Filament
 
-We like bioplastic filaments for their human and environmental safety, which requires relatively low protection-elements while offering versatile post-processing. We are trying Natureworks Ingeo Biopolymer 3D870 through 3D-Fuel's Pro PLA series.
+We use the 3D-Fuel Pro PLA series.
 
-## Recommendations
+This uses Natureworks Ingeo Biopolymer 3D870. We like bioplastic filaments for their human and environmental safety, which enables low-risk handling and post-processing.
+
+## Assorted
+
+[Lulzbot 3D Printer Buying Guide](https://www.lulzbot.com/learn/tutorials/2019-3d-printer-buyers-guide-compare-technologies)
 
 Use a 3D printer that supports a detachable data drive (ex. USB drive, SD card). Computer-tethered prints depend on a persistent data-link that incurs higher disruption risk (ex. sleep mode, loose cables, latency) and commits the computer to close physical proximity for the duration of the print.
 
