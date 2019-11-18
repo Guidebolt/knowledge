@@ -214,3 +214,7 @@ Three is versatile:
 ## Possibility Over Probability
 
 When the stakes are high, think through normal and abnormal possibilities.
+
+## Principle of Module Completion
+
+Complex parallel work involves long, interweaving sequences of thoughts and actions. Modules are versatile checkpoints that bring partial closure to whirlpools of subject-matter focus. When modules are incomplete, tools and materials and thoughts are scattered in the physical and mental environment. Module completion reorganizes the workspace.
