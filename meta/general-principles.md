@@ -1,49 +1,40 @@
 # General Principles
 
-Versatile mental shortcuts help you make correct decisions quickly in any field of work.
+2020-01-16
 
-## Safety First
+Versatile ideas and shortcuts help you make correct decisions quickly in any field of work.
 
-Prioritize safety first. Don't let the unthinkable happen to yourself or others. Beware how easy it is to be lulled into a false sense of security when you have not experienced unthinkable tragedies.
+## Safety
 
-Build a habit of identifying current and upcoming hazards and risks. Intuitive danger awareness is a key defense against careless safety violations during unplanned or complex activities.
+Prioritize safety first. Don't let the unthinkable happen to yourself or others.
 
-Avoid unnecessary risks and reduce necessary risks. The human mind has a stubborn confidence bias that likes to repeat unnecessarily risky decisions as long as they work... until they inevitably fail, seriously or catastrophically.
+Beware how easy it is to be lulled into a false sense of security with a history of normal experiences and an ignorance of possible dangers.
 
 Be fully consistent with safe behaviors and procedures. The human mind has a fickle convenience bias, tempting dangerous exceptions that invite accidents.
 
+Sometimes it is better to just move forward, when the cost of prevention is far greater than the cost of the cure. Sometimes it is not. Know the difference. Avoid unnecessary risks and reduce necessary risks. 
+
+Resources are limited. Budget wisely to defend against the most significant dangers and implement the most cost-efficient solutions.
+
+Build a habit of identifying immediate and upcoming hazards and risks. Danger-spotting intuition is a key defense during distracted activities.
+
 ## Reversibility
 
-Prefer decisions with reversible consequences. You will make mistakes. When you make a serious mistake, you need to be able to take it back.
+Prefer decisions with reversible consequences.
+
+You will make mistakes. When you make a serious mistake, you need to be able to take it back.
 
 ## Resilient Value
 
-Make decisions that generate useful value for a long time even when plans change, environments evolve, and exceptions emerge. When the future unravels in unexpected ways, you want your purchased resources, learned knowledge, and produced work to stay relevant.
+Make lasting decisions that generate useful value for a long time even when plans change, environments evolve, and exceptions emerge. When the future unravels in unexpected ways, you want your purchased resources, learned knowledge, and produced work to stay relevant.
 
-## Principle of Rational Awareness
+## Rational Awareness
 
-Keep up your conscious intensity and logical rigor. Routinely consider:
+Keep up your conscious intensity and logical rigor.
 
-* What are you doing?
-* Why are you doing that?
+Routinely consider what you are doing and why you are doing it.
 
-## Principle of Balanced Interpretation
-
-Stay sharp enough to cut through weak ideas, yet soft enough to absorb unfamiliar truths. Your immediate knowledge is always imperfect in complex ways.
-
-## Principle of Self-Control
-
-Be able to actually do what you know to be the most good for you. You are not in control if you consistently fail to perform your best known course of action.
-
-Prepare the flow of information to meet the 3 requirements of conscious, rational action:
-
-* Awareness (to consider the action, ex. alarm clock reminds you to do something important)
-* Rational Confidence (to logically determine the best action)
-* Willpower (to actually perform the best known course of action)
-
-Overcome the first-try confidence barrier and the first-step inconvenience bias.
-
-## Principle of Optimization
+## Optimization
 
 Always be seeking a better outcome.
 
@@ -57,7 +48,39 @@ Prefer structural solutions (ex. mandatory checklist) over personal solutions (e
 
 Prefer automatic solutions (ex. smoke alarm) over manual solutions (ex. check periodically for a fire).
 
-## Principle of Directional Clarity
+## Completion
+
+Finish what you start and start only what you will finish.
+
+Know what is and is not worth doing; starting, continuing, finishing.
+
+Stop and reconsider when the value of completion becomes unclear.
+
+The scope of completion ranges from steps and tasks to projects and plans.
+
+Completion precedes the efficient reorganization of the mindspace and workspace, bringing closure to old whirlpools.
+
+## Balanced Interpretation
+
+Stay sharp enough to cut through weak ideas, yet soft enough to absorb unfamiliar truths.
+
+Accept your immediate knowledge as ever-imperfect in complex ways.
+
+## Self Control
+
+Be able to actually do what you know is the best path.
+
+You are not in control if you consistently fail to perform your best known course of action.
+
+Prepare the flow of information to meet the 3 requirements of conscious, rational action:
+
+* Awareness (to consider the action, ex. alarm clock reminds you to do something important)
+* Rational Confidence (to logically determine the best action)
+* Willpower (to actually perform the best known course of action)
+
+Overcome the first-try confidence barrier and the first-step inconvenience bias.
+
+## Directional Clarity
 
 Be clear about your ultimate objectives.
 
@@ -65,53 +88,59 @@ Balance progress between short-term and long-term goals.
 
 Stay flexible and avoid over-committing your resources. You want to be able to pivot your goals based on new information.
 
-## Principle of Time Efficiency
+## Time Efficiency
 
 Perform every task with quality and speed, striving to do the best you can with the time you have.
 
 Time efficiency is not only about the efficiency of a single task but also about the consistency of efficient performance, the prioritization of task timings, and the selection of necessary tasks. In other words, you must perform your current task efficiently, perform all upcoming tasks efficiently, perform the right tasks at the right times in the right order, and plan for the most important tasks that you can complete within your time constraints.
 
-## Principle of Useful Learning
+## Useful Learning
 
 Learn with purpose, towards some fundamental combination of mental satisfaction and valuable action. Only you can decide which beliefs you are happy to hold or driven to refine.
 
 Pursue the truth if you want to accurately translate your intentions and decisions into actions and real world consequences. The truth helps you get what you want from reality, if what you want from reality requires the truth.
 
-## Principle of Fundamental Understanding
+## Fundamental Understanding
 
 Master the basics. Deep knowledge is rooted in the truest understanding of the most elementary ideas.
 
-## Principle of Incremental Improvement
+## Incremental Improvement
 
 Learn with the pragmatic perspective of growing in small steps.
 
-## Principle of Comfortable Expertise
+## Comfortable Expertise
 
 Master skills enough to perform superbly with ease.
 
-## Principle of Scientific Intuition
+## Scientific Intuition
 
 Learn ideas deeply enough to be able to think about their conceptual and numerical approximations naturally.
 
-## Principle of Real-Time Pressure
+## Real-Time Pressure
 
 Develop skills under continuous time constraints and complex multi-factor scenarios.
 
-## Principle of Proportional Consideration
+## Proportional Consideration
 
-Allocate more time and attention to a decision according to its importance. Know when to be decisive and when to be cautious.
+Spend more time and request more feedback on more important decisions.
 
-## Principle of Concrete Simulation
+Know when to be decisive and when to be cautious.
+
+## Concrete Simulation
 
 Plan for the future by simulating specific short-term and long-term situations. Abstract ideas tend to oversimplify the real world and cloud judgment around critical initiatives.
 
-## Principle of True Causality
+## True Causality
 
 Know what truly causes what.
 
 Consider the exponential gaps in causal predictions. Seemingly small decisions can have big consequences and seemingly big decisions can have small consequences.
 
-## Principle of Total Preparation
+## Direct Evaluation
+
+See things for what they actually are.
+
+## Total Preparation
 
 Foresee all possibilities.
 
@@ -119,65 +148,63 @@ Mitigate the major risks.
 
 React to unexpected events with versatile contingency plans. Recall your prepared plans as the situation evolves.
 
-## Principle of Complete Planning
+## Complete Planning
 
 Plan beyond the moment and forecast the full schedule of every step required to accomplish a major goal. A truly complete plan is a continuous line of real action mapped to every second of the present and future.
 
-## Principle of Continuous Risk
+## Continuous Risk
 
 Stay vigilant, as something can go wrong at any time. Risk is a persistent function of imperfect observation, imperfect logic, and inaccessible information.
 
-## Principle of Completion
+## Comparative Clarity
 
-Finish what you start and don't start what you won't finish.
+Understand your options by exploring alternatives.
 
-Know what is and is not worth doing.
+Sometimes it is easier to determine the better of two than the quality of one.
 
-Understand the scope of completion across steps, tasks, and projects.
-
-## Principle of Direct Evaluation
-
-See things for what they actually are.
-
-## Principle of Comparative Clarity
-
-Analyze alternatives and understand your options. Sometimes it is easier to determine the better of two, than the sufficient greatness of one.
-
-## Principle of Sampling
+## Sampling
 
 Try one before committing to more.
 
-## Principle of Batching
+## Batching
 
-Do many at once. Leverage economies of scale and accomplish many goals in one smooth sequence.
+Do many at once.
 
-## Principle of Clear Expectations
+Leverage economies of scale and divide fixed costs by many units produced.
+
+Accomplish many goals in one smooth sequence.
+
+## Clear Expectations
 
 Communicate what you want.
 
-## Principle of First Excellence
+Plan and agree to what should happen when something goes wrong, before something goes wrong.
 
-Do it right the first time. Avoid the frustration and sunk cost of incurring even a single major problem.
+## First-Time Excellence
 
-## Principle of Regular Action
+Do it right the first time.
+
+Avoid the frustration and sunk cost of incurring even a single major problem.
+
+## Regular Action
 
 Build habits around important tasks.
 
-## Principle of Convenient Action
+## Convenient Action
 
 Set up your tasks to be easier to do and they are more likely to get done.
 
-## Principle of Steady Action
+## Steady Action
 
 Move cautiously to avoid unintended injuries and damage.
 
 Move slowly at first to signal your action to others for a noticeable timeframe.
 
-## Principle of Timed Action
+## Timed Action
 
 Act at the right time and in the right order.
 
-## Principle of Perfect Action
+## Perfect Action
 
 Strive to take the perfect action that equals the best possible life you can realistically experience from this moment onwards.
 
@@ -215,11 +242,7 @@ Three is versatile:
 
 When the stakes are high, think through normal and abnormal possibilities.
 
-## Principle of Module Completion
-
-Complex parallel work involves long, interweaving sequences of thoughts and actions. Modules are versatile checkpoints that bring partial closure to whirlpools of subject-matter focus. When modules are incomplete, tools and materials and thoughts are scattered in the physical and mental environment. Module completion reorganizes the workspace.
-
-## Principle of Key Element Organization
+## Key Element Organization
 
 Key tasks can be defined and prioritized in a checklist.
 
