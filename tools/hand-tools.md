@@ -16,14 +16,6 @@ We use the Stanley Classic 99. Strongly recommended.
 
 For safety, we generally prefer retractable over fixed blade. For durability, we prefer metal construction. Simple and economical. Ergonomic handle, 1-screw disassembly, integrated spare-blade compartment for deep convenience. Spare blade rattling can be dampened by inserting a wad of paper in the compartment.
 
-## Dual-Unit Vernier Calipers
-
-We use the Mitutoyo 530-312. Recommended.
-
-[Product Info](https://ecatalog.mitutoyo.com/Vernier-Calipers-Series-530-Standard-Model-C1401.aspx)
-
-Vernier calipers may require good eyesight and take a bit more time to read to precision, but they require no battery and have excellent pure-mechanical reliability as a dependable primary or backup.
-
 
 
 
