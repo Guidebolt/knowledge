@@ -1,18 +1,4 @@
-#
-
-## Time Format
-
-ISO 8601
-
-https://www.iso.org/iso-8601-date-and-time-format.html
-
-## Mechanical Drafting
-
-ASME - Y14.5 (2018)
-
-https://www.asme.org/codes-standards/find-codes-standards/y14-5-dimensioning-tolerancing
-
-## Coding
+# SOFTWARE - STANDARDS
 
 Lockheed Martin - Joint Strike Fighter AV C++ Coding Standards (2005)
 
@@ -35,7 +21,3 @@ https://spinroot.com/gerard/pdf/P10.pdf
 MISRA - C Coding Guidelines for Critical Systems (2004)
 
 http://caxapa.ru/thumbs/468328/misra-c-2004.pdf
-
-
-
-
