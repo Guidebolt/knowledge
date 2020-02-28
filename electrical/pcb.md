@@ -1,36 +1,53 @@
 # ELECTRICAL - PCB
 
-## MFG REFERENCE
+## BASIC
 
-https://docs.oshpark.com/services/super-swift/
+Total Thickness (standard 1.6mm)
 
-Standard Substrate: FR4 (175Tg)
+MIN Line Width
 
-Standard Conductor: Copper (1oz per 1sqft)
+MIN Line Spacing
 
-Standard Plating: ENIG (Electroless Nickel Immersion Gold) (IPC-4552 Compliant)
+MAX Layer Count
 
-Standard Total Board Thickness: 1.6mm (63mil)
+Blind/Buried Vias
 
-MIN Recommended Silkscreen Line Width: 0.127mm
+OUTER Conductor Thickness (standard 1oz to 4oz)
 
-MIN Board Size: 6.35mm X 6.35mm
+INNER Conductor Thickness
 
-MAX Board Size: 406.4mm X 558.8mm
+## SURFACE FINISH
 
-MIN Board Edge Keepout: 0.381mm (15mil)
+ENIG
 
-MIN Trace Width: 0.1524mm (6mil)
+ENEPIG
 
-MIN Trace Spacing/Clearance: 0.1524mm (6mil)
+Immersion Silver
 
-MIN Drill DIA: 0.254mm (10mil)
+## SUBSTRATE
+
+FR4
+
+Aluminum
+
+Rogers
+
+Arlon
+
+Teflon
+
+## DRILL
+
+MIN Drill DIA
+
+Drill Tolerance
 
 ## SPECIAL
 
 Castellations (Direct Board-Board Mounting)
 
 Guard Ring (Stray Surface Current Shielding)
+
 
 
 
