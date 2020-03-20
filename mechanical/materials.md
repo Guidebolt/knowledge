@@ -1,4 +1,14 @@
-#
+# MECHANICAL - MATERIALS
+
+## Resources
+
+http://matweb.com/
+
+## Plastics
+
+Natureworks Ingeo-3D870 Biopolymer
+
+https://www.natureworksllc.com/Products/3D-series-for-3D-printing
 
 ## Metals
 

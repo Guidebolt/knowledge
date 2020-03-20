@@ -1,6 +1,14 @@
 # Suppliers
 
-Our suppliers are primarily in Canada and the United States. Their lead-times are generally 2 business days for in-stock items (ex. fasteners), up to 1-2 weeks for normal fabrication (ex. CNC machining) and up to 16 weeks for build-to-order parts (ex. industrial grade electronics from specialized factories).
+Our public supply-chain info is organized into 2 categories.
+
+1. Index: The list of all suppliers that we consider or use. 
+
+2. Notes: Our thoughts on suppliers that we use. 
+
+Our suppliers are primarily in Canada and the United States.
+
+
 
 
 
