@@ -1,4 +1,4 @@
-# FUNDAMENTAL - ELECTRICAL
+# Electrical
 
 ## Basic
 

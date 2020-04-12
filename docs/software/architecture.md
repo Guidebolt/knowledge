@@ -1,4 +1,4 @@
-# SOFTWARE - ARCHITECTURE
+# Architecture
 
 ## Abstract
 

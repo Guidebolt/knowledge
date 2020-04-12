@@ -1,4 +1,4 @@
-# ELECTRICAL - STANDARDS
+# Standards
 
 ## Hazardous Substance Levels
 

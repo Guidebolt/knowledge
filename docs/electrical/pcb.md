@@ -1,4 +1,4 @@
-# ELECTRICAL - PCB
+# PCB
 
 ## BASIC
 

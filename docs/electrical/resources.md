@@ -1,4 +1,4 @@
-#
+# Resources
 
 ## PCB TRACE - WIDTH AND CURRENT CAPACITY
 

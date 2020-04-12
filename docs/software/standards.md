@@ -1,4 +1,4 @@
-# SOFTWARE - STANDARDS
+# Standards
 
 ## C and CPP
 
