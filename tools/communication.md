@@ -1,5 +1,0 @@
-# TOOLS - COMMUNICATION
-
-## WhatsApp
-
-
