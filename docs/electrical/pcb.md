@@ -1,52 +1,85 @@
 # PCB
 
-## BASIC
+## Basic Stack
 
-Total Thickness (standard 1.6mm)
+* Silkscreen
+* Conductive Surface Finish
+* Soldermask
+* Conductive Layer
+* Prepreg (Stick)
+* Core (Rigid)
 
-MIN Line Width
+## Silkscreen
 
-MIN Line Spacing
+Type: Liquid Photo Imageable (LPI)
 
-MAX Layer Count
+Color: White
 
-Blind/Buried Vias
+## Surface Finish
 
-OUTER Conductor Thickness (standard 1oz to 4oz)
+* Electroless Nickel Immersion Gold (ENIG)
+* Electroless Nickel Immersion Silver
+* Electroless Nickel Electroless Palladium Immersion Gold (ENEPIG)
 
-INNER Conductor Thickness
+## Soldermask
 
-## SURFACE FINISH
+Type: Liquid Photo Imageable (LPI)
 
-ENIG
+Colors:
 
-ENEPIG
+* Green
+* Black
 
-Immersion Silver
+## Conductive Layer
 
-## SUBSTRATE
+Material: Copper
 
-FR4
+Thickness Standards:
 
-Aluminum
+* 34.79um (1oz per sqft)
+* 69.58um (2oz per sqft)
 
-Rogers
+Traces:
 
-Arlon
+* Impedance Control
+* [Current Capacity Calculator](https://www.eeweb.com/tools/external-pcb-trace-max-current)
 
-Teflon
+## Substrate
 
-## DRILL
+Includes:
 
-MIN Drill DIA
+* Conductive Layers
+* Prepreg Layers
+* Core Layers
 
-Drill Tolerance
+Thickness Standards:
 
-## SPECIAL
+* 1.6mm
+* 2.4mm
+* 3.2mm
 
-Castellations (Direct Board-Board Mounting)
+Materials:
 
-Guard Ring (Stray Surface Current Shielding)
+* [ISOLA 370HR](https://www.isola-group.com/wp-content/uploads/data-sheets/370hr.pdf)
+
+## Fabrication Quality Standards
+
+* IPC-2
+* IPC-3
+
+## Manufacturing Constraints
+
+* MIN Trace Width
+* MIN Trace Spacing
+* MAX Layer Count
+* Blind/Buried Vias
+* Outer Conductor Thickness
+* Inner Conductor Thickness
+* MIN Drill DIA
+* Drill Diameter Tolerance
+* Drill Positional Tolerance
+* Castellations (Direct Board-Board Mounting)
+* Guard Ring (Stray Surface Current Shielding)
 
 
 

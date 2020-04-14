@@ -1,6 +1,14 @@
-# Standards
+# Language
 
-## C and CPP
+## C
+
+## C++
+
+## Python
+
+## PHP
+
+## Resources
 
 Lockheed Martin - Joint Strike Fighter AV C++ Coding Standards (2005)
 

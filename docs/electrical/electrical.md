@@ -62,6 +62,5 @@
 
 * Cores, Caches
 * Address Bus, Data Bus
-* Architecture, Bit Count, RISC vs CISC
 * MCU vs MPU
 
