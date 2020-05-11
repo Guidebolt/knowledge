@@ -1,6 +1,12 @@
-# General Principles
+# Principles
 
-Versatile ideas and shortcuts help you make correct decisions quickly in any field of work.
+Info Type: Learning
+
+Principles are versatile ideas that help you make decisions correctly and quickly in any field of work.
+
+## Idea
+
+
 
 ## Safety
 
@@ -223,10 +229,16 @@ One is simple:
 
 ## Power of Two
 
-Two is reliable:
+Two is reliable.
 
-* When the first fails, the second succeeds while the first is recovered, repaired, or replaced.
-* When the first exceeds capacity, the second adds immediate capacity while extra capacity is prepared as necessary.
+The value of using two. 
+
+* When the first fails, the second continues to function while the problem with the first is detected and resolved.
+* When the first exceeds capacity, the second adds immediate capacity while extra capacity is prepared for the future as necessary.
+
+The value of using one, storing one. 
+
+* When the first fails to a short-term event that affects all in use, the second provides recovery with low downtime.
 
 ## Power of Three
 

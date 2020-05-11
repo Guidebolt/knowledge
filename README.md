@@ -1,20 +1,18 @@
 # README
 
-## Dev
+## LOCAL VIEW URI
 
-Local View (http://127.0.0.1:8000/):
+http://127.0.0.1:8000/
 
-```
+## AUTOMATIC UPDATE OF LOCAL VIEW
+
 mkdocs serve
-```
 
-Local Build:
+## LOCAL BUILD COMMAND
 
-```
 mkdocs build --clean
-```
 
-## Packages
+## PACKAGES
 
 mkdocs
 

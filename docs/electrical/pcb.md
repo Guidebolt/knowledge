@@ -15,6 +15,14 @@ Type: Liquid Photo Imageable (LPI)
 
 Color: White
 
+Information:
+
+* Reference Designators
+* Company Name
+* Function
+* Part Number
+* Serial Number
+
 ## Surface Finish
 
 * Electroless Nickel Immersion Gold (ENIG)
@@ -44,6 +52,11 @@ Traces:
 * Impedance Control
 * [Current Capacity Calculator](https://www.eeweb.com/tools/external-pcb-trace-max-current)
 
+Holes:
+
+* Plated, Unplated
+* Thru, Blind, Buried
+
 ## Substrate
 
 Includes:
@@ -61,6 +74,7 @@ Thickness Standards:
 Materials:
 
 * [ISOLA 370HR](https://www.isola-group.com/wp-content/uploads/data-sheets/370hr.pdf)
+* [Aismalibar Cobritherm](https://www.aismalibar.com/product_group/cobritherm/)
 
 ## Fabrication Quality Standards
 
