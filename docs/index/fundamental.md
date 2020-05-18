@@ -3,15 +3,21 @@
 ## Reality
 
 * Physical, Digital, Psychological
-* 
+*
+
+##
+
+* Group, Ungroup
+* Combine, Separate
 
 ## Common
 
 * Hot, Cold
 * Hard, Soft
-* 
+* Bright, Dark
+*
 
-## Unity
+##
 
-* Discrete, Integrated
-* 
+* Familiar, Unfamiliar
+* Abstract, Specific

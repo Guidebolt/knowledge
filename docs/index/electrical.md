@@ -1,4 +1,4 @@
-# Electrical Index
+# Electrical
 
 ## Elementary
 
@@ -15,7 +15,7 @@
 * Open Circuit, Closed Circuit
 * Open Loop Control, Closed Loop Control
 
-## Signal 
+## Signal
 
 * Digital, Analog
 * Serial, Parallel
@@ -140,11 +140,10 @@ Connectors:
 ## Standards
 
 * HDD Physical/Logical Sector Size (4k, 512e, 512n)
-* 
+*
 
 
 
 
 
 .
-
