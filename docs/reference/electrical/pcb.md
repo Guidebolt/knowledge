@@ -1,13 +1,6 @@
 # PCB
 
-## Basic Stack
 
-* Silkscreen
-* Conductive Surface Finish
-* Soldermask
-* Conductive Layer
-* Prepreg (Stick)
-* Core (Rigid)
 
 ## Silkscreen
 

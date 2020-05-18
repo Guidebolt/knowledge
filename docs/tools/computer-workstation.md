@@ -2,22 +2,27 @@
 
 ## Operating System
 
-Operating System: Windows, Linux
-
-OS Installation: Each OS on separate drives.
+Each OS on separate drives.
 
 * [Windows 10 ISO](https://www.microsoft.com/en-ca/software-download/windows10ISO)
 * [Debian](https://www.debian.org/)
 
-* CAM file transfer
-* Technical file transfer (ex. datasheets, MCAD drawings)
-* Full disk backup software and images (ex. CloneZilla, bare metal dev)
-* Live OS installers
+## Parts
+
+* Drives: SAMSUNG, Pro
+* Power Supply: SEASONIC, Prime Series
 
 ## Accessories
 
 * Small Cases: NANUK, 903
 * USB Drives: SAMSUNG, Bar Plus Series
+
+USB Drive Use:
+
+* CAM file transfer
+* Technical file transfer (ex. datasheets, MCAD drawings)
+* Full disk backup software and images (ex. CloneZilla, bare metal dev)
+* Live OS installers
 
 ## Basic Programs
 

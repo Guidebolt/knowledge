@@ -1,8 +1,6 @@
 # Introduction
 
-Last Updated: 2020-05-11
-
-## This
+Last Updated: 2020-05-18
 
 This is the Guidebolt Public Knowledge Base.
 
@@ -11,6 +9,22 @@ It is a free information resource for your benefit.
 It contains a small fraction of our private records based on our experience as a company.
 
 It purposes to teach the efficient truth for engineers, entrepreneurs, researchers, and similar decision-makers.
+
+## Folder Structure
+
+**Guidance** - Knowledge for learning. Intended for deep preparation.
+
+**Reference** - Knowledge for work. Intended for on-demand reference. 
+
+**Index** - Keywords. Intended for planning learning curves and reviewing significant ideas.
+
+**Suppliers** - External individuals, teams, organizations. 
+
+**System** - Versatile knowledge.
+
+**Tools** - Interactive enhancers and how to get them.
+
+**Meta** - Theory of knowledge.
 
 ## Truth
 
@@ -31,11 +45,6 @@ Truth prepares the best possible action as relevant questions meet actionable an
 ## Using This Resource
 
 We expend great effort to create resilient designs, procure quality tools, establish sensible standards, and find dependable suppliers. That said, we are always testing new technologies and using sufficient technologies based on new recent products and limited immediate options. Therefore we explicitly label our confident suggestions as "recommended" and "strongly recommended", for what meets and exceeds our standard of resilient value after thorough evaluation. That said, remember that your needs may overlap with ours in different ways, so we still advise careful consideration.
-
-## Source Files
-
-* Markdown Text: [Guidebolt Knowledge Repo](https://github.com/Guidebolt/knowledge)
-* Markdown-HTML Converter: [MkDocs](https://www.mkdocs.org/)
 
 ## Company Links
 
