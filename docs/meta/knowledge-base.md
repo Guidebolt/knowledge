@@ -6,17 +6,15 @@ We expend great effort to create resilient designs, procure quality tools, estab
 
 ## Folder Structure
 
-**Guidance** - Knowledge for learning. Intended for deep preparation.
+**Preparation** - Knowledge for learning. Deep skill growth.
 
-**Reference** - Knowledge for work. Intended for on-demand reference.
+**Reference** - Knowledge for work. On-demand reference.
 
-**Index** - Keywords. Intended for planning learning curves and reviewing significant ideas.
-
-**Suppliers** - External individuals, teams, organizations.
+**Supply** - Knowledge for coordination. External individuals, teams, organizations.
 
 **System** - Versatile knowledge.
 
-**Tools** - Interactive enhancers and how to get them.
+**Tools** - Interactive enhancers.
 
 **Meta** - Theory of knowledge.
 

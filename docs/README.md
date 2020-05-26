@@ -1,6 +1,6 @@
 # Introduction
 
-Last Updated: 2020-05-18
+Last Updated: 2020-05-26
 
 This is the Guidebolt Public Knowledge Base.
 
