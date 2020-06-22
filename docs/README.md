@@ -1,22 +1,22 @@
 # Introduction
 
-Last Updated: 2020-05-26
+Last Updated: 2020-06-21
 
-This is the Guidebolt Public Knowledge Base.
+Version: Alpha (work in progress)
 
-It is a free information resource for your benefit.
+This is the Guidebolt Public Knowledge Base. It is a free information resource for your benefit. It contains a small fraction of our private records based on our experience as a company. It purposes to teach the efficient truth with a technical focus for you to understand the world and get things done correctly.
 
-It contains a small fraction of our private records based on our experience as a company.
+For fast actionable value, explore the **Tools** folder. Our confident suggestions are explicitly labeled "recommended" and "strongly recommended", for what meets and exceeds our standard of resilient value after thorough evaluation. We understand how time-consuming and mistake-expensive the selection process can be. Rely on us to guide your procurement of quality tools, parts, and materials.
 
-It purposes to teach the efficient truth for engineers, entrepreneurs, researchers, and similar decision-makers.
+For abstract foundational knowledge, see [Knowledge Theory](/meta/knowledge-theory) and [General Principles](/system/general-principles). We highly value meta-learning to improve the accuracy and speed of critical thinking with incredible versatility.
 
-## Starting Sequence
+## Feedback
 
-To learn faster and deeper, you must understand the landscape of information between the world and your mind.
+To suggest fixes and upgrades, use the edit-button near the top-right of each page.
 
-[Knowledge Theory](/meta/knowledge-theory)
+For more general feedback, email us at: [info@guidebolt.com](mailto:info@guidebolt.com)
 
 ## Source Files
 
-* Markdown Text: [Guidebolt Knowledge Repo](https://github.com/Guidebolt/knowledge)
+* Markdown Files: [Guidebolt Knowledge-Base Github Repo](https://github.com/Guidebolt/knowledge)
 * Markdown-HTML Converter: [MkDocs](https://www.mkdocs.org/)

@@ -4,7 +4,9 @@
 
 Reclosable plastic bags offer excellent space and weight efficiency as a low-cost flexible part container. Transparent bags add part identification convenience. Slider bags add open-close convenience and seal reliability.
 
-We use and recommend:
+Slider-type reclosable plastic bags (strongly recommended)
+
+We use:
 
 * ULINE, S-6983 (Medium Size, Fits Hand)
 * ULINE, S-10836 (Small Size, Fits Hand)
@@ -36,5 +38,3 @@ NANUK - [Product Info](https://www.nanuk.com/)
 MILWAUKEE, Packout Series - [Product Info](https://www.milwaukeetool.com/Products/Storage-Solutions/PACKOUT)
 
 Hard frame organizers are faster to see and access than individual bags. Prefer organizers with removable subcontainers for ease of parts transfer. We recommend the packout series for its sturdy single-frame construction, convenient latching stackability, and ergonomic primary latches.
-
-

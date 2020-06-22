@@ -1,22 +1,16 @@
-# Principles
+# General Principles
 
-Info Type: Learning
+REV: 2020-06-21
 
-Principles are versatile ideas that help you make decisions correctly and quickly in any field of work.
-
-## Idea
-
-
+Versatile ideas to make decisions correctly and quickly in any field of work.
 
 ## Safety
 
-Prioritize safety first. Don't let the unthinkable happen to yourself or others.
+Prioritize safety first. People tend to neglect and underprepare for safety until they (or those they care about) are seriously harmed. It is easy to be lulled into a false sense of security.
 
-Beware how easy it is to be lulled into a false sense of security with a history of normal experiences and an ignorance of possible dangers.
+Be fully consistent with safe behaviors and procedures. Do not let fickle convenience tempt dangerous exceptions that invite accidents.
 
-Be fully consistent with safe behaviors and procedures. The human mind has a fickle convenience bias, tempting dangerous exceptions that invite accidents.
-
-Sometimes it is better to just move forward, when the cost of prevention is far greater than the cost of the cure. Sometimes it is not. Know the difference. Avoid unnecessary risks and reduce necessary risks. 
+Balance the preparation of proactive (prevention) and reactive (cure) solutions. Avoid unnecessary risks and reduce necessary risks.
 
 Resources are limited. Budget wisely to defend against the most significant dangers and implement the most cost-efficient solutions.
 
@@ -231,12 +225,12 @@ One is simple:
 
 Two is reliable.
 
-The value of using two. 
+The value of using two.
 
 * When the first fails, the second continues to function while the problem with the first is detected and resolved.
 * When the first exceeds capacity, the second adds immediate capacity while extra capacity is prepared for the future as necessary.
 
-The value of using one, storing one. 
+The value of using one, storing one.
 
 * When the first fails to a short-term event that affects all in use, the second provides recovery with low downtime.
 
@@ -259,3 +253,7 @@ Key tasks can be defined and prioritized in a checklist.
 Key limits can be defined and cross-examined in a constraint list.
 
 Key design choices can be defined and referenced in a central document.
+
+## Usability
+
+Create things for use.

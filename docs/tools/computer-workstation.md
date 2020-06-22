@@ -12,10 +12,27 @@ Each OS on separate drives.
 * Drives: SAMSUNG, Pro
 * Power Supply: SEASONIC, Prime Series
 
+## Data Drives
+
+SSD, NGFF:
+
+* SAMSUNG, 970 Pro
+
+SSD, 2.5FF:
+
+* SAMSUNG, 800 Series
+
+HDD, 3.5FF:
+
+* TOSHIBA, MG08ACA16TA (16TB, SATA, 512e)
+
+USB:
+
+* SAMSUNG, Bar Plus
+
 ## Accessories
 
 * Small Cases: NANUK, 903
-* USB Drives: SAMSUNG, Bar Plus Series
 
 USB Drive Use:
 
@@ -52,6 +69,8 @@ USB Drive Use:
 
 [Clip Studio Paint](http://www.clipstudio.net/en) - Illustration Creator - Popular and effective digital drawing program for illustrations and manga. Formerly named Manga Studio. Use with a drawing tablet.
 
+GNUCASH - Accounting Software
+
 ## MCAD
 
 [Autodesk Inventor](https://www.autodesk.com/products/inventor/overview)
@@ -69,5 +88,3 @@ Industry-standard suites include:
 * Altium
 * Cadence (Allegro/Orcad)
 * SIEMENS Mentor (PADS/Xpedition)
-
-
