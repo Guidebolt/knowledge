@@ -13,3 +13,5 @@
 [Wikichip](https://en.wikichip.org/wiki/WikiChip)
 
 [RISC-V Foundation](https://riscv.org/)
+
+[LibreSilicon](https://libresilicon.com/)

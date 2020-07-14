@@ -1,14 +1,12 @@
 # Knowledge Theory
 
-Revision: 2020-06-21
+Revision: 2020-07-12
 
-Purpose: Learn about learning.
+## Goal of this Document
 
-Knowledge Type: Preparation
+A versatile examination of the thinking process to better grasp and wield the truth.
 
-## Fundamentals
-
-### Truth
+## Truth
 
 Information drives every thought, decision, and action. In our increasingly complex world where logic and trust are hard to weave confidently, it is easy to be misled by noise, incur unknown risks, and waste valuable resources. Truth is the fundamental solution.
 
@@ -20,9 +18,7 @@ Truth is the most accurate understanding of reality. With accuracy, one projects
 
 Truth prepares the best possible action as relevant questions meet actionable answers. The truth of everything always points to the best answer, yet an incomplete truth can point to the worst answer. Every situation creates context for some truths to become good (improves the answer), neutral (no effect), or bad (worsens the answer). Some good truths are the sum of smaller truths that individually are bad or do not change the answer. For a given situation, all or enough of its good truths always point to the best answer. Preparation is the completion of good truths.
 
-**Example, Baited Traps**: You are driving on an isolated road. You see a person laying face-down on the road (truth1). You can help this person get off the road for safety then call for medical assistance if necessary (truth2). After you exit your car and approach the person, you will be ambushed by 20 cultists and killed (truth3). For this situation, truth1 and truth2 are bad and directly mislead you to your doom.
-
-**Example, Product Requirements**: You are buying a new refrigerator. You find a good one that exceeds your expectations on power efficiency, durability, and ease of cleaning (truth1). After you buy it and receive the shipment, you will discover that the refrigerator is too big to fit through your non-standard doorway (truth2). For this situation, truth1 is bad even though the refrigerator itself is excellent.
+Suppose that you are in a hotel room and thirsty. You find a can of juice on the bedside table. Will you drink it? What truths can drive this decision? The hotel environment is generally safe (truth1). The can is unopened and untampered (truth2). The can is labeled with a brand you trust (truth3). The can expired many years ago (truth4). Drinking the juice will lead to hospitalization and death (truth5). Statistically, a pre-packaged hotel drink is fine over 99.99% of the time (truth6). In this situation, truths 1-3 and 6 drive a YES (drink it) and therefore are BAD. Truths 4-5 drive a NO (do not drink it; ideally trash it) and therefore are GOOD. Truth5 is future-knowledge that must be learned by mapping from the present situation, such as truth4. Truth4 can be learned by looking for the expiration date labeled on the can. If the expiration label is missing or badly smudged, you can predict the age of the can by the brand-graphics version OR adjust truth6 to exceed your risk tolerance threshold. If the expiration label is incorrect and at a recent timestamp, you would be terribly misled.
 
 ### Idea, Keyword
 

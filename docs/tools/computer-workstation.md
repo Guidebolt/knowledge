@@ -2,15 +2,19 @@
 
 ## Operating System
 
-Each OS on separate drives.
+Preferred Kernel: [Linux](https://www.kernel.org/)
+
+Preferred Distribution: [Debian](https://www.debian.org/)
+
+Secondary OS: Windows
 
 * [Windows 10 ISO](https://www.microsoft.com/en-ca/software-download/windows10ISO)
-* [Debian](https://www.debian.org/)
 
-## Parts
+## Hardware
 
-* Drives: SAMSUNG, Pro
-* Power Supply: SEASONIC, Prime Series
+SSD: SAMSUNG, Pro Series (strongly recommended)
+
+Power Supply: SEASONIC, Prime Series
 
 ## Data Drives
 
@@ -41,6 +45,14 @@ USB Drive Use:
 * Full disk backup software and images (ex. CloneZilla, bare metal dev)
 * Live OS installers
 
+## Password Manager
+
+[Keepass](https://keepass.info) - Free, open-source, good long-term track record. But out-dated, clunky GUI. Recommended.
+
+[KeepassXC](https://keepassxc.org/) - Free, open-source, cross-platform, modern GUI with v2.6+. A fork of Keepass with more active development that we are testing.
+
+Regularly save a copy of your password-database to a backup-system.
+
 ## Basic Programs
 
 [Libreoffice](https://www.libreoffice.org/)- Office Suite - Free, open-source, high-quality, cross-platform alternative to Microsoft Word for producing text documents, spreadsheets, slideshows, and basic drawings. Great import/export compatibility for various file formats.
@@ -48,8 +60,6 @@ USB Drive Use:
 [Atom](https://atom.io/) - Text Editor - Free, simple, customizable integrated development environment (IDE). Developed by Github.
 
 [Draw.io](https://about.draw.io/) - Diagram Maker - Free diagramming tool with emphasis on alignment and node-to-node connections. Use online with the browser app, or download the desktop app.
-
-[Keepass](https://keepass.info) - Free, robust, open-source password manager. Saves the encrypted database file to your computer to avoid web data vulnerabilities. Can be saved at a cloud storage host of your choice for working with multiple devices.
 
 [Inkscape](https://inkscape.org/) - Vector graphics editor. Create or edit logos, line art, infographics, and other line-based images.
 

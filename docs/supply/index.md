@@ -1,12 +1,14 @@
 # Index
 
-## Mechanical Part Distributors
+This is a roughly-organized, partial list of our suppliers.
+
+## Mechanical Part Distribution
 
 [MCMASTER-CARR](https://www.mcmaster.com/)
 
 [ULINE](https://www.uline.ca/)
 
-## Electronic Part Distributors
+## Electronic Part Distribution
 
 [DIGIKEY CANADA](https://www.digikey.ca/)
 
@@ -14,7 +16,7 @@
 
 [ARROW](https://www.arrow.com)
 
-## Equipment Distributors
+## Equipment Distribution
 
 [TEQUIPMENT](https://www.tequipment.net)
 
@@ -22,33 +24,31 @@
 
 ## Electronics
 
-[SEASONIC](https://seasonic.com/)
+[SEASONIC](https://seasonic.com/) - Computer Power Supplies
 
-[VANTEC USA](https://www.vantecusa.com/)
+[VANTEC USA](https://www.vantecusa.com/) - Data-Drive Enclosures
 
-[UBIQUITI](https://www.ui.com/)
+[UBIQUITI](https://www.ui.com/) - Networking Hardware
 
-[TRIPP LITE](https://www.tripplite.com/)
+[TRIPP LITE](https://www.tripplite.com/) - Power Distribution Hardware
 
-OHAUS - https://us.ohaus.com/
+[OHAUS USA](https://us.ohaus.com/) - Measuring Instruments
 
-PACE - https://paceworldwide.com/
+[PACE](https://paceworldwide.com/) - Soldering Tools
 
-SAMSUNG - https://www.samsung.com/ca/
+[SAMSUNG](https://www.samsung.com/ca/)
 
-PANASONIC - https://na.industrial.panasonic.com/
+[PANASONIC INDUSTRIAL](https://na.industrial.panasonic.com/)
 
-ASUS - 
+[TECHNICOLOR](https://www.technicolor.com)
 
-TECHNICOLOR - https://www.technicolor.com
+[VALVE](https://www.valvesoftware.com/) - Head-mounted Display Interface
 
-VALVE - https://www.valvesoftware.com/
+[NETGATE](https://www.netgate.com/) - Networking Hardware
 
-NETGATE - https://www.netgate.com/
+[NOCTUA](https://noctua.at/) - Computer Fans
 
-NOCTUA - https://noctua.at/
-
-ASROCK - https://www.asrock.com/
+[ASROCK](https://www.asrock.com/) - Motherboards
 
 ## Embedded
 
@@ -66,9 +66,9 @@ ASROCK - https://www.asrock.com/
 
 ## Electronic Parts
 
-[SUSUMU](https://www.susumu.co.jp/english/)
+[SUSUMU](https://www.susumu.co.jp/english/) - thin film resistors
 
-NICHICON
+[NICHICON](https://www.nichicon.co.jp/english/index.html) - capacitors
 
 VICOR - http://www.vicorpower.com/
 
