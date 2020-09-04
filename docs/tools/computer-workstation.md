@@ -1,20 +1,26 @@
 # Computer Workstation
 
+REV: 2020-09-04
+
 ## Operating System
 
-Preferred Kernel: [Linux](https://www.kernel.org/)
+PRIMARY: [DEBIAN](https://www.debian.org/)
 
-Preferred Distribution: [Debian](https://www.debian.org/)
+SECONDARY: [WINDOWS](https://www.microsoft.com/en-us/windows)
 
-Secondary OS: Windows
+* [Windows 10, ISO Download](https://www.microsoft.com/en-ca/software-download/windows10ISO)
 
-* [Windows 10 ISO](https://www.microsoft.com/en-ca/software-download/windows10ISO)
+Recommendation, install operating-systems on a per-drive basis (instead of multiple OS partitions on the same drive). 
 
 ## Hardware
 
 SSD: SAMSUNG, Pro Series (strongly recommended)
 
-Power Supply: SEASONIC, Prime Series
+We've used consumer-grade SAMSUNG SSDs for over 8 years with success. Our mature recommendation is the SAMSUNG 970 PRO 1TB (PCIE Gen3 x4 NVMe, M.2-2280-KeyM). Note that its successor, the SAMSUNG PRO 980, is just about released in 2020.
+
+POWER SUPPLY: SEASONIC, Prime Series
+
+High-reliability designs with 12-year warranties. We are evaluating their new true-fanless units. 
 
 ## Data Drives
 

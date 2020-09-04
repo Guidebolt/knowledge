@@ -14,12 +14,9 @@ mkdocs build --clean
 
 ## PACKAGES
 
-mkdocs
+[mkdocs](https://www.mkdocs.org/)
 
-https://www.mkdocs.org/
+[material, theme](https://squidfunk.github.io/)
 
-material
-
-https://squidfunk.github.io/
 
 

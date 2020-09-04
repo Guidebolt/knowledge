@@ -4,7 +4,7 @@ Revision: 2020-07-12
 
 ## Goal of this Document
 
-A versatile examination of the thinking process to better grasp and wield the truth.
+A versatile examination of the thinking process to better understand and use the truth.
 
 ## Truth
 

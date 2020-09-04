@@ -1,11 +1,25 @@
 # Websites
 
-REVISION: 2020-06-03
+2020-08-01
 
-Wikipedia (Free Collaborative Encyclopedia)
+[Wikipedia](https://www.wikipedia.org/) - free collaborative encyclopedia
 
-[https://www.wikipedia.org/](https://www.wikipedia.org/)
+[Wolfram Alpha](https://www.wolframalpha.com/) - computational engine
 
-Wolfram Alpha (Computational Engine)
+## ME
 
-[https://www.wolframalpha.com/](https://www.wolframalpha.com/)
+[MATWEB](http://matweb.com/) - material data library
+
+[Metric Thread Chart](http://www.shender4.com/metric_thread_chart.htm)
+
+## EE
+
+[Octopart](https://octopart.com/) - EE part inventory check
+
+[Ultra Librarian](https://www.ultralibrarian.com/) - ECAD symbol/footprint/3d-model library
+
+[Wikichip](https://en.wikichip.org/wiki/WikiChip)
+
+[RISC-V Foundation](https://riscv.org/)
+
+[LibreSilicon](https://libresilicon.com/)

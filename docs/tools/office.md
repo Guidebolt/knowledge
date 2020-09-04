@@ -1,4 +1,8 @@
-# Infrastructure
+# Office
+
+## Functions
+
+Printer: HP, OFFICEJET PRO 9015
 
 ## Networking
 

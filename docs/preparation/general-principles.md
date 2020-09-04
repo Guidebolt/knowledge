@@ -257,3 +257,7 @@ Key design choices can be defined and referenced in a central document.
 ## Usability
 
 Create things for use.
+
+## Complete Use
+
+Use products for their full effective life.

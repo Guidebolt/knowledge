@@ -1,14 +1,44 @@
 # Introduction
 
-Last Updated: 2020-06-21
+Last Updated: 2020-09-04
 
 Version: Alpha (work in progress)
 
-This is the Guidebolt Public Knowledge Base. It is a free information resource for your benefit. It contains a small fraction of our private records based on our experience as a company. It purposes to teach the efficient truth with a technical focus for you to understand the world and get things done correctly.
+Welcome to the Official Guidebolt Knowledge-Base. This is a free, publicly accessible information resource for your benefit. It contains a small fraction of our private records based on our experience as a company. It purposes to teach the efficient truth with a technical focus for you to understand the world accurately and get things done correctly.
 
-For fast actionable value, explore the **Tools** folder. Our confident suggestions are explicitly labeled "recommended" and "strongly recommended", for what meets and exceeds our standard of resilient value after thorough evaluation. We understand how time-consuming and mistake-expensive the selection process can be. Rely on us to guide your procurement of quality tools, parts, and materials.
+## Navigation
 
-For abstract foundational knowledge, see [Knowledge Theory](/meta/knowledge-theory) and [General Principles](/system/general-principles). We highly value meta-learning to improve the accuracy and speed of critical thinking with incredible versatility.
+PREPARATION: Knowledge that you learn once and remember long-term as context and skills.
+
+Recommendations:
+
+* [General Principles](/preparation/general-principles)
+
+REFERENCE: Knowledge that you repeatedly access on-demand as required to complete tasks.
+
+Recommendations:
+
+* [Electrical Standard](/reference/electrical-standard)
+
+SUPPLY: External entities (individuals, companies, systems) providing products and services.
+
+TOOLS: Technologies to enhance the interactive power of your local system.
+
+Our confident suggestions are explicitly labeled "recommended" and "strongly recommended", for what meets and exceeds our standard of resilient value after thorough evaluation. We understand how time-consuming and mistake-expensive the selection process can be. Rely on us to guide your procurement of quality tools, parts, and materials.
+
+Recommendations:
+
+* [Computer Workstation](/tools/electrical-standard)
+
+SYSTEM: The state of the world with past-present-future perspective.
+
+META: About knowledge, learning, and the thinking process.
+
+We highly value meta-learning to improve the quality and speed of critical thinking with excellent versatility. 
+
+Recommendations:
+
+* [Knowledge Theory](/meta/knowledge-theory)
 
 ## Feedback
 
@@ -16,7 +46,9 @@ To suggest fixes and upgrades, use the edit-button near the top-right of each pa
 
 For more general feedback, email us at: [info@guidebolt.com](mailto:info@guidebolt.com)
 
-## Source Files
 
-* Markdown Files: [Guidebolt Knowledge-Base Github Repo](https://github.com/Guidebolt/knowledge)
-* Markdown-HTML Converter: [MkDocs](https://www.mkdocs.org/)
+
+
+
+
+.
