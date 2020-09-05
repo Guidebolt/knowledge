@@ -10,82 +10,121 @@ SECONDARY: [WINDOWS](https://www.microsoft.com/en-us/windows)
 
 * [Windows 10, ISO Download](https://www.microsoft.com/en-ca/software-download/windows10ISO)
 
-Recommendation, install operating-systems on a per-drive basis (instead of multiple OS partitions on the same drive). 
+We like to install operating-systems on a per-drive basis (instead of multiple OS partitions on the same drive).
 
-## Hardware
+## SSD
 
-SSD: SAMSUNG, Pro Series (strongly recommended)
+We've used consumer-grade SAMSUNG drives for over 8 years with success.
 
-We've used consumer-grade SAMSUNG SSDs for over 8 years with success. Our mature recommendation is the SAMSUNG 970 PRO 1TB (PCIE Gen3 x4 NVMe, M.2-2280-KeyM). Note that its successor, the SAMSUNG PRO 980, is just about released in 2020.
+Recommendation: SAMSUNG, 970 PRO, 1TB (PCIE Gen3 x4 NVMe, M.2-2280-KeyM)
 
-POWER SUPPLY: SEASONIC, Prime Series
+Interested: SAMSUNG, 980 PRO, 1TB (PCIE Gen4 x4 NVMe)
 
-High-reliability designs with 12-year warranties. We are evaluating their new true-fanless units. 
+We use M.2 enclosures to assemble external data drives with greater capacity, reliability, speed, and modularity than normal USB drives.
 
-## Data Drives
+Testing: STARTECH, M2E1BRU31C
 
-SSD, NGFF:
+## Power Supply
 
-* SAMSUNG, 970 Pro
+We prefer high-reliability and fanless designs. SEASONIC is a proven source with 12-year warranties.
 
-SSD, 2.5FF:
+Testing: SEASONIC, Prime Series
 
-* SAMSUNG, 800 Series
+## CPU
 
-HDD, 3.5FF:
+Interested: AMD, Ryzen 4000 Series
 
-* TOSHIBA, MG08ACA16TA (16TB, SATA, 512e)
+## Case
 
-USB:
+We like durable, easy-to-assemble, light-weight, compact-volume, compatible. We like passive-cooling but accept current limits for high-power designs.
 
-* SAMSUNG, Bar Plus
+Testing: FRACTAL DESIGN, Define 7 Compact, All Solid Panels
 
-## Accessories
+## USB Drive
 
-* Small Cases: NANUK, 903
+USB drives are versatile.
 
-USB Drive Use:
+* Device-to-Device File Transfer
+* Live OS Installation
+* Full Small-Disk Backup
 
-* CAM file transfer
-* Technical file transfer (ex. datasheets, MCAD drawings)
-* Full disk backup software and images (ex. CloneZilla, bare metal dev)
-* Live OS installers
+Recommendation: SAMSUNG, Bar Plus
+
+We use a dedicated case for storing USB drives.
+
+Recommendation: NANUK, 903
+
+## Mouse Pad
+
+Testing: RAZER, Gigantus V2, XXL (410mm x 910mm x 4mm)
 
 ## Password Manager
+
+We strongly recommend that you use a password-manager that works offline (without internet).
+
+We strongly recommend that you regularly save a copy of your password-database to a back-up system.
 
 [Keepass](https://keepass.info) - Free, open-source, good long-term track record. But out-dated, clunky GUI. Recommended.
 
 [KeepassXC](https://keepassxc.org/) - Free, open-source, cross-platform, modern GUI with v2.6+. A fork of Keepass with more active development that we are testing.
 
-Regularly save a copy of your password-database to a backup-system.
+## Document Suite
 
-## Basic Programs
+[Libreoffice](https://www.libreoffice.org/) - Free, open-source, high-quality, cross-platform alternative to Microsoft Word for producing text documents, spreadsheets, slideshows, and basic drawings. Great import/export compatibility for various file formats.
 
-[Libreoffice](https://www.libreoffice.org/)- Office Suite - Free, open-source, high-quality, cross-platform alternative to Microsoft Word for producing text documents, spreadsheets, slideshows, and basic drawings. Great import/export compatibility for various file formats.
+## Text Editor
 
-[Atom](https://atom.io/) - Text Editor - Free, simple, customizable integrated development environment (IDE). Developed by Github.
+[Atom](https://atom.io/) - Free, simple, customizable integrated development environment (IDE). Developed by Github.
 
-[Draw.io](https://about.draw.io/) - Diagram Maker - Free diagramming tool with emphasis on alignment and node-to-node connections. Use online with the browser app, or download the desktop app.
+[RETEXT](https://pypi.org/project/ReText/) - Markdown editor with live preview.
+
+## Team Chat
+
+[ZULIP](https://zulip.com/)
+
+## Diagram Editor
+
+[Draw.io](https://about.draw.io/) - Free diagramming tool with emphasis on alignment and node-to-node connections. Use online with the browser app, or download the desktop app.
+
+## Vector Graphics Editor
 
 [Inkscape](https://inkscape.org/) - Vector graphics editor. Create or edit logos, line art, infographics, and other line-based images.
 
+## Raster Graphics Editor
+
 [GIMP](https://www.gimp.org/) - Raster Graphics Editor - Produce, resize, crop, rotate, and retouch your photos and other dot-style image files.
+
+## Audio Editor
 
 [Audacity](https://www.audacityteam.org/) - Audio Editor - Record your voice or music, manipulate audio clips for your media library, and import-export different filetypes. Great for handling standard audio tasks like other digital audio workstations (DAWs).
 
+## Video Editor
+
 [Kdenlive](https://kdenlive.org) - Video Editor - Simple, robust video editor with primary support for Linux. Free and open source. Renders to numerous standard formats, including WebM and MP4 (AAC/HEVC).
+
+## Video Screen Capture
 
 [Open Broadcaster Software](https://obsproject.com/) - Screen Video Capture and Live Streaming Tool - Simple on-screen video recording and live streaming program.
 
+## Compression
+
 [7-zip](http://www.7-zip.org/) - File compression and archival tool.
+
+## Torrenting
 
 [Transmission](https://transmissionbt.com/download/) - Free, simple torrenting client. Recommended by Wikileaks.
 
-[Blender](https://www.blender.org/) - 3D Modeling and Animation - Free and open-source with integrated video editor. Supported by the Blender Foundation.
+## 3D Animation and Modeling
 
-[Clip Studio Paint](http://www.clipstudio.net/en) - Illustration Creator - Popular and effective digital drawing program for illustrations and manga. Formerly named Manga Studio. Use with a drawing tablet.
+[Blender](https://www.blender.org/) - Free and open-source with integrated video editor. Supported by the Blender Foundation.
 
-GNUCASH - Accounting Software
+## Digital Illustration
+
+[Clip Studio Paint](http://www.clipstudio.net/en) - Popular and effective digital drawing program for illustrations and manga. Formerly named Manga Studio. Use with a drawing tablet.
+
+## Accounting
+
+[GNUCASH](https://www.gnucash.org/)
 
 ## MCAD
 
@@ -93,13 +132,13 @@ GNUCASH - Accounting Software
 
 Based on valid concerns expressed in [this forum thread](https://forums.autodesk.com/t5/moving-to-subscription/buh-bye-permanent-license/td-p/6916387), we are considering alternatives such as Solid Edge (SIEMENS) or BricsCAD (Hexagon).
 
-[FreeCAD](https://www.freecadweb.org/) is accessible and basically functional, but we consider the featureset and UI/UX too limited for professional workflows for now.
+[FreeCAD](https://www.freecadweb.org/) is accessible and basically functional, but we consider the featureset and UI/UX limiting for professional workflows.
 
 ## ECAD
 
-We use [Kicad](http://www.kicad-pcb.org/) for most of our schematic-to-PCB ECAD work. This is a good free, open-source, cross-platform EDA suite sponsored by CERN and increasingly supported by the industry such as with the [Digikey Kicad Library](https://www.digikey.ca/en/resources/design-tools/kicad).
+[Kicad](http://www.kicad-pcb.org/) for most of our schematic-to-PCB ECAD work. This is a good free, open-source, cross-platform EDA suite sponsored by CERN and increasingly supported by the industry such as with the [Digikey Kicad Library](https://www.digikey.ca/en/resources/design-tools/kicad).
 
-Industry-standard suites include:
+Industry-standard alternatives include:
 
 * Altium
 * Cadence (Allegro/Orcad)
