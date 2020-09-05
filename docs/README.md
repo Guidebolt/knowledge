@@ -1,6 +1,6 @@
 # Introduction
 
-Last Updated: 2020-09-04
+Last Updated: 2020-09-05
 
 Version: Alpha (work in progress)
 

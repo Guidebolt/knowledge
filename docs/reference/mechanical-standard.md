@@ -1,6 +1,6 @@
 # Mechanical Design Standard
 
-2020-08-20
+REV: 2020-09-05
 
 Official Guidebolt Mechanical-Design Standard
 

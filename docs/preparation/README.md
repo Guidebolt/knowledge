@@ -2,8 +2,6 @@
 
 In hardware development, you arrange physical atoms. In software development, you arrange abstract states. In both cases, you plan the interactive sequence of the system.
 
-## Mechanical Design
-
 ## Electrical Design
 
 Good electronics meet material safety standards such as RoHS, REACH, and JEDEC halogen-free (J-STD-609). Good parts are also flame-resistant (UL94-V0 is good) and EM-compatible (CISPR) as both low-interference and high-tolerance. Part moisture-sensitivity (MSL-1 is ideal) has minimal effect on operating performance (when assembled after correct handling) but better insensitivity provides flexibility (time, environment) for pre-assembly storage and processing.
@@ -14,4 +12,9 @@ For usability, prefer part packages that can be manually soldered and desoldered
 
 For strategy, consider the immediate and long-term availability (current stock, factory lead-time, pending orders) of each part costed at prototype-quantity (1 to 100 typical) to production-quantity (1000 to 10K+ typical).
 
-## Software Design
+## Construction
+
+[BuildingScience](https://www.buildingscience.com)
+
+[Perfect Wall, BuildingScience](https://www.buildingscience.com/documents/insights/bsi-001-the-perfect-wall
+)
