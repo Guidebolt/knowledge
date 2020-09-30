@@ -18,5 +18,11 @@ mkdocs build --clean
 
 [material, theme](https://squidfunk.github.io/)
 
+## SERVER SYNCHRONIZE
+
+bash update-website.sh
+
+
+
 
 

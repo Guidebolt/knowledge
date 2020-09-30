@@ -8,8 +8,6 @@ A versatile examination of the thinking process to better understand and use the
 
 ## Truth
 
-Information drives every thought, decision, and action. In our increasingly complex world where logic and trust are hard to weave confidently, it is easy to be misled by noise, incur unknown risks, and waste valuable resources. Truth is the fundamental solution.
-
 Truth is reality in its past, present, and future. What has been, what is, what could be, and what will be. Truth is the immediate state of the world and the complex patterns of cause-and-effect that structure the specific dynamics of change.
 
 Truth is the most accurate understanding of reality. With accuracy, one projects their best possible power towards intended results. With realism, one maps abstract ideals to actual possibilities.
@@ -20,13 +18,7 @@ Truth prepares the best possible action as relevant questions meet actionable an
 
 Suppose that you are in a hotel room and thirsty. You find a can of juice on the bedside table. Will you drink it? What truths can drive this decision? The hotel environment is generally safe (truth1). The can is unopened and untampered (truth2). The can is labeled with a brand you trust (truth3). The can expired many years ago (truth4). Drinking the juice will lead to hospitalization and death (truth5). Statistically, a pre-packaged hotel drink is fine over 99.99% of the time (truth6). In this situation, truths 1-3 and 6 drive a YES (drink it) and therefore are BAD. Truths 4-5 drive a NO (do not drink it; ideally trash it) and therefore are GOOD. Truth5 is future-knowledge that must be learned by mapping from the present situation, such as truth4. Truth4 can be learned by looking for the expiration date labeled on the can. If the expiration label is missing or badly smudged, you can predict the age of the can by the brand-graphics version OR adjust truth6 to exceed your risk tolerance threshold. If the expiration label is incorrect and at a recent timestamp, you would be terribly misled.
 
-### Idea, Keyword
 
-What is an idea? An idea is a mental representation of reality. It is a meaningful fragment of information. It is wordless yet symbolically expressible through a keyword.
-
-What is a keyword? A keyword is a physical representation of an idea. A keyword is observed (physically) then interpreted (mentally) as an idea. A keyword is usually a compact pattern of distinct elements (letters) in some constrained pattern-space (language), but it can be any physical pattern. Keywords are usually standardized for repeated use with common understanding, but they can be defined for single-use purposes (ex. temporary codenames).
-
-**Example, Gibberish**: What are ideas that can be interpreted from "LZQPM"? There exists some text that says "LZQPM" on this page (idea1). The text "LZQPM" is an unfamiliar keyword that means an important idea for other people (idea2). The text "LZQPM" starts with the familiar military keyword "LZ" which means landing zone (idea3).
 
 ### Versatility, Efficiency
 

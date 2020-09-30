@@ -1,8 +1,32 @@
-# Electrical Design Standard
+# ELECTRICAL DESIGN STANDARD
 
-2020-08-20
+2020-09-30
 
 Official Guidebolt Electrical-Design Standard
+
+## GENERAL TARGETS
+
+We target:
+
+* elemental composition, RoHS3 without exemptions, REACH, JEDEC (J-STD-609) halogen-free
+* flame resistance, UL94-V0
+* moisture-sensitivity-level, 1
+* tin-whiskering avoidance, matte-finish
+* high thermal stability, low-CTE, cycling tolerance
+* high electromechanical stability, CAF, electro-migration
+* thermal conductivity (0.7W/mK, good non-ceramic benchmark)
+* impedance-control, low relative-permittivity, low dissipation-factor
+* high-quality fabrication class (IPC-2, IPC-3)
+* high-quality PCB plating (ENIG)
+* ease of soldering assembly/disassembly
+
+## GENERAL REQUIREMENTS
+
+We require:
+
+* elemental composition, RoHS3 with/without exemptions
+* fabrication class: IPC-2 or better
+* PCB plating: ENIG or better
 
 ## General
 
@@ -61,6 +85,22 @@ Required: Every PCB has the following silkscreen text (minimum). Refer to list b
 * part perimeter-outline (one per part)
 * part reference-designator (one per part)
 * functional-label (one per external-pin)
+
+Markings:
+
+* flammability marker (ex. UL94V-0)
+* WEEE directive marker
+
+Compliance:
+
+* RoHS
+* REACH
+* CE
+
+Certifications:
+
+* UL Recognized
+* UL Listed
 
 ## PCB Material
 
