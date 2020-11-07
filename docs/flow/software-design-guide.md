@@ -1,23 +1,31 @@
-# Software Design Standard
+# Software Design Guide
 
-REV: 2020-09-05
+REV: 2020-10-25
 
-Official Guidebolt Software-Design Standard
+Official Guidebolt Software-Design Guide
 
-## Main Programming Languages
+## Basics
+
+We have different types of software:
+
+* Embedded
+* General-Purpose
+* 
+
+We like these programming languages:
 
 * Python
 * PHP
 * C
 * C++
 
-Python, general scripting
+Python is good for general-purpose scripting and abstract programming.
 
-PHP, web development
+PHP is good for fast-deploy web-development. We like the LEMP stack (linux, nginx, mysql, php).
 
-C, small/portable low-level programs, linux development, MCU firmware
+C is good for embedded programming and simpler general-purpose programs.
 
-C++, complex/high-performance low-level programs
+C++ is good for more complex general-purpose programs with performance optimization.
 
 ## External Standards
 

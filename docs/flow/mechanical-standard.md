@@ -4,13 +4,7 @@ REV: 2020-09-05
 
 Official Guidebolt Mechanical-Design Standard
 
-## Material Composition
 
-Required: all materials, generally non-toxic
-
-Required: all materials, lead-free
-
-Preferred: all materials, halogen-free
 
 ## Fasteners
 

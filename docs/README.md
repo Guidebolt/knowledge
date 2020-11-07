@@ -64,6 +64,8 @@ SYSTEM: The state of the world with past-present-future perspective.
 
 FLOW: The knowledge for understanding, planning, and doing.
 
+
+
 ## Feedback
 
 To suggest fixes and upgrades, use the edit-button near the top-right of each page.

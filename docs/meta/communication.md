@@ -89,12 +89,6 @@ Just as the general-learning-curve combines familiar ideas to understand new one
 
 Conscious consideration of the basic toolbox supports to-the-point communication and sharper idea-to-idea awareness.
 
-Keywords1:
-
-* GOOD, BAD
-* BETTER, WORSE
-* BEST, WORST
-
 Practical1:
 
 * What happened? Tell me the good news then the bad news.
@@ -104,6 +98,19 @@ Practical1:
 Basic ideas often exist as sets of 3. Within a 3-set, one idea has absolute meaning and forms a spectrum for the other two to mean opposing directions. Example, temperature-hotter-colder.
 
 Basic 3-sets can substitute the opposing-direction idea-pair with a contextual-value idea-pair. Example, texture-smooth-rough. The range of values for smooth/rough are relative, therefore dependent on context (general human touch vs precision machine friction).
+
+## Controlled Vocabulary
+
+A controlled vocabulary is a list of standard keywords typically used to simplify knowledge-management processes such as tagging and searching. Furthermore, it offers better clarity for the reading experience but causes repetition that worsens nuance/engagement.
+
+Without a controlled vocabulary, knowledge-management is complex and error-prone with needlessly scattered or ambiguous words such as with synonyms and homonyms. For example, suppose you search your files for a certain document using the "NOTES" tag, but unable to find it because it was actually tagged with the word "ESSAY" instead.
+
+For example, we like simple keywords for goodness. 
+
+* GOOD, NEUTRAL, BAD
+* BETTER, WORST
+* BEST, WORST
+
 
 
 
