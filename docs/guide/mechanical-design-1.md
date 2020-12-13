@@ -1,10 +1,11 @@
-# Mechanical Design Standard
+# Mechanical Design 1
 
-REV: 2020-09-05
+REV: 2020-12-02
 
-Official Guidebolt Mechanical-Design Standard
+## FASTENERS
 
-
+* Dowel, Screw
+* Helicoil
 
 ## Fasteners
 
