@@ -1,4 +1,4 @@
-# Communication
+# Meta, Communication
 
 The purpose of this guide is to clarify the fundamental ideas required for efficient communication.
 

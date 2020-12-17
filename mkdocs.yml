@@ -12,11 +12,8 @@ repo_url: https://github.com/guidebolt/knowledge
 
 theme:
     name: material
+    features:
+        - navigation.instant
 
-nav:
-    - Start: 'README.md'
-    - Tools: 'pointers/tools.md'
-    - Design: 'pointers/design.md'
-    - Mechanical: 'pointers/mechanical.md'
-    - Electrical: 'pointers/electrical.md'
-    - Software: 'pointers/software.md'
+markdown_extensions:
+  - admonition

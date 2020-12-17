@@ -1,4 +1,4 @@
-# Knowledge Theory
+# Meta, Knowledge
 
 Revision: 2020-07-12
 
@@ -188,8 +188,19 @@ Know how to connect a problem to a solution with meta-mastery of the knowledge r
 
 Know how to form new ideas by combining existing ideas.
 
+## Time Efficiency
 
+Every mouse-click, mouse-movement, and key-press incurs a time-cost of action.
 
+Every symbol, syllable, and whitespace incurs a time-cost of observation.
+
+Consider:
+
+**Rational Confidence**, the skill of setting and adjusting one's confidence to be proportional to one's correctness.
+
+**Efficient Completion of Good Truths**, the skill of quickly gathering the minimum set of positive-marginal-value truths required to guide the current understanding to the best possible decision.
+
+**Flow Organization of All Available Ideas**, the skill of preparing access/consideration paths to all known-and-unknown ideas, to improve the speed and quality of one's long-term idea-thinking-sequence.
 
 
 

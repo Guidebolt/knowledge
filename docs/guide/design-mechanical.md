@@ -1,4 +1,4 @@
-# Mechanical Design 1
+# Design, Mechanical
 
 REV: 2020-12-02
 

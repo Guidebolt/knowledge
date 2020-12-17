@@ -1,8 +1,12 @@
-# ELECTRICAL DESIGN STANDARD
+# Design, Electrical
 
 2020-11-07
 
 Official Guidebolt Electrical-Design Standard
+
+## Resources
+
+[Ultimate Electronics Book](https://ultimateelectronicsbook.com) - Free online book with interactive schematics and simulations
 
 ## KEYWORDS
 

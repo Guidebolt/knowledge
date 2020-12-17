@@ -1,5 +1,9 @@
 # Canada Corporation
 
+!!! INFO
+
+	REV: 2020-12-15
+
 ## Registration
 
 In Canada, federal corporations are registered with [Corporations Canada](https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/home).
