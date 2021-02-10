@@ -2,18 +2,38 @@
 
 !!! INFO
 
-	REV: 2020-12-15
+	REV: 2021-02-10
 
 ## Soldering Station
 
 PACE, ADS200 Accudrive with Instant Setback Cubby
 
 * 120W
-* thermal tips
+* uses thermal tips
 
-ORDERING ID: 8007-0579
+ORDERING ID: PACE, 8007-0579
 
-We like the chisel and mini-wave tips.
+RECOMMENDED
+
+The PACE-ADS200 is a modern professional soldering station with integrated-heater thermal-tips, fast/accurate temperature control (120W max output, 177C to 454C typical, 1.1C idle stability, ANSI/J-STD-001), instant setback (requires special stand), up to 3 preset temperatures, and durable extruded-aluminum frame.
+
+TIPS:
+
+```
+0.40mm (1/64in) Conical Sharp (SKU, 1131-0002-P1)
+
+0.80mm (1/32in) Conical Sharp (SKU, 1131-0001-P1)
+
+0.80mm (1/32in) Chisel 30° (SKU, 1131-0012-P1)
+
+1.59mm (3/32in) Chisel 30° (SKU, 1131-0019-P1)
+
+3.18mm (1/8in) Chisel 30° (SKU, 1131-0051-P1)
+
+5.15mm (13/64in) Chisel (SKU, 1131-0010-P1)
+
+3.05mm (3/25in) Miniwave (SKU, 1131-0032-P1)
+```
 
 ## Solder Wire
 
