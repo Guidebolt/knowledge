@@ -2,25 +2,27 @@
 
 !!! INFO
 
-	REV: 2020-12-15
+	REV: 2020-02-17
 
 ## Workstation Hardware
 
-CASE: FRACTAL DESIGN, solid-side-panel
+CASE: FRACTAL DESIGN, Meshify 2, solid-side-panel (recommended)
 
-CPU: AMD, 5950X
+Reason: Easy to assemble, highly customizable, fast-access filters. Minor downside, bit heavy at 10kg.
 
-Leading CPU at 105W TDP.
+CPU: AMD, Ryzen 5950X (strongly recommended)
+
+Reason: Leading 16-core Workstation CPU at 105W TDP. Good single-core/multi-core performance, power efficiency, ECC support.
 
 GPU: AMD
 
-Good Linux compatibility.
+Reason: Good Linux compatibility.
 
-FAN: NOCTUA, air-cooling
+FAN: NOCTUA, air-cooling (recommended)
 
 Leading performance-noise ratio. We prefer the low-risk zero-maintenance longevity of air-cooling over liquid-cooling.
 
-SSD: SAMSUNG
+SSD: SAMSUNG (recommended)
 
 We have a successful 8+ years track record with Samsung SSDs.
 
