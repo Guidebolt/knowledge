@@ -1,5 +1,7 @@
 # Meta, Communication
 
+Last Updated: 2021-03-22
+
 The purpose of this guide is to clarify the fundamental ideas required for efficient communication.
 
 What is efficient communication?
@@ -73,7 +75,23 @@ We like using the comma for concise sentences that retain clear separation of id
 
 We like using dash-symbols to clearly communicate the unity of multiple words to mean a single idea. Especially valuable for clarity in complex or otherwise-ambiguous sentences.
 
-### Basic Combos
+### One Idea, One Word
+
+Diverse words offer nuance and reader-engagement (ex. marvelous, magnificent, incredible), but we prefer a functional focus. The goal is compact vocabulary with major functional differences in the idea-keyword pairs.
+
+So we use idea-keyword maps like this:
+
+* Absolute Good, Neutral: Ok
+* Absolute Good, Positive1: Good
+* Absolute Good, Positive2: Great
+* Comparative Good: Better
+* Highest-Available Good: Best
+* Highest-Possible Good: Perfect
+* Highest-Imaginable Good: Ideal
+
+We prefer keywords that are quick (low letter count, low syllable count) and clear (unique spelling/sound from other words, understandable-at-a-glimpse).
+
+### One Idea, One Combo
 
 We like basic-keywords and their short-combinations over new words with low-marginal-meaning. Example, words like "beautiful" and "handsome" are all replaced by "looks good".
 
