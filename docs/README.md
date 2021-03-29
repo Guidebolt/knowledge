@@ -2,7 +2,7 @@
 
 !!! Info
 
-	Update Date: 2021-03-22
+	Update Date: 2021-03-25
 	
 	Version: Alpha 0.2 (work in progress)
 
@@ -27,30 +27,6 @@ You live in a specific situation with limited abilities and possibilities. Ideal
 The personal computer is a key tool for everyone in the modern age. You want to know your options.
 
 [GUIDE](/guide/tools-computer)
-
-## Quick Links
-
-### ALL
-
-[Wikipedia](https://www.wikipedia.org/)
-
-Free online encyclopedia that anyone can edit. 
-
-[Wolfram Alpha](https://www.wolframalpha.com/)
-
-Computational search engine.
-
-### ME
-
-[MATWEB](http://matweb.com/) - material data library
-
-[Metric Thread Chart](http://www.shender4.com/metric_thread_chart.htm)
-
-### EE
-
-[Octopart](https://octopart.com/) - EE part inventory check
-
-[Ultra Librarian](https://www.ultralibrarian.com/) - ECAD symbol/footprint/3d-model library
 
 ## Explicit Recommendations
 

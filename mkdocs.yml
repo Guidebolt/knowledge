@@ -4,7 +4,7 @@ site_url: https://knowledge.guidebolt.com
 
 site_description: An efficient knowledge base with technical focus
 
-site_author: Guidebolt
+site_author: Guidebolt Inc.
 
 copyright: Creative Commons Zero
 
@@ -14,6 +14,8 @@ theme:
     name: material
     features:
         - navigation.instant
+        - navigation.expand
+        - navigation.sections
 
 markdown_extensions:
   - admonition

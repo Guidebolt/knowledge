@@ -1,5 +1,21 @@
 # Business
 
+2021-03-29
+
+## Top 3
+
+YEAR FOLDER. Reduce annual administrative burden by at least 10 hours (scales with business).
+
+For a given year, create a digital-storage folder (ex. companyABC-2021) for the business. Document every meaningful event as a file (typically pdf/png/text) within relevant subfolders (ex. expenses, revenues). Year folders are easy to backup and help reduce inefficient file-scatter.
+
+INPUT TAX CREDITS. Reduce annual expenses by about 10%.
+
+In Canada, sales tax (13% HST on domestic purchases) and import tax (5% GST on international imports) are considered "input tax credits" (ITCs) for commercial expenses. ITCs are fully refunded to businesses when they are accurately declared in their annual HST returns.
+
+DATA SECURITY. Reduce daily risk of malicious digital-attacks by at least 50% (relative to average business-person).
+
+Strong unique passwords in physical-only/digital-only storage. Need-to-know default access policy. Confirm-before-doing policy for major actions (ex. by email, by secret question). Attack method awareness (ex. spoofing, fake invoices, email/phone link/attachment attacks).
+
 ## Resources
 
 ARTICLE: Unicorns vs Horses
