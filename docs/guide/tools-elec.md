@@ -98,3 +98,14 @@ AMSCOPE, 7X-45X Simul-Focal Stereo Lockable Zoom Microscope on Dual Arm Boom Sta
 * metal levers
 
 ORDERING ID: SM-4NTP
+
+## USB-C CABLE, POWER
+
+ANKER, Powerline 3 USB-C to USB-C (white, 10ft) (female to female)
+
+Quality: Commercial, High
+
+* 60W max power
+* 480Mbps max speed (USB2 datarate)
+
+
