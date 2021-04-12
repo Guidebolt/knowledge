@@ -99,6 +99,24 @@ AMSCOPE, 7X-45X Simul-Focal Stereo Lockable Zoom Microscope on Dual Arm Boom Sta
 
 ORDERING ID: SM-4NTP
 
+## Fluid Dispenser
+
+NORDSON EFD, UltimusPlus 1 (10 to 100 psi, 2019 release)
+
+ORDERING ID: 7364361
+
+[PRODUCT PAGE](https://www.nordson.com/en/divisions/efd/products/fluid-dispensing-systems/ultimusplus-i-ii-dispensers)
+
+Note: We mainly use this to dispense solder paste and sometimes liquid-adhesive/potting compound. Includes a foot pedal for efficient/accurate manual dispensing. Instead of the touchscreen we prefer to use a wireless mouse (LOGITECH, M190). Use 80+ psi for fine gauge dispensing of solder paste; use steady mode for start-of-session purging (as noted in quick-start guide).
+
+ACCESSORIES:
+
+* 30cc adapter assembly, 0.9m (O-ID: 7012338)
+* 30cc syringe barrel and piston, 20-pack (O-ID, 7012136)
+* end cap, 20-pack (O-ID, 7012196)
+* tip cap, pack (O-ID, 7012198)
+* free dispensing tip kit
+
 ## USB-C CABLE, POWER
 
 ANKER, Powerline 3 USB-C to USB-C (white, 10ft) (female to female)
