@@ -67,6 +67,35 @@ Vernier Calipers (Backup): MITUTOYO, 530-312 (Dual-Unit, Mechanical) - [Product 
 
 Weight Scale: OHAUS, NVT22000 (22kg capacity. 4X overload protection. 1g accuracy. 4X C batteries or 4X AA batteries with adapters) - [Product Info](https://us.ohaus.com/en-US/Products/Balances-Scales/Portable-Balances/Navigator/Electronic-Balance-NVT22000-AM)
 
+## Compressed Air System
+
+AIR COMPRESSOR: MAKITA, MAC100Q (2019)
+
+[PRODUCT PAGE](https://www.makitatools.com/products/details/MAC100Q)
+
+* under 15kg, 4.5L tank, 90s fill, 135psi max, 58dB rating
+* tank gauge, output regulator, output gauge, manual bleed-valve
+* power switch, roll-cage design, power cord-wrap 
+
+Notes: We needed a quiet, compact, simple compressor for in-house PCBA solder-paste dispensing. This has been good so far (under 100hrs).
+
+AIR HOSE: Quick-Connect EPDM-Rubber Hose (3m, 1/4in I/M male to 1/4in I/M female, 1/2in OD, 300psi) (MCMASTERCARR, 5138K18)
+
+AIR FILTER-REGULATOR: SMC, CA Preparation Module (MCMASTERCARR, 3298N12)
+
+* aluminum body, gauge port (1/8in NPT)
+* 5 micron filter, for air/water
+* 145psi max, 7.25psi to 125psi regulator (3% accuracy, push-down knob-lock)
+* made in Japan, RoHS3
+
+Notes: This needs port accessories. See below. Mount all with sealant.
+
+* Input Adapter, 1/4in I/M Quick-C Male to 1/4in NPT Male (tape/compound)
+* Output Adapter, MCMASTERCARR, 7610N162: 1/4in NPT Male (O-ring typically included) to Push-to-Connect Female (for 6mm OD tubing, ISO 14743)
+* Drain Adapter, 1/4in NPT Male (tape/compound) to Any Stopper
+
+OUTPUT AIR TUBE: Clear Polyurethane Rubber Tubing (6mm OD, 4mm ID, 95A Durometer, 160psi max, Made in US, RoHS3, REACH) (MCMASTERCARR, 50315K69)
+
 ## Flashlight
 
 FENIX, HT18 (recommended)
