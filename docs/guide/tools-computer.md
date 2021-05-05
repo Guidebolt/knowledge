@@ -2,7 +2,45 @@
 
 !!! INFO
 
-	REV: 2020-02-17
+	REV: 2021-05-05
+
+## Networking
+
+Modem: TECHNICOLOR, TC4400 (4Gbps, DOCSIS 3.1)
+
+Router: NETGATE, SG-3100 (1Gbps ports, 2.5Gbps throughput)
+
+Wireless Access Point: UBIQUITI, Unifi AC Pro, UAP-AC-PRO (2.4GHz 3x3 450Mbps, 5GHz 3x3 1.3 Gbps, PoE)
+
+Power Bar, Surge Protector: TRIPP LITE, Isobar 6 Ultra
+
+Short Ethernet Cable: STEWART CONNECTOR, CA81-020M-01 (Cat 8.1, 2m, LSZH, RJ45 metal-frame terminations)
+
+Printer: HP, OFFICEJET PRO 9015
+
+SSD Enclosure: STARTECH, M2E1BRU31C (IP67, MIL-STD-810G drop-test, USB 3.1 Gen2 10Gbps)
+
+M.2 enclosures can be assembled into external data-drives for greater capacity, reliability, speed, and modularity than normal USB drives.
+
+USB Drive: SAMSUNG, Bar Plus 
+
+## Prepared USB Drives
+
+TRANSFER1 (general-purpose) (GPT, FAT)
+
+TRANSFER2 (general-purpose) (GPT, exFAT)
+
+EB1 (quick cold backup) (GPT, EXT4)
+
+MEMTEST86 [LINK](https://www.memtest86.com/)
+
+CLONEZILLA [LINK](https://clonezilla.org/)
+
+DEBIAN 
+
+UBUNTU
+
+WINDOWS
 
 ## Workstation Hardware
 
@@ -32,25 +70,7 @@ We like the efficiency and reliability of fanless designs, especially when suppo
 
 MOUSEPAD: RAZER, Gigantus V2, XXL (410mm x 910mm x 4mm)
 
-## Supporting Hardware
 
-Modem: TECHNICOLOR, TC4400 (4Gbps, DOCSIS 3.1)
-
-Security Gateway, Router: NETGATE, SG-3100 (1Gbps ports, 2.5Gbps throughput)
-
-Wireless Access Point: UBIQUITI, Unifi AC Pro, UAP-AC-PRO (1.3 Gbps at 5GHz channel)
-
-Power Bar, Surge Protector: TRIPP LITE, Isobar 6 Ultra
-
-Ethernet Cable, Cat 8.1, 2m: STEWART CONNECTOR, CA81-020M-01 (LSZH, RJ45 metal-frame terminations)
-
-Printer: HP, OFFICEJET PRO 9015
-
-SSD Enclosure: STARTECH, M2E1BRU31C (IP67, MIL-STD-810G drop-test, USB 3.1 Gen2 10Gbps)
-
-M.2 enclosures can be assembled into external data-drives for greater capacity, reliability, speed, and modularity than normal USB drives.
-
-USB Drive: SAMSUNG, Bar Plus 
 
 ## Operating System
 
@@ -91,11 +111,11 @@ We look for 2 major features in an efficient markdown editor:
 * Header menu for one-click navigation to internal headers.
 * HTML preview for one-click links to external websites.
 
-## Team Chat
+## TEAM CHAT
 
 STANDARD: [ZULIP](https://zulip.com/)
 
-(RECOMMENDED)
+(STRONGLY RECOMMENDED)
 
 ## MCAD
 
