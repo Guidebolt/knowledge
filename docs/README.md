@@ -2,9 +2,9 @@
 
 !!! Info
 
-	Update Date: 2021-03-25
+	Update Date: 2021-07-21
 	
-	Version: Alpha 0.2 (work in progress)
+	Version: Alpha 0.3 (work in progress)
 
 !!! About
 

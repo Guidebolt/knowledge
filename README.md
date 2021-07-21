@@ -16,12 +16,23 @@ mkdocs build --clean
 
 [mkdocs](https://www.mkdocs.org/)
 
-[material, theme](https://squidfunk.github.io/)
+[material, theme](https://squidfunk.github.io/mkdocs-material/)
 
 ## SERVER SYNCHRONIZE
 
 bash update-website.sh
 
+## QUICKSTART
+
+```
+
+sudo pip install mkdocs mkdocs-material
+
+cd /PATH/TO/KNOWLEDGE-REPO
+
+mkdocs serve
+
+```
 
 
 
