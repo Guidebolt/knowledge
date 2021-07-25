@@ -16,6 +16,8 @@
 	
 	We want to teach you the efficient truth with a technical focus for you to understand the world and get things done, correctly-quickly-consistently.
 
+## Quick 
+
 ## The Efficient Truth
 
 Information drives every thought, decision, and action. In our increasingly complex world where logic and trust are hard to weave confidently, it is easy to be misled by noise, incur unknown risks, and waste valuable resources. Truth is the fundamental solution.
@@ -30,7 +32,11 @@ The personal computer is a key tool for everyone in the modern age. You want to 
 
 ## Explicit Recommendations
 
-Throughout this resource, we explicitly write "recommend" and "strongly recommend" for what meets and exceeds our standard of resilient value after basic and thorough evaluation. We know the tool/part/material selection process can be extremely time-consuming and mistake-expensive. Rely on us to guide your procurement process through clear and confident suggestions for proven quality.
+Just because we use something does NOT mean that it is good!
+
+Sometimes we try something basic to build intuition about what makes something good. Sometimes we do not have time to research towards something great, so we settle for something ok. Sometimes we get something that we think is good then.. we realize it is not good.
+
+When we have truly found something good or great, we explicitly write "recommended" or "strongly recommended", for what meets and exceeds our standard of resilient value after basic and thorough evaluation. We know that the tool/part/material selection process can be extremely time-consuming and mistake-expensive. Rely on us to guide your procurement process through clear and confident suggestions for proven quality.
 
 ## Feedback
 

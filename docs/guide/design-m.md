@@ -1,14 +1,20 @@
 # Design, Mechanical
 
-REV: 2020-12-02
+REV: 2021-07-21
 
 ## Unit
 
-We use metric dimensions. 
+METRIC
 
-We try to use metric parts, materials, and tools where possible and practical.
+## Materials
+
+
 
 ## Fasteners
+
+STANDARD: Hex Socket Head Cap Screw, M6x1, Normal Head Size, A4SS, (12mm, 16mm, 20mm, 25mm, 30mm, 35mm, 40mm)
+
+Strong standard for higher mechanical loads with over 5kN proof load. It is dimensionally close to the half-inch imperial-standard (good universal compatibility). Threading standard for mechanical jigs (ex. aluminum-breadboards).
 
 THREAD SIZE.
 
@@ -32,8 +38,6 @@ M3 is our standard for small mechatronic devices. We usually prefer the marginal
 M4 is our strong standard for lower mechanical loads. It offers a proof load over 3000N (property class 5.8, middle-curve). It is used in the VESA international-mounting-standard.
 
 M5, we don't use much because it's marginally different from M4 and M6. 
-
-M6 is our strong standard for higher mechanical loads. It is dimensionally close to the half-inch imperial-standard and therefore offers good universal compatibility. It is the threading standard for mechanical jigs such as aluminum-breadboards for optical experimentation.
 
 M8 and M12 are reserved for specific applications requiring high-strength or high-opening-diameter (ex. circular-connectors, cable glands).
 

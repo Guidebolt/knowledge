@@ -2,15 +2,23 @@
 
 !!! INFO
 
-	REV: 2021-05-05
+	REV: 2021-07-21
 
 ## SAFETY
 
 SAFETY GLASSES: MILWAUKEE, 48-73-2040 (fully-framed clear lens with impact-resist and anti-fog, gasket)
 
+FUME EXTRACTOR: PUREX, FUMECUBE (with stainless steel arm kit, pre-filter, combo HEPA/chemical filter)
+
+ORDERING ID: 072155-1
+
+DISTRIBUTOR: TEQUIPMENT
+
 FUME EXTRACTOR: PACE, ARM-EVAC 150 with SteadyFlex Arm and Nozzle Assembly
 
 ORDERING ID: 8889-0150-P1
+
+DISTRIBUTOR: TEQUIPMENT
 
 * FIRE EXTINGUISHER
 * FIRST AID KIT
@@ -42,6 +50,14 @@ OSCILLOSCOPE
 SMALL 3D PRINTER: LULZBOT, Mini 2
 
 MEDIUM 3D PRINTER: LULZBOT, Taz Pro
+
+## CNC Machining
+
+5-Axis CNC Machine: BROTHER, Speedio
+
+(MFG: BROTHER) (INTL DIST: YAMAZEN) (EAST CANADA DIST: FERRO TECHNIQUE)
+
+
 
 ## Small Parts Storage
 
