@@ -1,38 +1,42 @@
 # README
 
-## LOCAL VIEW URI
+## Read Online
 
-http://127.0.0.1:8000/
+[https://k.guidebolt.com/](https://k.guidebolt.com/)
 
-## AUTOMATIC UPDATE OF LOCAL VIEW
-
-mkdocs serve
-
-## LOCAL BUILD COMMAND
-
-mkdocs build --clean
-
-## PACKAGES
-
-[mkdocs](https://www.mkdocs.org/)
-
-[material, theme](https://squidfunk.github.io/mkdocs-material/)
-
-## SERVER SYNCHRONIZE
-
-bash update-website.sh
-
-## QUICKSTART
+## Read Locally
 
 ```
+
+cd ~
+
+git clone https://github.com/Guidebolt/knowledge.git
 
 sudo pip install mkdocs mkdocs-material
 
-cd /PATH/TO/KNOWLEDGE-REPO
+cd knowledge/
 
 mkdocs serve
 
 ```
+
+[http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+
+## Create Static Website
+
+```
+
+cd ~/knowledge/
+
+mkdocs build --clean
+
+```
+
+## Dependencies
+
+Markdown to Static Site Converter: [mkdocs](https://www.mkdocs.org/)
+
+Visual Theme: [material](https://squidfunk.github.io/mkdocs-material/)
 
 
 
