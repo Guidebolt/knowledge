@@ -54,6 +54,8 @@ Some of our supply chain from a Canadian company perspective.
 
 [ALPHIDIA](https://www.quadhands.com/)
 
+[EPC](https://epc-co.com)
+
 ## PHYSICAL TOOLS DIRECT
 
 [NORDSON EFD](https://www.nordson.com)

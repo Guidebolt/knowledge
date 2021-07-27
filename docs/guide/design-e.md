@@ -1,8 +1,8 @@
-# Design E
+# Design, Electrical
 
 Official Guidebolt Electrical Design Guide
 
-Last Updated: 2021-03-22
+Last Updated: 2021-07-26
 
 ## Introduction
 
@@ -16,15 +16,27 @@ Great electrical designers have a deep understanding of resistance, capacitance,
 
 [Comparing Bus Solutions, rev C, by TI](https://www.ti.com/lit/an/slla067c/slla067c.pdf)
 
-## Basics
+## USB
 
-Unit Standard: Metric. Dimensions are mostly mm and um.
+[USB-IF DOC LIBRARY](https://www.usb.org/documents)
 
-Company-wide Lists: qualified vendor list (QVL), qualified parts list (QPL), shared symbol/footprint library.
+[USB2 SPEC-DL WEBPAGE, 2021-07-01](https://usb.org/document-library/usb-20-specification)
 
-Lifetime: 5 years MIN, 15 years TARGET MTBF
+[USB4 SPEC-DL WEBPAGE, 2021-06-09](https://www.usb.org/document-library/usb4tm-specification)
 
-Safety: RoHS-compliant (RoHS3, EU Directive 2015/863, without exemptions), halogen-free (IEC 61249-2-21), red-phosphorous-free, antimony-free, REACH-compliant (U Regulation 1907/2006, without candidate substances).
+[USB POWER DELIVERY SPEC-DL WEBPAGE, 2021-07-06](https://www.usb.org/document-library/usb-power-delivery)
+
+[USB Type-C REV2.1 SPEC-DL WEBPAGE, 2021-05-25](https://www.usb.org/document-library/usb-type-cr-cable-and-connector-specification-revision-21)
+
+[USB Type-C LOCKING SPEC-DL WEBPAGE, 2016-03-09](https://www.usb.org/document-library/usb-type-cr-locking-connector-specification)
+
+## Basic Standards and Targets
+
+METRIC, qualified vendor list (QVL), qualified parts list (QPL), curated parts library
+
+Lifetime: over 10yr target MTBF
+
+Composition: RoHS-compliant (RoHS3, EU Directive 2015/863, without exemptions), halogen-free (IEC 61249-2-21), red-phosphorous-free, antimony-free, REACH-compliant (EU Regulation 1907/2006, without candidate substances).
 
 Reliability: AEC-Q (target, grade 1), UL94-V0 flame resistance, glow-wire connectors, tin-finishes are matte-tin (reduced whiskering), operating temperature -40C to 85C MIN (-40C to 125C TARGET), MSL1 TARGET, MLCCs have soft-termination (bend-crack resistance), bulk capacitors are solid-material (ex. aluminum-polymer over aluminum-electrolytic for higher lifetime).
 

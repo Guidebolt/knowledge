@@ -1,34 +1,80 @@
 # Start
 
 !!! Info
-
-	Update Date: 2021-07-21
 	
-	Version: Alpha 0.3 (work in progress)
+	Last updated 2021-07-26. Version 0.3 alpha (work in progress). This is a free technical knowledge-base from our company-perspective.
 
-!!! About
+## Quick Links
 
-	Welcome to the Official Guidebolt Knowledge-Base.
+### Search
 
-	This is a free, public information resource for your benefit.
-	
-	This is a fraction of our private records based on our experience as a company.
-	
-	We want to teach you the efficient truth with a technical focus for you to understand the world and get things done, correctly-quickly-consistently.
+[Google](https://www.google.com/)
 
-## Quick 
+[DuckDuckGo](https://duckduckgo.com/)
+
+[Bing](https://www.bing.com)
+
+### Wide Library
+
+[Wikipedia](https://en.wikipedia.org)
+
+[Github](https://github.com/)
+
+### Calculator
+
+[RapidTables Conversion](https://www.rapidtables.com/convert/index.html)
+
+[Digikey Calculators](https://www.digikey.ca/en/resources/online-conversion-calculators)
+
+[WolframAlpha](https://www.wolframalpha.com/)
+
+### Forum
+
+[StackExchange](https://stackexchange.com/)
+
+[Reddit](https://www.reddit.com/)
+
+### Parts
+
+[Mcmaster-Carr](https://www.mcmaster.com/)
+
+---
+
+[Octopart](https://octopart.com/)
+
+[Mouser Canada](https://www.mouser.ca/)
+
+[Digikey Canada](https://www.digikey.ca/)
+
+[Arrow](https://www.arrow.com/)
+
+### Archive
+
+[Alldatasheet](https://www.alldatasheet.com/)
+
+[Internet Archive](https://archive.org/)
+
+### Narrow Library
+
+[MatWeb](http://www.matweb.com/)
+
+[Wikichip](https://en.wikichip.org/wiki/WikiChip)
+
+### News
+
+[Anandtech](https://www.anandtech.com/)
+
+[Tom's Hardware](https://www.tomshardware.com/)
+
+[HydraulicsPneumatics](https://www.hydraulicspneumatics.com/)
+
+## 
 
 ## The Efficient Truth
 
 Information drives every thought, decision, and action. In our increasingly complex world where logic and trust are hard to weave confidently, it is easy to be misled by noise, incur unknown risks, and waste valuable resources. Truth is the fundamental solution.
 
 You live in a specific situation with limited abilities and possibilities. Ideally, you map your best intent to the best path, then you take the best action to align reality with your intended future. In practice, you are heavily constrained by imperfect knowledge and limited thinking skills (ex. reading speed) in a world full of wrong ideas and irrelevant truths that can derail your pursuit of better knowledge for a better solution. Therefore, you want truths that are **relevant**; personalized for your situation/intent/path. Truths that are delivered **concisely**; personalized to your learning-curve for best speed and depth. Truths that you receive at the **best timing**; personalized for your schedule of learn-to-prepare and learn-while-doing. This is the efficient truth and it is the guiding solution.
-
-## Quick Start
-
-The personal computer is a key tool for everyone in the modern age. You want to know your options.
-
-[GUIDE](/guide/tools-computer)
 
 ## Explicit Recommendations
 

@@ -2,6 +2,10 @@
 
 2021-03-29
 
+## Resources
+
+[A Group Is Its Own Worst Enemy, 2003-07-01, Clay Shirky](https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html)
+
 ## Top 3
 
 YEAR FOLDER. Reduce annual administrative burden by at least 10 hours (scales with business).

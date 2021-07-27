@@ -1,4 +1,6 @@
-# Meta, Thinking Techniques
+# Meta, Reference
+
+Reference resources are expected to be accessed repeatedly. Therefore direct text works better than a PDF. 
 
 ## Think Time
 
