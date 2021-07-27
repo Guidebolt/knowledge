@@ -1,5 +1,7 @@
 # README
 
+Free public-access technical knowledge-base by [Guidebolt](https://guidebolt.com/)
+
 ## Read Online
 
 [https://k.guidebolt.com/](https://k.guidebolt.com/)
@@ -31,6 +33,8 @@ cd ~/knowledge/
 mkdocs build --clean
 
 ```
+
+Static files are generated at ~/knowledge/site
 
 ## Dependencies
 
