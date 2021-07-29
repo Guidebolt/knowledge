@@ -1,8 +1,34 @@
 # Design, Software
 
-REV: 2021-07-26
+REV: 2021-07-28
 
 Official Guidebolt Software-Design Guide
+
+## Reference
+
+[FreeRTOS](https://www.freertos.org)
+
+## Codebase, Build System
+
+[Canonical Project Structure (Code Synthesis)](http://open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1204r0.html)
+
+[C++ Style Guide (Google)](https://google.github.io/styleguide/cppguide.html)
+
+[Meson](https://mesonbuild.com/)
+
+## Graphics, VR/AR, Machine Vision
+
+[LearnOpenGL](https://learnopengl.com/)
+
+[VulkanTutorial](https://vulkan-tutorial.com/)
+
+[OpenXR Spec (Khronos Group)](https://www.khronos.org/registry/OpenXR/specs/1.0/html/xrspec.html)
+
+[DepthAI (Luxonis)](https://docs.luxonis.com/en/latest/)
+
+## Audio
+
+[DeepSpeech (Mozilla)](https://github.com/mozilla/DeepSpeech)
 
 ## Resources
 

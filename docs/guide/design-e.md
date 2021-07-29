@@ -2,11 +2,11 @@
 
 Official Guidebolt Electrical Design Guide
 
-Last Updated: 2021-07-26
+Last Updated: 2021-07-28
 
-## Introduction
+## Reference
 
-Great electrical designers have a deep understanding of resistance, capacitance, inductance in the complex source-sink-impedance dynamics of signal-power transmission. Forward and return paths (ground shift), parasitics (leakage, distortion) and electromagnetics (EMI, EMC), form-tradeoffs (size/weight) and thermals (real-time distribution, ambient expansion, operating range, cycling, MTBF effects). Whiskering and corrosion (ECM, CAF), part-protection (SMT/THT shock-resist, IP rating, TVS, moisture-sensitivity, conformal-coat/encapsulation), user-safety (fuses, flammability, total-impact of material-lifecycle). Stack-up definition (layers, surface finish, impedance control), production stress (reflow conduction-paths, flux activation, soldermask-defined-pads), quality-assurance (optical inspection, QVL/PPAP), performance-limits and failure-modes (FIT, cascading-events). User experience (silkscreen, connector-mechanisms) and ease-of-maintenance (top vs bottom assembly, universal footprints/pinouts), modularity (universal interfaces, multiple firmware options).
+[Wire Gauge Chart (Powerstream)](https://www.powerstream.com/Wire_Size.htm)
 
 ## Great Resources
 
@@ -29,6 +29,10 @@ Great electrical designers have a deep understanding of resistance, capacitance,
 [USB Type-C REV2.1 SPEC-DL WEBPAGE, 2021-05-25](https://www.usb.org/document-library/usb-type-cr-cable-and-connector-specification-revision-21)
 
 [USB Type-C LOCKING SPEC-DL WEBPAGE, 2016-03-09](https://www.usb.org/document-library/usb-type-cr-locking-connector-specification)
+
+## Introduction
+
+Great electrical designers have a deep understanding of resistance, capacitance, inductance in the complex source-sink-impedance dynamics of signal-power transmission. Forward and return paths (ground shift), parasitics (leakage, distortion) and electromagnetics (EMI, EMC), form-tradeoffs (size/weight) and thermals (real-time distribution, ambient expansion, operating range, cycling, MTBF effects). Whiskering and corrosion (ECM, CAF), part-protection (SMT/THT shock-resist, IP rating, TVS, moisture-sensitivity, conformal-coat/encapsulation), user-safety (fuses, flammability, total-impact of material-lifecycle). Stack-up definition (layers, surface finish, impedance control), production stress (reflow conduction-paths, flux activation, soldermask-defined-pads), quality-assurance (optical inspection, QVL/PPAP), performance-limits and failure-modes (FIT, cascading-events). User experience (silkscreen, connector-mechanisms) and ease-of-maintenance (top vs bottom assembly, universal footprints/pinouts), modularity (universal interfaces, multiple firmware options).
 
 ## Basic Standards and Targets
 

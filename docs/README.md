@@ -2,7 +2,7 @@
 
 !!! Info
 	
-	Last updated 2021-07-26. Version 0.3 alpha (work in progress). This is a free technical knowledge-base from our company-perspective.
+	Last updated 2021-07-28. Version 0.3 alpha (work in progress). This is a free technical knowledge-base from our company-perspective.
 
 ## Quick Links
 
@@ -20,7 +20,9 @@
 
 [Github](https://github.com/)
 
-### Calculator
+### Converters
+
+[Sejda](https://www.sejda.com/)
 
 [RapidTables Conversion](https://www.rapidtables.com/convert/index.html)
 
