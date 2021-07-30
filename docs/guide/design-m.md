@@ -8,13 +8,27 @@ METRIC
 
 ## Materials
 
+STANDARD: 6061 Aluminum
 
+STANDARD: 7075 Aluminum 
 
-## Fasteners
+STANDARD: A4 Stainless Steel (A4SS)
 
-STANDARD: Hex Socket Head Cap Screw, M6x1, Normal Head Size, A4SS, (12mm, 16mm, 20mm, 25mm, 30mm, 35mm, 40mm)
+## Fasteners, Hex Socket Head Cap Screw
+
+Common: Normal Head Size, A4SS
+
+Standard Lengths:
+
+M6x1 (12mm, 16mm, 20mm, 25mm, 30mm, 35mm, 40mm)
 
 Strong standard for higher mechanical loads with over 5kN proof load. It is dimensionally close to the half-inch imperial-standard (good universal compatibility). Threading standard for mechanical jigs (ex. aluminum-breadboards).
+
+M4 (10mm, 14mm, 16mm, 20mm, 25mm)
+
+M3 (6mm, 8mm, 10mm, 12mm, 16mm, 20mm, 30mm)
+
+## 
 
 THREAD SIZE.
 

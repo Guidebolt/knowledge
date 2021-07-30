@@ -60,6 +60,8 @@ Some of our supply chain from a Canadian company perspective.
 
 [NORDSON EFD](https://www.nordson.com)
 
+[KVASER](https://www.kvaser.com/)
+
 ## DIGITAL TOOLS DIRECT
 
 [AUTODESK](https://www.autodesk.ca)

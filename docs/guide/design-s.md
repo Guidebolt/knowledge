@@ -8,11 +8,13 @@ Official Guidebolt Software-Design Guide
 
 [FreeRTOS](https://www.freertos.org)
 
-## Codebase, Build System
+## Codebase, Version Control, Build System
 
 [Canonical Project Structure (Code Synthesis)](http://open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1204r0.html)
 
 [C++ Style Guide (Google)](https://google.github.io/styleguide/cppguide.html)
+
+[Git](https://git-scm.com/)
 
 [Meson](https://mesonbuild.com/)
 
@@ -30,11 +32,13 @@ Official Guidebolt Software-Design Guide
 
 [DeepSpeech (Mozilla)](https://github.com/mozilla/DeepSpeech)
 
-## Resources
+## General
 
 The Art of Unix Programming
 
 [TEXT](https://archive.org/stream/ost-computer-science-the_art_of_unix_programming-1/the_art_of_unix_programming%20%281%29_djvu.txt) [PDF](https://ia800202.us.archive.org/27/items/ost-computer-science-the_art_of_unix_programming-1/the_art_of_unix_programming%20%281%29.pdf)
+
+## C, C++
 
 Thriving in a Crowded and Changing World: C++ 2006–2020 (STROUSTRUP)
 
@@ -56,38 +60,23 @@ C Coding Guidelines for Critical Systems (2004) (MISRA)
 
 [PDF](http://caxapa.ru/thumbs/468328/misra-c-2004.pdf)
 
-## Basics
+## Notes
 
-We have different types of software:
+SW Types: embedded, general-purpose
 
-* Embedded
-* General-Purpose
-* 
+Preferred Languages: Python (fast abstract), PHP (fast-deploy web-dev), C (embedded, simple high-rel programs), C++ (complex high-performance programs)
 
-We like these programming languages:
+Preferred VCS: Git
 
-* Python
-* PHP
-* C
-* C++
+## Standards
 
-Python is good for general-purpose scripting and abstract programming.
-
-PHP is good for fast-deploy web-development. We like the LEMP stack (linux, nginx, mysql, php).
-
-C is good for embedded programming and simpler general-purpose programs.
-
-C++ is good for more complex general-purpose programs with performance optimization.
-
-## Data Management
-
-All source code must be ultimately organized in a single-umbrella-element (file or folder) per software-module. The single-umbrella must be specific to that module.
+All source code must be ultimately organized in a single umbrella-element (file or folder) per software project/module. The single-umbrella must be specific to that module.
 
 REASON: A single umbrella element is easier to share, back-up, and reference. It is clear where supporting data should be organized; at the start of the file or within the top folder (ex. README file, docs folder).
 
-All source code must be organized with documentation to make it useful (ex. compile, install, run). This documentation should be proportional to the complexity/specialness of the use-process.
+All comments shall use inline comment syntax (ex. //).
 
-All long-term source-code and supporting-data must be version-controlled with GIT.
+All source code should be organized with documentation to make it useful (ex. compile, install, run). This documentation should be proportional to the complexity/specialness of the use-process.
 
 
 

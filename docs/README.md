@@ -36,20 +36,6 @@
 
 [Reddit](https://www.reddit.com/)
 
-### Parts
-
-[Mcmaster-Carr](https://www.mcmaster.com/)
-
----
-
-[Octopart](https://octopart.com/)
-
-[Mouser Canada](https://www.mouser.ca/)
-
-[Digikey Canada](https://www.digikey.ca/)
-
-[Arrow](https://www.arrow.com/)
-
 ### Archive
 
 [Alldatasheet](https://www.alldatasheet.com/)
