@@ -14,7 +14,7 @@ STANDARD: 7075 Aluminum
 
 STANDARD: A4 Stainless Steel (A4SS)
 
-## Fasteners, Hex Socket Head Cap Screw
+## Screw, Hex Socket Head Cap Screw
 
 Common: Normal Head Size, A4SS
 
@@ -29,6 +29,16 @@ M4-0.7 (10mm, 14mm, 16mm, 20mm, 25mm)
 M3-0.5 (6mm, 8mm, 10mm, 12mm, 16mm, 20mm, 30mm)
 
 M2.5-0.45 (6mm, 8mm, 10mm, 12mm, 16mm)
+
+## Threaded Insert, Press-Fit
+
+Common: Aluminum or SS
+
+M4 (6.3mm DIA hole, 6.7mm LG insert)
+
+M3 (4.7mm DIA hole, 5.84mm LG insert)
+
+M2.5 (4.7mm DIA hole, 5.84mm LG insert)
 
 ## 
 
