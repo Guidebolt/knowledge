@@ -278,21 +278,23 @@ NANUK - [Product Info](https://www.nanuk.com/)
 
 MILWAUKEE, Packout Series - [Product Info](https://www.milwaukeetool.com/Products/Storage-Solutions/PACKOUT)
 
-RECOMMENDED (also in process of qualifying for strong recommendation)
+(RECOMMENDED)
+
+The most time-efficient small-parts organizer that we know. Semi-transparent top, durable frame, removable subcontainers, quiet and ergonomic latches. 
+
+Low Profile Organizer (ORDERING ID: MILWAUKEE, 48-22-8431) 
+
+Standard Organizer (ORDERING ID: MILWAUKEE, 48-22-8430)
+
+Deep Organizer (ORDERING ID: MILWAUKEE, 48-22-8432)
+
+Mounting Plate (ORDERING ID: MILWAUKEE, 48-22-8485)
 
 Ever since we discovered that these containers can be stacked then opened individually WITHOUT unstacking them, they have become an efficient, compact, regularly-used part of our small-parts strategy.
-
-We prefer using the low-profile organizers.
-
-ORDERING ID: MILWAUKEE, 48-22-8431
-
-To our knowledge there is no better unenergized small-parts organizer that offers such good and versatile time-efficiency sequencing:
 
 * For fastest multi-access, take out the desired subcontainers from the main-containers and place on table. Return the subcontainers to the main-containers when the heavy-access period is finished. 
 * For faster access, stack all main-containers vertically with the bottom mounted to a fixed surface and leave all latches open. Set a backwall such that all main-containers can be opened for access yet cannot be opened to the point the top containers would start to scatter their parts.
 * For fast access, stack and bottom-mount the same as above but close 1 or both latches for a secure hold (no protective backwall required). 
-
-Hard frame organizers with at least a transparent-top are faster to see and access than individual bags. Prefer organizers with removable subcontainers for ease of parts transfer. We recommend the packout series for its sturdy single-frame construction, convenient latching stackability, and ergonomic primary latches.
 
 ## CHEMICALS
 
