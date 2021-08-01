@@ -76,6 +76,8 @@ Some of our supply chain from a Canadian company perspective.
 
 [TEKSAVVY](https://www.teksavvy.com/)
 
+[KASE INSURANCE](https://kaseinsurance.com/)
+
 [RBC](https://www.rbcroyalbank.com)
 
 [ARCADIA SOLUTION](https://www.mytaxexpress.com/t2index.html)
