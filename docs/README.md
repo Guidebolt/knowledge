@@ -2,7 +2,7 @@
 
 !!! Info
 	
-	Last updated 2021-07-28. Version 0.3 alpha (work in progress). This is a free technical knowledge-base from our company-perspective.
+	Last updated 2021-08-10. Version 0.3 alpha (work in progress). This is a free technical knowledge-base from our company-perspective.
 
 ## Quick Links
 
