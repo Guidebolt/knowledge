@@ -53,11 +53,46 @@ MEDIUM 3D PRINTER: LULZBOT, Taz Pro
 
 ## CNC Machining
 
-5-Axis CNC Machine: BROTHER, Speedio
+5-Axis CNC Machine: BROTHER, Speedio M200X3 (3050kg, LWH: 3.1m x 1.3m x 2.6m, UNIT MFG: 2020-09)
 
-(MFG: BROTHER) (INTL DIST: YAMAZEN) (EAST CANADA DIST: FERRO TECHNIQUE)
+(INTL DIST: YAMAZEN) (EAST CANADA DIST: FERRO TECHNIQUE)
 
+The default North America model includes:
 
+* 16k rpm spindle with dual-contact BT30 spindle-toolholder interface
+* 22-slot automatic tool-changer (1.4s chip-chip) (0.8s tool-tool)
+* top cover
+* PLC
+* A-axis clamp (turning axis) and C-axis clamp (4th axis)
+* chip shower and 150L coolant tank with chute
+* automatic grease lubricator
+* Coolant-Thru-Spindle Interface (CTSI) (WARNING: requires 1.5MPa, double-check)
+
+Extras:
+
+* hydraulic interface
+
+Dedicated Phase Converter: Phase Technologies, PTE010RQT-H3S1 (Phase Perfect Enterprise, 10HP, NEMA 3R, Quiet, On/Off Switch, Protec Surge Protection, 30kg) (input 1-phase 240VAC, output 3-phase 240VAC with max steady-state 36A and class 10 thermal-overload motor-starting)
+
+Dedicated Step-Down Transformer: 3-phase 240VAC to 3-phase 220VAC, isolation, 10kVA (WARNING: machine requires 200 to 230VAC)
+
+Dedicated Air Compressors: Makita, MAC320Q (2 parallel units for 165L/min at 0.5MPa)
+
+Vise:
+
+Adapter Plate: 
+
+Toolholder1:
+
+Tool1:
+
+Toolholder2:
+
+Tool2:
+
+Toolholder3:
+
+Tool3:
 
 ## Small Parts Storage
 
