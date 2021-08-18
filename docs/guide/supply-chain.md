@@ -82,6 +82,10 @@ Some of our supply chain from a Canadian company perspective.
 
 [ARCADIA SOLUTION](https://www.mytaxexpress.com/t2index.html)
 
+[FREEDOM MOBILE CANADA](https://www.freedommobile.ca/en-CA)
+
+Good value prepaid plans. We like the 179 CAD/year (15/mth) for unlimited nationwide calling/texting and 5GB/yr.
+
 ## SHIPPING
 
 We love shipping companies that save us time. We do not want to spend hours calling customer support or driving to a warehouse or waiting in-line or investigating payment errors.
