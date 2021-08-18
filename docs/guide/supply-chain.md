@@ -74,17 +74,11 @@ Some of our supply chain from a Canadian company perspective.
 
 [NAMECHEAP](https://www.namecheap.com/)
 
-[TEKSAVVY](https://www.teksavvy.com/)
-
 [KASE INSURANCE](https://kaseinsurance.com/)
 
 [RBC](https://www.rbcroyalbank.com)
 
 [ARCADIA SOLUTION](https://www.mytaxexpress.com/t2index.html)
-
-[FREEDOM MOBILE CANADA](https://www.freedommobile.ca/en-CA)
-
-Good value prepaid plans. We like the 179 CAD/year (15/mth) for unlimited nationwide calling/texting and 5GB/yr.
 
 ## SHIPPING
 
@@ -99,6 +93,16 @@ Purolator (drivers show up on time)
 Canada Post (balanced back-up option)
 
 Fedex (enough issues in the past so we do not proactively use them currently, but most of the time have good incoming shipments from other vendors)
+
+## TELECOM
+
+[TEKSAVVY](https://www.teksavvy.com/)
+
+One of the only pro-consumer telcos in Canada, actively trying to reduce prices while improving service.
+
+[FREEDOM MOBILE CANADA](https://www.freedommobile.ca/en-CA)
+
+Good value prepaid plans. We like the 179 CAD/year (15/mth) for unlimited nationwide calling/texting and 5GB/yr.
 
 ## Notes
 
