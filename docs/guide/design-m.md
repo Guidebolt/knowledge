@@ -96,7 +96,13 @@ Preferred: easy-to-clean, see process list below.
 * cold-water rinse
 * hot-water rinse
 
-## FASTENERS
+## Fasteners
 
 * Dowel, Screw
 * Helicoil
+
+## Construction
+
+[BuildingScience](https://www.buildingscience.com/)
+
+[Belinda Carr](https://www.youtube.com/channel/UC_NzYRcT5IroUsMU2472ViQ)
