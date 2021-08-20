@@ -30,6 +30,10 @@ Official Guidebolt Software-Design Guide
 
 ## Audio
 
+[Pipewire](https://pipewire.org/)
+
+[Alsa](https://alsa-project.org)
+
 [DeepSpeech (Mozilla)](https://github.com/mozilla/DeepSpeech)
 
 ## General
