@@ -2,9 +2,35 @@
 
 2021-03-29
 
-## Resources
+## Certifications
+
+[UL](https://www.ul.com/)
+
+[CSA](https://www.csagroup.org/)
+
+[Intertek](https://www.intertek.com/)
+
+[TUV](https://www.tuv.com/canada/en/)
+
+[DLS](https://www.dlsemc.com/)
+
+[OSHWA](https://certification.oshwa.org/)
+
+## Canada Government Resources
+
+[Ontario Made](https://www.supportontariomade.ca/)
+
+[Made in Canada](https://www.competitionbureau.gc.ca/eic/site/cb-bc.nsf/eng/03169.html)
+
+[Ontario Gov, Business and Economy](https://www.ontario.ca/page/business-and-economy)
+
+[Canada Gov, Business](https://www.canada.ca/en/services/business.html)
+
+## Ideas
 
 [A Group Is Its Own Worst Enemy, 2003-07-01, Clay Shirky](https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html)
+
+
 
 ## Top 3
 
@@ -69,16 +95,6 @@ What are the specific steps of real work that must be done from now to success
 * Quality
 * Cost
 * Speed
-
-## Canada Government Resources
-
-[Ontario Made](https://www.supportontariomade.ca/) - Registration
-
-[Made in Canada](https://www.competitionbureau.gc.ca/eic/site/cb-bc.nsf/eng/03169.html) - Information
-
-[Ontario Gov, Business and Economy](https://www.ontario.ca/page/business-and-economy)
-
-[Canada Gov, Business](https://www.canada.ca/en/services/business.html)
 
 ## The Plan
 
