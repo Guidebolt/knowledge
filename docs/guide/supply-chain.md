@@ -56,11 +56,13 @@ Some of our supply chain from a Canadian company perspective.
 
 [EPC](https://epc-co.com)
 
-## PHYSICAL TOOLS DIRECT
+## HARDWARE DIRECT
 
 [NORDSON EFD](https://www.nordson.com)
 
 [KVASER](https://www.kvaser.com/)
+
+[MOLDEX](https://www.moldex.com)
 
 ## DIGITAL TOOLS DIRECT
 
