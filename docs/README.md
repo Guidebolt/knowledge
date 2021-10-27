@@ -2,7 +2,16 @@
 
 !!! Info
 	
-	Last updated 2021-08-10. Version 0.3 alpha (work in progress). This is a free technical knowledge-base from our company-perspective.
+	Last updated 2021-10-27. Version 0.4 alpha (work in progress). This is a free technical knowledge-base from our company-perspective.
+	
+## Data Export
+
+For any reason (ex. offline access, backup, remix), you can [download this resource](https://github.com/Guidebolt/knowledge/archive/master.zip) (markdown-text source files) or explore its [Github repo](https://github.com/guidebolt/knowledge/).
+
+For identical local UI, use [MkDocs](https://www.mkdocs.org/) static-site-generator with the [Material](https://squidfunk.github.io/mkdocs-material/) theme.
+
+All data in this resource is licensed as [CC0](https://creativecommons.org/publicdomain/zero/1.0/) where both legally permissible and otherwise legally undefined.
+
 
 ## Quick Links
 
@@ -79,14 +88,6 @@ Email us at [info@guidebolt.com](mailto:info@guidebolt.com)
 OR
 
 Click on the edit-button (top-right of the page) to suggest a change on [Github](https://github.com/guidebolt/knowledge/)
-
-## Export This Resource
-
-This resource uses the [MkDocs](https://www.mkdocs.org/) markdown-to-html converter for static-site generation with a theme called [Material](https://squidfunk.github.io/mkdocs-material/).
-
-All source files (markdown, configuration, documentation) can be accessed at Github [here](https://github.com/guidebolt/knowledge/).
-
-All source files (latest version) can be downloaded as a single zip-file [here](https://github.com/Guidebolt/knowledge/archive/master.zip).
 
 ## Guidebolt Links
 
