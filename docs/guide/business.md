@@ -1,6 +1,17 @@
 # Business
 
-2021-03-29
+2021-11-04
+
+For real-time text chat, we use [Zulip](https://zulip.com/). Recommended.
+
+For real-time voice chat, we use [Discord](https://discord.com/) and [Google Meet](https://meet.google.com/).
+
+For project management and collaborative text documents, we use [Notion](https://www.notion.so).
+
+For project version control with small-to-medium-size files, we use [Github](https://github.com/). Recommended.
+
+For generic file storage, we use [Google Drive](https://drive.google.com).
+
 
 ## Certifications
 

@@ -1,10 +1,10 @@
-# Design, Software
+# Software Dev
 
-REV: 2021-07-28
-
-Official Guidebolt Software-Design Guide
+REV: 2021-11-09
 
 ## Reference
+
+[Real Time Linux](https://wiki.linuxfoundation.org/realtime/start)
 
 [FreeRTOS](https://www.freertos.org)
 
