@@ -2,11 +2,13 @@
 
 !!! Info
 	
-	Last updated 2021-11-09. Version 0.4 alpha (work in progress). This is a free technical knowledge-base from our company-perspective.
+	Last updated 2021-11-10. Version 0.4 alpha (work in progress). This is a free technical knowledge-base from our company-perspective.
 	
+Information drives every thought, decision, and action. In our increasingly complex world where logic and trust are hard to weave confidently, it is easy to be misled by noise, incur unknown risks, and waste valuable resources. Truth is the fundamental solution.	
+
 ## First Time Here
 
-[Introduction](/intro)
+Get the most from this resource: [Introduction](/intro)
 
 Set up your main tool: [Computer](/computer)
 
@@ -32,6 +34,7 @@ Get:
 
 Find: 
 [Octopart](https://octopart.com/),
+[EverySpec](http://everyspec.com/),
 [Alldatasheet](https://www.alldatasheet.com/), 
 [Library Genesis](https://libgen.is/), 
 [Sci-Hub](https://sci-hub.st/),

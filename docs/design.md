@@ -1,70 +1,65 @@
 # Design
 
-We value functional design. The system must work.
+2021-11-10
 
-* Performance. It must work well.
-* Longevity. It must work for a long time.
-* Reliability. 
-* Durability. It must work without breaking.
-
-Design for human users and bystanders.
-
-MIL-STD-1472, Design Standard, Human Engineering 
-
-[MIL-STD-1472, EVERYSPEC](http://everyspec.com/MIL-STD/MIL-STD-1400-1499/MIL-STD-1472H_57041/)
-
-[GENERAL DESIGN STANDARD](../../guides/general-design)
-
-# General, Design
+The pursuit of good design through good design thinking.
 
 In hardware development, you arrange physical atoms. In software development, you arrange abstract states. In both cases, you plan the interactive sequence of the system.
 
-## Efficiency
+## Assorted Reading
 
-* Power Efficiency
-* Volume Efficiency
-* Mass Efficiency
+Human Engineering: [MIL-STD-1472, archived on EVERYSPEC](http://everyspec.com/MIL-STD/MIL-STD-1400-1499/MIL-STD-1472H_57041/)
 
-## Speed
+## Design Goals
 
-* Motion
-* Data Transmission
-* Data Processing
+**Basic 1**: Safety, Performance, Reliability, Durability, Longevity
 
-## Sequence
+Note: durability means it does not break easily, longevity means it generally works for a long time, reliability means it consistently works (during its specified lifetime, even if non-critical parts break easily). Something can be reliable and fragile/short-lived.
 
-* Danger Removal
-* Danger Reduction
-* Shielding
-* Signaling
+**Basic 2**: Size, Weight, Form, Noise, Power, Functional Efficiency (input-output)
 
-## Ergonomics
+**Lifecycle**: Design for... Manufacturing, Transportation, Storage, Assembly, Deployment, Configuration, Customization, Maintenance, Repair, Removal, Recycling
 
-* Rounded Corners and Edges (Comfortable Handling)
-* Handle (Intuitive Carrying)
-* Grab Points (Non-Slip Lifting)
-* Low Thermal Conductivity (Warm Handling)
-* Tactile Response (Input-Detect Confirmation)
+**Environment**: Design for... Temperature (ex. thermal expansion), Ingress (ex. dust/dirt/water), Erosion (natural/artificial), Corrosion, Sunlight (ex. UV exposure), Precipitation (avoid standing water, assess drip dynamics for externalities)
 
-## Intuition
+## Safety
 
-* Left-to-Right Sequence (Observe/Interact)
-* Top-to-Bottom Sequence (Observe/Interact)
+**Safety Methods**: Danger Removal, Danger Reduction, Shielding, Lockout, Signaling, Intuitive Interface (subconsciously guide safe user experience), Instructions
 
-## Edge Cases
+**Failure Planning**: Self-Test (Start-up, Dynamic), Pre-Failure Signals/Mechanisms, Graceful Failure, Human Error Tolerance, Blackbox Logging (identify root cause, improve next version)
 
-* Rolling Stopper (Recovery from Fall on Angled Surface)
-* Distinct Color relative to Application Environments (Detection)
+Functional Safety:
+[IEC 61508](https://webstore.iec.ch/publication/5515) (industrial), 
+[ISO 26262](https://www.iso.org/standard/68383.html) (automotive),
+[IEC 60730](https://webstore.iec.ch/publication/3117) (household)
 
-## Ease of Cleaning
+## Common
 
-* Smooth Surfaces
-* Hand-Fitting Internal Volumes
-* Compatible with Water Immersion and Spray
-* Minimal Contact with Floor
-* Non-Magnetic Exterior
-* Non-Adhesive Exterior
-* Cleaning-Chemical-Compatible Exterior
+**Common Events**: Impact Test (random shock), Compression Test (random weight), Drop Test (avoid damage/injury/shatter/chip)
+
+**Dynamic Environment**: Rolling Stopper (Recovery from Fall on Angled Surface), Relatively-Distinct Color (Lost-and-Found Detection)
+
+**Cleaning**: Smooth Surfaces, Hand-Fitting Internal Volumes, Compatible with Water Immersion and Spray, Minimal Contact with Floor, Easy-Clean Exterior (non-magnetic, non-adhesive, cleaning-chemical-compatible)
+
+## Optimization
+
+Efficiency
+
+**Speed**: Motion, Data Transmission, Data Processing, Chemical Reaction Rate
+
+## Usability
+
+**Constrained Use**: One-Handed Use, Independent Use, Low-Tactile-Sense Use, Color-Blind Use, Impaired Vision Use, Impaired Hearing Use, Long-Distance Use, Awkward-Angle Use
+
+**Ergonomic Methods**: Rounded Corners and Edges (Comfortable Handling), Handle (Intuitive Carrying), Grab Points (Non-Slip Lifting), Low Thermal Conductivity (Warm Handling), Tactile Feedback (Correct-Input Signal)
+
+**Intuitive Sequence**: Left-to-Right, Top-to-Bottom
+
+## Reliability
+
+Automotive Part Standards: [AEC Qualification](http://www.aecouncil.com/AECDocuments.html)
+
+
 
 ## Ease of Maintenance
 
@@ -80,16 +75,6 @@ In hardware development, you arrange physical atoms. In software development, yo
 
 * Parallel Surfaces (Grip-Mounting)
 * Hole (Screw or Cord)
-
-## Impaired and Constrained Use
-
-* One Handed Use
-* Low-Tactile-Sense Use
-* Color-Blind Use
-* Blind Use
-* Deaf Use
-* Long-Distance Use
-* Awkward-Angle Use
 
 ## Compact Operation
 
@@ -140,12 +125,6 @@ In hardware development, you arrange physical atoms. In software development, yo
 * Chemical Resistance
 * UV Resistance
 * Environmental Corrosion, Galvanic Corrosion
-
-## Automotive Standards
-
-* AEC-Q100 (Integrated Circuits)
-* AEC-Q101 (Discrete Semiconductors)
-* AEC-Q200 (Passive Parts)
 
 ## Military Standards
 

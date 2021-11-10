@@ -55,6 +55,8 @@ Digital Illustration: [Clip Studio Paint](http://www.clipstudio.net/en) - Popula
 
 MCAD: [Autodesk Inventor](https://www.autodesk.com/products/inventor/overview) with [Product Design and Manufacturing Collection](https://www.autodesk.com/collections/product-design-manufacturing/overview)
 
+MCAD Collaborative PDM: [GrabCAD Workbench](https://grabcad.com/workbench)
+
 ECAD: [Kicad](https://www.kicad.org/) (strongly recommended)
 
 We use this for most of our schematic-to-PCB ECAD work. This is a good free, open-source, cross-platform EDA suite sponsored by CERN and increasingly supported by the industry.
