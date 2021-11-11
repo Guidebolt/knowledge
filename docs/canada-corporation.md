@@ -1,8 +1,6 @@
 # Canada Corporation
 
-!!! INFO
-
-	REV: 2020-12-15
+2021-11-10
 
 ## Registration
 
@@ -10,18 +8,13 @@ In Canada, federal corporations are registered with [Corporations Canada](https:
 
 Before registration, the prospective name of a new federal corporation must be verified with a [NUANS corporate name search report](https://www.ic.gc.ca/eic/site/075.nsf/eng/home).
 
-Registration (incorporation) always occurs under a specific corporate legislation. Canada offers 2 main corporate legislations:
-
-* Canada Business Corporations Act (CBCA)
-* Canada Not-for-profit Corporations Act (CNCA)
-
-The CNCA is similar to the CBCA and only differs in 2 major ways:
+We are registered under the Canada Not-for-profit Corporations Act (CNCA). It differs from a standard business corporation in 2 major ways:
 
 1. All CNCA companies are non-stock corporations. Instead of shareholders, they have directors, officers, and members.
 
 2. All CNCA companies must prepare financial-statements/audits by a certified public accountant if the company exceeds legally-specified thresholds.
 
-Explore:
+Assorted Reading:
 
 [CNCA, Basics](https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/cs07310.html)
 

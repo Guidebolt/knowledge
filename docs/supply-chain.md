@@ -4,37 +4,33 @@
 
 Some of our supply chain from a Canadian company perspective.
 
-## MECH STANDARD DIST
+## Distributors
 
-[HOME DEPOT](https://www.homedepot.ca)
-
-[GRAINGER CANADA](https://www.grainger.ca)
-
-[MCMASTER-CARR](https://www.mcmaster.com/)
-
-## ELEC STANDARD PARTS DIST
-
-[MOUSER CANADA](https://www.mouser.ca/)
-
-[DIGIKEY CANADA](https://www.digikey.ca/)
-
-[ARROW](https://www.arrow.com/)
-
-## OTHER DIST
-
-[TEQUIPMENT](https://www.tequipment.net/)
-
+Common:
+[HOME DEPOT](https://www.homedepot.ca), 
+[BESTBUY](https://www.bestbuy.ca),
 [BHPHOTOVIDEO](https://www.bhphotovideo.com/)
 
-[RCC ELECTRONICS](https://www.rcce.com/)
+Mech Common:
+[GRAINGER CANADA](https://www.grainger.ca), 
+[MCMASTER-CARR](https://www.mcmaster.com/)
 
-[BESTBUY](https://www.bestbuy.ca)
+Elec Common: 
+[MOUSER CANADA](https://www.mouser.ca/),
+[DIGIKEY CANADA](https://www.digikey.ca/),
+[ARROW](https://www.arrow.com/)
 
+Elec Equipment:
+[TEQUIPMENT](https://www.tequipment.net/),
+[RCC ELECTRONICS](https://www.rcce.com/),
 [MLTEST](https://www.mltest.com/)
 
-[ANDYMARK](https://www.andymark.com/)
+Materials:
+[METAL SUPERMARKETS](https://www.metalsupermarkets.com)
 
-[ATLAS TOOLS](https://www.atlas-machinery.com/)
+Other:
+[ATLAS TOOLS](https://www.atlas-machinery.com/),
+[ANDYMARK](https://www.andymark.com/)
 
 ## PARTS MFG DIRECT
 
@@ -71,8 +67,6 @@ Some of our supply chain from a Canadian company perspective.
 ## OTHER
 
 [LETS ENCRYPT](https://letsencrypt.org/)
-
-[FASTMAIL](https://www.fastmail.com/)
 
 [NAMECHEAP](https://www.namecheap.com/)
 

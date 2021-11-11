@@ -1,6 +1,8 @@
-# Software Dev
+# Design, Software
 
-REV: 2021-11-09
+REV: 2021-11-11
+
+The design and development of good software systems.
 
 ## Reference
 

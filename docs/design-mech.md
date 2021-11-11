@@ -1,6 +1,8 @@
 # Design, Mechanical
 
-REV: 2021-07-21
+2021-11-11
+
+The design and development of good mechanical systems.
 
 ## Unit
 
