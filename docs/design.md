@@ -4,6 +4,24 @@
 
 Good design comes from good design thinking. In hardware development, you arrange physical atoms. In software development, you arrange abstract states. In both cases, you plan the interactive sequence of the system.
 
+## Standard Design Model
+
+Unlimited Possibility Space: An idea of a space where absolutely anything can happen. The greater your imagination, the greater fraction of this space is thinkable.
+
+Available Possibility Space: What is possible in the world within a certain timeframe, from a collective or individual perspective of control.
+
+Goals: The common-abstract and application-specific reasons for considering a design space in the first place.
+
+General Branching: Grouping similar possibilities under a single keyword and concept (or a single key-phrase and its set of concepts). Remove a clearly-bad branch from the design space to simplify the consideration (deletion or single-branch-focusing is very risky). Important to remove only the bad branch and not let it overlap with a fraction of good branches!
+
+Optimization: Think of different options that maximize particular strengths or minimize particular weaknesses. Look for and remove false tradeoffs to enable absolute improvements towards a more balanced design.
+
+Prioritization: Decide the best balance of strengths and weaknesses, given the reality of fundamental tradeoffs that remain after optimization. 
+
+Specific Completion: The comprehensive completion of all design details required to build a prototype or produce at scale.
+
+## Standard Design Procedure
+
 ## Assorted Reading
 
 Human Engineering: [MIL-STD-1472, archived on EVERYSPEC](http://everyspec.com/MIL-STD/MIL-STD-1400-1499/MIL-STD-1472H_57041/)

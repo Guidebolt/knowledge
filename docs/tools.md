@@ -1,4 +1,4 @@
-# Tools, Lab
+# Tools
 
 !!! INFO
 

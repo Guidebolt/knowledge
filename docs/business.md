@@ -23,6 +23,7 @@ Collaborative Documents: [Google Drive](https://drive.google.com)
 Notable Standards:
 
 * Time Format: [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) (strongly recommended)
+* Text Format: [Markdown](https://commonmark.org/) (strongly recommended)
 * Project Management: [ISO 21502:2020](https://www.iso.org/standard/74947.html) 
 
 Certifications: 
@@ -32,6 +33,10 @@ Certifications:
 [TUV](https://www.tuv.com/canada/en/),
 [DLS](https://www.dlsemc.com/),
 [OSHWA](https://certification.oshwa.org/)
+
+## Opportunities
+
+[CanadaBuys](https://canadabuys.canada.ca)
 
 ## Canada Government Resources
 
@@ -53,12 +58,7 @@ Certifications:
 
 [Ebook: The Great CEO Within, Matt Mochary](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8)
 
-
-
-
-
-
-## Assorted Ideas
+## Misc
 
 YEAR FOLDER. Reduce annual administrative burden by at least 10 hours (scales with business).
 

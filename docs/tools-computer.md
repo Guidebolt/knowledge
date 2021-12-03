@@ -76,6 +76,10 @@ CAD Alternatives:
 
 [Atom](https://atom.io/) - Free, simple, customizable integrated development environment (IDE). Developed by Github.
 
+[Silver Searcher](https://geoff.greer.fm/ag/) - CLI text search tool (ag).
+[Github Repo](https://github.com/ggreer/the_silver_searcher)
+
+
 ## Utility
 
 RAM Testing: [MEMTEST86](https://www.memtest86.com/)

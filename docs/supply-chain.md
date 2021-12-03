@@ -34,10 +34,6 @@ Other:
 
 ## PARTS MFG DIRECT
 
-[TEXAS INSTRUMENTS](https://www.ti.com/)
-
-[MICROCHIP](https://www.microchip.com/)
-
 [CHIP QUIK](https://chipquik.com)
 
 [ASROCK INDUSTRIAL](https://www.asrockind.com/)
@@ -50,7 +46,17 @@ Other:
 
 [ALPHIDIA](https://www.quadhands.com/)
 
+## Electronic Parts MFG
+
+[TEXAS INSTRUMENTS](https://www.ti.com/)
+
+[MICROCHIP](https://www.microchip.com/)
+
+[DIODES INCORPORATED](https://www.diodes.com/)
+
 [EPC](https://epc-co.com)
+
+[ONSEMI](https://www.onsemi.com/)
 
 ## HARDWARE DIRECT
 
