@@ -2,6 +2,10 @@
 
 Reference resources are expected to be accessed repeatedly.
 
+## Links
+
+[LessWrong](https://www.lesswrong.com/)
+
 ## Think Time
 
 * think-time modeling (structured thinking about why and how mental work takes time)

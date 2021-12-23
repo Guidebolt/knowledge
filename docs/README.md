@@ -2,17 +2,19 @@
 
 !!! Info
 	
-	Last updated 2021-11-11. Version 0.4 alpha (work in progress). This is a free technical knowledge-base from our company-perspective.
+	Last updated 2021-12-23. Version 0.41 alpha (work in progress). This is a free technical knowledge-base from our company-perspective.
 	
 Information drives every thought, decision, and action. In our increasingly complex world where logic and trust are hard to weave confidently, it is easy to be misled by noise, incur unknown risks, and waste valuable resources. Truth is the fundamental solution.	
+
+[Changelog](/changelog)
 
 ## First Time Here
 
 Get the most from this resource: [Introduction](/intro)
 
-Set up your main tool: [Tools, Computer](/tools-computer)
+Set up your main tool: [Computer Tools](/tools-computer)
 
-## Common Links 1
+## Links 1
 
 Search:
 [DuckDuckGo](https://duckduckgo.com/),
@@ -28,9 +30,9 @@ Search:
 Get:
 [Mouser](https://www.mouser.ca/),
 [Digikey](https://www.digikey.ca/),
+[Arrow](https://www.arrow.com/),
 [Grainger](https://www.grainger.ca),
 [McmasterCarr](https://www.mcmaster.com/),
-[Texas Instruments](https://www.ti.com/),
 
 Find: 
 [Octopart](https://octopart.com/),
@@ -38,8 +40,9 @@ Find:
 [Alldatasheet](https://www.alldatasheet.com/), 
 [Library Genesis](https://libgen.is/), 
 [Sci-Hub](https://sci-hub.st/),
-[MatWeb](http://www.matweb.com/),
 [Internet Archive](https://archive.org/)
+
+Material Property Data: [MatWeb](http://www.matweb.com/)
 
 Chat:
 [Fastmail](https://www.fastmail.com),
@@ -53,27 +56,119 @@ Edit:
 [Google Drive](https://drive.google.com),
 [Sejda](https://www.sejda.com/)
 
-Research:
-[Wikichip](https://en.wikichip.org/wiki/WikiChip)
+Utility:
+[RapidTables Conversion](https://www.rapidtables.com/convert/index.html),
+[Digikey Calculators](https://www.digikey.ca/en/resources/online-conversion-calculators),
+[Qualys SSL-Labs Website Security Test](https://www.ssllabs.com/ssltest/)
+
+Earth View: 
+[NASA EOSDIS Worldview](https://worldview.earthdata.nasa.gov/),
+[NASA ISS UStream](https://www.nasa.gov/multimedia/nasatv/iss_ustream.html),
+[Google Earth](https://earth.google.com)
 
 Guidebolt:
 [Main Website](https://guidebolt.com/)
 
-## Special
+## Links 2
 
+Forum:
+[Hacker News](https://news.ycombinator.com/),
+[Practical Machinist](https://www.practicalmachinist.com),
+[Wikichip](https://en.wikichip.org/wiki/WikiChip),
+[EEVblog Forum](https://www.eevblog.com/forum/),
+[Reddit Preppers](https://www.reddit.com/r/preppers/),
+[Reddit Datahoarder](https://www.reddit.com/r/DataHoarder/)
 
+News:
+[HydraulicsPneumatics](https://www.hydraulicspneumatics.com/),
 
-### Assorted
+## Links 3
 
-[Anandtech](https://www.anandtech.com/)
+Common (Canada):
+[AMAZON](https://www.amazon.ca/),
+[HOME DEPOT](https://www.homedepot.ca), 
+[BESTBUY](https://www.bestbuy.ca),
 
-[Tom's Hardware](https://www.tomshardware.com/)
+Mechanical:
+[GRAINGER CANADA](https://www.grainger.ca), 
+[MCMASTER-CARR](https://www.mcmaster.com/),
+[ULINE](https://www.uline.ca/)
 
-[HydraulicsPneumatics](https://www.hydraulicspneumatics.com/)
+Electrical (Parts):
+[TI](https://www.ti.com/),
+[MICROCHIP](https://www.microchip.com/),
+[DIODES](https://www.diodes.com/),
+[EPC](https://epc-co.com),
+[ONSEMI](https://www.onsemi.com/),
+[MPS](https://www.monolithicpower.com/),
+[INFINEON](https://www.infineon.com/),
+[RENESAS](https://www.renesas.com),
+[ANALOG DEVICES](https://www.analog.com),
+[NXP](https://www.nxp.com/),
+[ST](https://www.st.com),
+[AMS](https://ams.com),
+[TDK](https://www.tdk.com),
+[MURATA](https://www.murata.com),
+[LITTELFUSE](https://www.littelfuse.com/),
 
-[RapidTables Conversion](https://www.rapidtables.com/convert/index.html)
+Electrical:
+[AMD](https://www.amd.com),
+[SAMSUNG](https://www.samsung.com)
 
-[Digikey Calculators](https://www.digikey.ca/en/resources/online-conversion-calculators)
+Certification:
+[UL](https://www.ul.com/),
+[CSA](https://www.csagroup.org/),
+[INTERTEK](https://www.intertek.com/),
+[TUV](https://www.tuv.com/canada/en/),
+[DLS](https://www.dlsemc.com/),
+[OSHWA](https://certification.oshwa.org/)
+
+Standards:
+[ISO](https://www.iso.org),
+[JEDEC](https://www.jedec.org/),
+[IEC](https://www.iec.ch)
+
+Networking:
+[NAMECHEAP](https://www.namecheap.com/),
+[LETS ENCRYPT](https://letsencrypt.org/),
+
+Networking (Canada):
+[TEKSAVVY](https://www.teksavvy.com/),
+[FREEDOM MOBILE CANADA](https://www.freedommobile.ca/en-CA)
+
+Business:
+[KASE INSURANCE](https://kaseinsurance.com/)
+
+Financial (Canada):
+[RBC](https://www.rbcroyalbank.com),
+[ARCADIA SOLUTION](https://www.mytaxexpress.com/t2index.html)
+
+Assorted:
+[ATLAS TOOLS](https://www.atlas-machinery.com/),
+[ANDYMARK](https://www.andymark.com/),
+[CHIP QUIK](https://chipquik.com),
+[ASROCK INDUSTRIAL](https://www.asrockind.com/),
+[IGUS](https://www.igus.ca),
+[3D FUEL](https://www.3dfuel.com/),
+[BASELABTOOLS](https://www.baselabtools.com/),
+[ALPHIDIA](https://www.quadhands.com/),
+[NORDSON EFD](https://www.nordson.com),
+[KVASER](https://www.kvaser.com/),
+[MOLDEX](https://www.moldex.com),
+[METAL SUPERMARKETS](https://www.metalsupermarkets.com),
+[TEQUIPMENT](https://www.tequipment.net/),
+[RCC ELECTRONICS](https://www.rcce.com/),
+[MLTEST](https://www.mltest.com/),
+[BHPHOTOVIDEO](https://www.bhphotovideo.com/)
+
+Preferred Shipping:
+[DHL](https://www.dhl.com)
+
+Shipping:
+UPS,
+CANADA POST,
+PUROLATOR,
+FEDEX
 
 ## Export This Resource
 

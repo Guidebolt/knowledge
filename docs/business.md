@@ -26,14 +26,6 @@ Notable Standards:
 * Text Format: [Markdown](https://commonmark.org/) (strongly recommended)
 * Project Management: [ISO 21502:2020](https://www.iso.org/standard/74947.html) 
 
-Certifications: 
-[UL](https://www.ul.com/),
-[CSA](https://www.csagroup.org/),
-[Intertek](https://www.intertek.com/),
-[TUV](https://www.tuv.com/canada/en/),
-[DLS](https://www.dlsemc.com/),
-[OSHWA](https://certification.oshwa.org/)
-
 ## Opportunities
 
 [CanadaBuys](https://canadabuys.canada.ca)
