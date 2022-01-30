@@ -4,7 +4,14 @@
 
 	REV: 2021-07-21
 
-## SAFETY
+## Supplies
+
+DUCT TAPE: 3M No Residue, 2425-HD (strong, waterproof, clean removal within 6 months, UL 723 compliant fire-resist) (normal reel 48mm wide x 22.8m length) (recommended) 
+
+* [3M CANADA](https://www.3mcanada.ca/3M/en_CA/p/d/v000274856/)
+* [3M US](https://www.3m.com/3M/en_US/p/dc/v000250015/)
+
+## Safety
 
 SAFETY GLASSES: MILWAUKEE, 48-73-2040 (fully-framed clear lens with impact-resist and anti-fog, gasket)
 
