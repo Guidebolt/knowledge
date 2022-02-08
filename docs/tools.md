@@ -2,7 +2,7 @@
 
 !!! INFO
 
-	REV: 2021-07-21
+	REV: 2022-02-07
 
 ## Supplies
 
@@ -337,6 +337,10 @@ Ever since we discovered that these containers can be stacked then opened indivi
 * For fastest multi-access, take out the desired subcontainers from the main-containers and place on table. Return the subcontainers to the main-containers when the heavy-access period is finished. 
 * For faster access, stack all main-containers vertically with the bottom mounted to a fixed surface and leave all latches open. Set a backwall such that all main-containers can be opened for access yet cannot be opened to the point the top containers would start to scatter their parts.
 * For fast access, stack and bottom-mount the same as above but close 1 or both latches for a secure hold (no protective backwall required). 
+
+## INDOOR UPGRADES
+
+Soap Dispenser: Frost 702 (20mL foaming manual pump, 1L universal reservoir)
 
 ## CHEMICALS
 
