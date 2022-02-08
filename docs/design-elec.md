@@ -16,6 +16,18 @@ The design and development of good electronic systems.
 
 [Comparing Bus Solutions, rev C, by TI](https://www.ti.com/lit/an/slla067c/slla067c.pdf)
 
+## Instruction Set Architecture
+
+ISA: Complex, Reduced (General), Reduced (Graphics)
+
+AMD, Intel, Nvidia
+
+[RISC-V International](https://riscv.org/)
+
+[ARM](https://www.arm.com)
+
+[SiFive](https://www.sifive.com/)
+
 ## USB
 
 [USB-IF DOC LIBRARY](https://www.usb.org/documents)
