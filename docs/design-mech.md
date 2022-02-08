@@ -36,6 +36,8 @@ M2.5-0.45 (6mm, 8mm, 10mm, 12mm, 16mm)
 
 Common: Aluminum or SS
 
+M6 (7.9mm DIA hole, 8mm LG insert)
+
 M4 (6.3mm DIA hole, 6.7mm LG insert)
 
 M3 (4.7mm DIA hole, 5.84mm LG insert)
