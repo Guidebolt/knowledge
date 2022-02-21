@@ -181,5 +181,7 @@ MOLEX, PICO-LOCK, 2MM
 ```
 RoHS-compliant, REACH-compliant, Halogen-Free (fully; header, receptacle, terminal).
 
+## NOTES
 
+When current flows through a trace, its temperature approaches infinity; when a soldering tip touches a pad, its temperature approaches the tip temperature. 
 
