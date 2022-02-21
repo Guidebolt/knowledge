@@ -4,7 +4,9 @@ REV: 2021-11-11
 
 The design and development of good software systems.
 
-## Reference
+Languages: Python (fast abstract), PHP (fast-deploy web-dev), C (embedded, simple high-rel programs), C++ (complex high-performance programs)
+
+## Real Time OS
 
 [Real Time Linux](https://wiki.linuxfoundation.org/realtime/start)
 
@@ -16,7 +18,9 @@ The design and development of good software systems.
 
 [C++ Style Guide (Google)](https://google.github.io/styleguide/cppguide.html)
 
-[Git](https://git-scm.com/)
+[Git](https://git-scm.com/) (strongly recommended)
+
+[Github](https://github.com/)
 
 [Meson](https://mesonbuild.com/)
 
@@ -65,14 +69,6 @@ The Power of Ten - Rules for Developing Safety Critical Code (2006) (NASA)
 C Coding Guidelines for Critical Systems (2004) (MISRA)
 
 [PDF](http://caxapa.ru/thumbs/468328/misra-c-2004.pdf)
-
-## Notes
-
-SW Types: embedded, general-purpose
-
-Preferred Languages: Python (fast abstract), PHP (fast-deploy web-dev), C (embedded, simple high-rel programs), C++ (complex high-performance programs)
-
-Preferred VCS: Git
 
 ## Standards
 
