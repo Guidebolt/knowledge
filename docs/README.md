@@ -2,7 +2,7 @@
 
 !!! Info
 	
-	Last updated 2021-12-23. Version 0.41 alpha (work in progress). This is a free technical knowledge-base from our company-perspective.
+	Last updated 2022-02-21. Version 0.42 alpha (work in progress). This is a free technical knowledge-base from our company-perspective.
 	
 Information drives every thought, decision, and action. In our increasingly complex world where logic and trust are hard to weave confidently, it is easy to be misled by noise, incur unknown risks, and waste valuable resources. Truth is the fundamental solution.	
 
@@ -172,9 +172,15 @@ FEDEX
 
 ## Export This Resource
 
-For any reason (ex. offline access, backup, remix), you can [download this resource](https://github.com/Guidebolt/knowledge/archive/master.zip) (markdown-text source files) or explore its [Github repo](https://github.com/guidebolt/knowledge/).
+The entirety of this resource is comprised of 2 parts: the markdown text and the files library
 
-For identical local UI, use [MkDocs](https://www.mkdocs.org/) static-site-generator with the [Material](https://squidfunk.github.io/mkdocs-material/) theme.
+Full Markdown Archive: [Github Repo Download](https://github.com/Guidebolt/knowledge/archive/master.zip)
+
+Full Files Archive: Compressed Download TBD
+
+---
+
+The static website was generated using [MkDocs](https://www.mkdocs.org/) with the [Material](https://squidfunk.github.io/mkdocs-material/) theme.
 
 All data in this resource is licensed as [CC0](https://creativecommons.org/publicdomain/zero/1.0/) where both legally permissible and otherwise legally undefined.
 
