@@ -160,8 +160,6 @@ SPECIAL:
 * UL Recognized
 * UL Listed
 
-# PARTS-ELEC
-
 ## CONNECTOR, WIRE-TO-BOARD
 
 MOLEX, BOARD-IN, 2.5MM

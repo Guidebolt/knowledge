@@ -1,20 +1,18 @@
 # Business
 
-2021-11-10
-
 ## Common Tools
 
 Email: [Fastmail](https://www.fastmail.com/) (recommended)
 
 Real-Time Text Chat: [Zulip](https://zulip.com/) (recommended)
 
+Project Version Control (Low-to-Medium Filesize): [Github](https://github.com/) (recommended)
+
+Online Meetings: [Google Meet](https://meet.google.com/) (recommended)
+
 Real-Time Voice Chat: [Discord](https://discord.com/)
 
 Project Management and Collaborative Notes: [Notion](https://www.notion.so)
-
-Small-to-Medium-Data Project Version Control: [Github](https://github.com/) (recommended)
-
-Online Meetings: [Google Meet](https://meet.google.com/) (recommended)
 
 Collaborative Documents: [Google Drive](https://drive.google.com)
 
@@ -22,7 +20,7 @@ Collaborative Documents: [Google Drive](https://drive.google.com)
 
 Notable Standards:
 
-* Time Format: [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) (strongly recommended)
+* Time Format: [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) (ex. 2022-12-31) (strongly recommended)
 * Text Format: [Markdown](https://commonmark.org/) (strongly recommended)
 * Project Management: [ISO 21502:2020](https://www.iso.org/standard/74947.html) 
 
