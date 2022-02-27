@@ -2,7 +2,7 @@
 
 !!! Info
 	
-	Last updated 2022-02-22. Version 0.42 alpha (work in progress). This is a free technical knowledge-base from our company-perspective.
+	Guidebolt Public Knowledge-Base. Last updated 2022-02-22. Version 0.42 alpha (work in progress).
 	
 Information drives every thought, decision, and action. In our increasingly complex world where logic and trust are hard to weave confidently, it is easy to be misled by noise, incur unknown risks, and waste valuable resources. Truth is the fundamental solution.	
 

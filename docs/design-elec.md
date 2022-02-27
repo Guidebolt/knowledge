@@ -50,139 +50,52 @@ AMD, Intel, Nvidia
 
 [Design Limits, Candor Webpage](https://www.candorind.com/design-limits/)
 
-## Basic Standards and Targets
+## Design Quality Standards and Targets
 
-METRIC, qualified vendor list (QVL), qualified parts list (QPL), curated parts library
+METRIC, qualified vendor list (QVL), qualified parts list (QPL)
 
-Lifetime: over 10yr target MTBF
+Composition: RoHS-compliant (RoHS3, EU Directive 2015/863, without exemptions), halogen-free (IEC 61249-2-21), red-phosphorous-free, antimony-free, REACH-compliant (EU Regulation 1907/2006, without candidate substances)
 
-Composition: RoHS-compliant (RoHS3, EU Directive 2015/863, without exemptions), halogen-free (IEC 61249-2-21), red-phosphorous-free, antimony-free, REACH-compliant (EU Regulation 1907/2006, without candidate substances).
+Reliability: 10yr+ MTBF, IPC-2/3 fab class, ENIG surface finish, AEC-Q (target, grade 1), UL94-V0 flame resistance, glow-wire connectors, tin-finishes are matte-tin (reduced whiskering), operating temperature -40C to 85C MIN (-40C to 125C TARGET), MSL1 TARGET, soft-termination MLCCs (bend-crack resistance), aluminum-polymer bulk capacitors (high lifetime)
 
-Reliability: AEC-Q (target, grade 1), UL94-V0 flame resistance, glow-wire connectors, tin-finishes are matte-tin (reduced whiskering), operating temperature -40C to 85C MIN (-40C to 125C TARGET), MSL1 TARGET, MLCCs have soft-termination (bend-crack resistance), bulk capacitors are solid-material (ex. aluminum-polymer over aluminum-electrolytic for higher lifetime).
+Form: 1608 metric size, 4xM3 mounting holes, rounded corners (5mm+ radius), green soldermask (optical ergonomics), white silkscreen
 
-Usability: 1608 metric size TARGET (ease-of-assembly/repair), 4 mounting holes (square or rectangle pattern TARGET).
+Options: conformal-coating, encapsulation
 
-Ergonomics: rounded corners (major radius 5mm MIN).
-
-Options: conformal-coating, encapsulation.
-
-## PCB
-
-Fabrication Class: must be IPC-2 or IPC-3 for traditional fab.
-
-Surface Finish: must be ENIG.
-
-Soldermask Color: Green
-
-Silkscreen Color: White
-
-Electrical Testing: Yes
-
-Impedance Control: Yes for high-frequency or analog PCBs.
+MFG: electrical testing, impedance control (for high-frequency, precision-analog)
 
 Material: high thermal stability (ex. low-CTE, cycling tolerance, high electromechanical stability, high thermal conductivity (ex. 0.7W/mK is a good non-ceramic benchmark), good impedance-properties (ex. low relative-permittivity, low dissipation-factor).
 
-Assembly: Must use lead-free solder. Preferred alloy is SAC305. Must use low-activity no-halogen (category L0) flux. Preferred flux is no-clean IPA-washable (good performance without cleaning but can be cleaned).
+Assembly: lead-free solder (SAC305 preferred), low-activity no-halogen flux (category L0) (no-clean IPA-washable preferred)
 
-## FOOTPRINTS
+Footprints: pad rounded-corner (0.05mm), BGA pads soldermask-defined, thermal reliefs for THT and high-maintenance SMT
 
-All pads must have rounded corners with radius 0.05mm MIN.
+Vias: full-depth preferred
 
-BGA footprint pads are generally recommended to be soldermask-defined.
+Via Standards (type, drill dia, ring dia):
 
-SMT pads and reflow THT pads can be solid-connected to conductor-planes.
+* vias-in-pad (0.2mm, 0.25mm)
+* compact (0.25mm, 0.3mm)
+* traditional (0.4mm, 0.8mm)
+* thermal (0.5mm, 0.6mm)
 
-Easy-maintenance SMT pads and selective THT pads should have thermal-reliefs.
+Other: board-edge to silkscreen (0.2mm+)
 
-## VIAS
+Silkscreen: reference-designator for each part-footprint (ideal), remove designators when space is limited (use fab drawing for assembly), complete perimeter outline per footprint (incomplete outline for space; dotted/dashed outline for flux-scatter, ex. high-rel BGA assembly), functional label for every external pin
 
-We prefer full-depth vias (normal plated-thru-hole, no blind or buried). 
-
-Vias-in-pad are good for space and thermals. We use them with exposed-pad-ICs when we have space.
-
-Via sizes:
-
-```
-Drill Dia, Annular Ring Dia
-
-Small: 0.2mm, 0.25mm (vias-in-pad standard)
-
-Compact: 0.25mm, 0.3mm (advanced-fab standard)
-
-Normal: 0.4mmm, 0.8mm (traditional-fab standard)
-
-0.4/0.8 is the default via size in Kicad (popular). It requires a large-enough drill bit that breaks/wears less than smaller sizes (cost-effective).
-
-Easy: 0.5mm, 1.2mm (IPC-2221 Level-A)
-
-```
-
-## SPACING
-
-board-edge to silkscreen, min 0.2mm
-
-board-edge to external-layer-conductor, min 0.25mm
-
-board-edge to internal-layer-conductor, min 0.5mm
-
-board-edge to hole-edge, minimum 1mm
-
-via-hole-edge to pad-edge spacing, minimum 0.2mm
-
-via-hole-edge to via-hole-edge spacing, minimum 0.5mm
-
-Footprints are spaced to support part-holding with tweezers (0.8mm tip-thickness).
-
-Same-net pads can be closer together. Different-net pads should be further apart.
-
-## SILKSCREEN
-
-Attempt to have a reference-designator for each part-footprint.
-
-Attempt to have a complete perimeter outline per part-footprint. In some cases a broken/dotted line is important for flux-scatter (ex.  high-reliability BGA assembly).
-
-Must have a functional-label per external-pin.
-
-MINIMUM:
+Silkscreen Standard:
 
 * Company Name (ex. Guidebolt)
 * Part ID (ex. SOMEPART-MK1R3)
 * Batch ID (ex. 2021-01-20_XYZFAB)
 * MFG Origin (ex. Made in Canada with imported parts)
 
-SPECIAL:
-
-* flammability marker (ex. UL94V-0)
-* WEEE directive marker
-* RoHS
-* REACH
-* CE
-* UL Recognized
-* UL Listed
-
-## CONNECTOR, WIRE-TO-BOARD
-
-MOLEX, BOARD-IN, 2.5MM
-
-Our STANDARD for high-reliability non-detaching signal and low-power applications.
-
-[PRODUCT OVERVIEW](http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987652-2132.PDF)
-
-[PRODUCT SPECIFICATION](https://www.molex.com/pdm_docs/ps/2124150000PS-000.pdf)
-
-```
-Designed for automotive and industrial applications at -40C to 125C operating temp (with heat-resistant wire) and compatible with FLRY wire sizes (0.22mm², 0.35mm²).
-
-Design is thru-hole and non-detachable (header-terminal assembly) for high-reliability. Contact resistance remains <10mohm after 50G shock, 48hr salt-spray, 40min ammonia-exposure (NH3), or 24hr sulfur-exposure (SO2).
-
-RoHS-compliant, REACH-compliant, Halogen-Free (fully; header, terminal).
-```
-
-MOLEX, PICO-LOCK, 2MM
-
-RoHS-compliant, REACH-compliant, Halogen-Free (fully; header, receptacle, terminal).
+Special Markings: flammability (ex. UL94V-0), WEEE directive, RoHS, REACH, CE, UL Recognized, UL Listed
 
 ## NOTES
 
 When current flows through a trace, its temperature approaches infinity; when a soldering tip touches a pad, its temperature approaches the tip temperature. 
 
+Footprints are spaced to support part-holding with tweezers (0.8mm tip-thickness).
+
+Same-net pads can be closer together. Different-net pads should be further apart.
