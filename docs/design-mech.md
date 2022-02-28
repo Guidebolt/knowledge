@@ -1,26 +1,54 @@
 # Design, Mechanical
 
-2021-11-11
-
 The design and development of good mechanical systems.
 
-## Unit
+## Aesthetic-Functional Design
 
-METRIC
+(industrial design, product design)
+
+Form and Function:
+
+1. Form follows function: Durable, Comfortable, Compact (priorities)
+
+2. Form adds function: Improvised Table, Handle, Mounting Point (examples)
+
+3. Form has function: Aesthetic (ex. feelings), Intuition (ex. learning how to use something without instructions)
+
+---
+
+Principles: 
+
+1. Consistent Design Language
+
+2. Aesthetic-Conceptual Alignment
+
+3. Easy-to-Use During Emergencies
+
+---
+
+Forums:
+
+[https://www.reddit.com/r/IndustrialDesign/](https://www.reddit.com/r/IndustrialDesign/)
+
+---
+
+Books:
+
+The Design of Everyday Things - Revised and Expanded Edition (2013, Don Norman)
+
+The Design of Future Things (2009, Donald A Norman)
+
+Handbook of Human Factors and Ergonomics (2021, 5th Edition, Gavriel Salvendy and Waldermar Karwowski)
 
 ## Materials
 
-STANDARD: 6061 Aluminum
+Every physical system is made of materials.
 
-STANDARD: 7075 Aluminum 
+Preferred: 6061/7075 Aluminum, A4 Stainless Steel (A4SS)
 
-STANDARD: A4 Stainless Steel (A4SS)
+## Screws
 
-## Screw, Hex Socket Head Cap Screw
-
-Common: Normal Head Size, A4SS
-
-Standard Lengths:
+Standard Type: Hex-Socket-Head Cap Screw (normal head size, A4 stainless steel)
 
 M6x1 (12mm, 16mm, 20mm, 25mm, 30mm, 35mm, 40mm)
 
