@@ -1,10 +1,10 @@
 # Knowledge Theory
 
-Reference resources are expected to be accessed repeatedly.
+## Top 5 Common Mistakes
 
-## Links
+1. Subconscious Overdependence: Waiting a long time with a blank mind hoping your subconscious will deliver the answer. 
 
-[LessWrong](https://www.lesswrong.com/)
+2. 
 
 ## Think Time
 

@@ -1,10 +1,10 @@
 # Changelog
 
-## 0.42 (2022-02-22)
+## 0.42 (2022-03-03)
 
 Updated knowledge-base architecture as 2-part source (markdown text, files library).
 
-Updated electrical-design.
+Significantly improved main page.
 
 ## 0.41 (2021-12-23)
 

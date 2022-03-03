@@ -42,7 +42,9 @@ Handbook of Human Factors and Ergonomics (2021, 5th Edition, Gavriel Salvendy an
 
 ## Materials
 
-Every physical system is made of materials.
+Molecular Perspective: Elements, Compounds, Mixtures
+
+[Table of Elements, PTABLE](https://ptable.com)
 
 Preferred: 6061/7075 Aluminum, A4 Stainless Steel (A4SS)
 

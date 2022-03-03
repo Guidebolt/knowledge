@@ -70,15 +70,13 @@ C Coding Guidelines for Critical Systems (2004) (MISRA)
 
 [PDF](http://caxapa.ru/thumbs/468328/misra-c-2004.pdf)
 
-## Standards
-
-All source code must be ultimately organized in a single umbrella-element (file or folder) per software project/module. The single-umbrella must be specific to that module.
-
-REASON: A single umbrella element is easier to share, back-up, and reference. It is clear where supporting data should be organized; at the start of the file or within the top folder (ex. README file, docs folder).
+## Notes
 
 All comments shall use inline comment syntax (ex. //).
 
-All source code should be organized with documentation to make it useful (ex. compile, install, run). This documentation should be proportional to the complexity/specialness of the use-process.
+
+
+
 
 
 
