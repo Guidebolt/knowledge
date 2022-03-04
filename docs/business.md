@@ -16,19 +16,15 @@ Project Management and Collaborative Notes: [Notion](https://www.notion.so)
 
 Collaborative Documents: [Google Drive](https://drive.google.com)
 
-## Basic
-
-Notable Standards:
-
-* Time Format: [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) (ex. 2022-12-31) (strongly recommended)
-* Text Format: [Markdown](https://commonmark.org/) (strongly recommended)
-* Project Management: [ISO 21502:2020](https://www.iso.org/standard/74947.html) 
-
-## Opportunities
-
-[CanadaBuys](https://canadabuys.canada.ca)
-
 ## Canada Government Resources
+
+Opportunities: [CanadaBuys](https://canadabuys.canada.ca)
+
+Federal Company Registration and Maintenance: [Corporations Canada](https://corporationscanada.ic.gc.ca)
+
+Corporate Name Search: [Canada Nuans](https://www.ic.gc.ca/eic/site/075.nsf/eng/home)
+
+[Canada, Business](https://www.canada.ca/en/services/business.html)
 
 [Ontario Made](https://www.supportontariomade.ca/)
 
@@ -36,9 +32,47 @@ Notable Standards:
 
 [Ontario, Business and Economy](https://www.ontario.ca/page/business-and-economy)
 
-[Canada, Business](https://www.canada.ca/en/services/business.html)
-
 [Canada, Innovation Superclusters](https://www.ic.gc.ca/eic/site/093.nsf/eng/home)
+
+## Example: Guidebolt Inc.
+
+We are federally registered under the Canada Not-for-profit Corporations Act (CNCA). Notably, this means that we are a non-stock corporation 
+
+We required extraprovincial registration with Ontario.
+
+Note: The federal corporation number (ID with Corporations Canada) is different from the federal business number (ID with Canada Revenue Agency).
+
+Maintenance: 
+
+* Annual Return (to Corporations Canada)
+* Annual Financial Statements (balance sheet, income statement)
+* Annual HST Return (to CRA)
+* Annual/Quarterly Payroll Deductions (to CRA)
+
+Documents:
+
+* NUANS Report
+* Certificate of Incorporation
+* Articles of Incorporation
+* Corporate Info Sheet
+* Registered Office and Board of Directors
+* Extraprovincial Registrations
+
+Assorted Reading:
+
+[CNCA, Basics](https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/cs07310.html)
+
+[CNCA, Problems and Solutions, Mcmillan, 2010](https://mcmillan.ca/Files/121633_Practitioners%20Guide%20to%20the%20New%20Canada%20Not%20for%20Profit%20Corporations%20Act%20(Wayne%20Gray)%20(2010).pdf)
+
+[CNCA, Legal Text](https://laws-lois.justice.gc.ca/eng/acts/C-7.75/)
+
+## Basic
+
+Notable Standards:
+
+* Time Format: [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) (ex. 2022-12-31) (strongly recommended)
+* Text Format: [Markdown](https://commonmark.org/) (strongly recommended)
+* Project Management: [ISO 21502:2020](https://www.iso.org/standard/74947.html) 
 
 ## Assorted Reading
 

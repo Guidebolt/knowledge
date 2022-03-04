@@ -2,9 +2,9 @@
 
 !!! Info
 	
-	Guidebolt Public Knowledge-Base. Last updated 2022-03-03. Version 0.42 alpha (work in progress).
+	[Guidebolt](https://guidebolt.com/) Public Knowledge-Base. Last updated 2022-03-03. Version 0.42 alpha (work in progress).
 	
-Information drives every thought, decision, and action. In our increasingly complex world where logic and trust are hard to weave confidently, it is easy to be misled by noise, incur unknown risks, and waste valuable resources. Truth is the fundamental solution.	
+**Information** drives every thought, decision, and action. In our increasingly complex world where logic and trust are hard to weave confidently, it is easy to be misled by noise, incur unknown risks, and waste valuable resources. **Truth** is the fundamental solution.	
 
 [Changelog](/changelog)
 
@@ -68,22 +68,7 @@ Earth View:
 [NASA ISS UStream](https://www.nasa.gov/multimedia/nasatv/iss_ustream.html),
 [Google Earth](https://earth.google.com)
 
-Guidebolt:
-[Main Website](https://guidebolt.com/)
-
-## Links 2: News and Forums
-
-[Hacker News](https://news.ycombinator.com/),
-[Practical Machinist](https://www.practicalmachinist.com),
-[Wikichip](https://en.wikichip.org/wiki/WikiChip),
-[EEVblog Forum](https://www.eevblog.com/forum/),
-[Reddit Preppers](https://www.reddit.com/r/preppers/),
-[Reddit Datahoarder](https://www.reddit.com/r/DataHoarder/),
-[LessWrong](https://www.lesswrong.com/)
-
-[HydraulicsPneumatics](https://www.hydraulicspneumatics.com/),
-
-## Links 3: Companies
+## Links 2: Companies
 
 Common (Canada):
 [AMAZON](https://www.amazon.ca/),
@@ -175,6 +160,20 @@ UPS,
 CANADA POST,
 PUROLATOR
 
+## Links 3: News and Forums
+
+Small Universal Forums: [Hacker News](https://news.ycombinator.com/)
+
+Metalworking Forums: [Practical Machinist](https://www.practicalmachinist.com)
+
+[Wikichip](https://en.wikichip.org/wiki/WikiChip),
+[EEVblog Forum](https://www.eevblog.com/forum/),
+[Reddit Preppers](https://www.reddit.com/r/preppers/),
+[Reddit Datahoarder](https://www.reddit.com/r/DataHoarder/),
+[LessWrong](https://www.lesswrong.com/)
+
+[HydraulicsPneumatics](https://www.hydraulicspneumatics.com/),
+
 ## Links 4: Computer Tools
 
 Document Suite: [Libreoffice](https://www.libreoffice.org/) (recommended)
@@ -236,26 +235,6 @@ Torrent Client: [QBitTorrent](https://www.qbittorrent.org/), [Transmission](http
 Accounting: [GNUCASH](https://www.gnucash.org/)
 
 Gantt Charts: [GanttProject](https://www.ganttproject.biz/)
-
----
-
-Modem: TECHNICOLOR, TC4400 (4Gbps, DOCSIS 3.1)
-
-Router: NETGATE, SG-3100 (1Gbps ports, 2.5Gbps throughput)
-
-Wireless Access Point: UBIQUITI, Unifi AC Pro, UAP-AC-PRO (2.4GHz 3x3 450Mbps, 5GHz 3x3 1.3 Gbps, PoE)
-
-Power Bar, Surge Protector: TRIPP LITE, Isobar 6 Ultra
-
-Short Ethernet Cable: STEWART CONNECTOR, CA81-020M-01 (Cat 8.1, 2m, LSZH, RJ45 metal-frame terminations)
-
-Printer: HP, OFFICEJET PRO 9015
-
-SSD Enclosure: STARTECH, M2E1BRU31C (IP67, MIL-STD-810G drop-test, USB 3.1 Gen2 10Gbps)
-
-M.2 enclosures can be assembled into external data-drives for greater capacity, reliability, speed, and modularity than normal USB drives.
-
-USB Drive: SAMSUNG, Bar Plus 
 
 ## Links 5: Intermittent and Special Tools
 

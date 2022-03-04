@@ -1,4 +1,4 @@
-# Design, Electrical
+# Electrical Development
 
 ## Introduction
 
@@ -94,7 +94,7 @@ Special Markings: flammability (ex. UL94V-0), WEEE directive, RoHS, REACH, CE, U
 
 ## NOTES
 
-When current flows through a trace, its temperature approaches infinity; when a soldering tip touches a pad, its temperature approaches the tip temperature. 
+Thermal Asymptote: When current flows through a trace, its temperature approaches infinity; when a soldering tip touches a pad, its temperature approaches the tip temperature. 
 
 Footprints are spaced to support part-holding with tweezers (0.8mm tip-thickness).
 

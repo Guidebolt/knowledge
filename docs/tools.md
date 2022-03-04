@@ -1,9 +1,5 @@
 # Tools
 
-!!! INFO
-
-	REV: 2022-02-07
-
 ## Supplies
 
 DUCT TAPE: 3M No Residue, 2425-HD (strong, waterproof, clean removal within 6 months, UL 723 compliant fire-resist) (normal reel 48mm wide x 22.8m length) (recommended) 
@@ -52,11 +48,11 @@ FLUID DISPENSER: NORDSON EFD, 7364361 (UltimusPlus 1) (10 to 100 psi, 2019 relea
 
 SWITCHING POWER SUPPLY (adjustable voltage and current)
 
-OSCILLOSCOPE
+BASIC OSCILLOSCOPE: SIGLENT 
 
-SMALL 3D PRINTER: LULZBOT, Mini 2
+Standard 3D Printer: [Prusa Original XL](https://www.prusa3d.com/product/original-prusa-xl-6/)
 
-MEDIUM 3D PRINTER: LULZBOT, Taz Pro
+Old 3D Printers: Lulzbot Mini 2, Lulzbot Taz Pro
 
 ## CNC Machining
 
@@ -347,3 +343,23 @@ Soap Dispenser: Frost 702 (20mL foaming manual pump, 1L universal reservoir)
 * DISTILLED WATER
 * 70% ISOPROPYL ALCOHOL
 * 99% ISOPROPYL ALCOHOL
+
+## ASSORTED
+
+Modem: TECHNICOLOR, TC4400 (4Gbps, DOCSIS 3.1)
+
+Router: NETGATE, SG-3100 (1Gbps ports, 2.5Gbps throughput)
+
+Wireless Access Point: UBIQUITI, Unifi AC Pro, UAP-AC-PRO (2.4GHz 3x3 450Mbps, 5GHz 3x3 1.3 Gbps, PoE)
+
+Power Bar, Surge Protector: TRIPP LITE, Isobar 6 Ultra
+
+Short Ethernet Cable: STEWART CONNECTOR, CA81-020M-01 (Cat 8.1, 2m, LSZH, RJ45 metal-frame terminations)
+
+Printer: HP, OFFICEJET PRO 9015
+
+SSD Enclosure: STARTECH, M2E1BRU31C (IP67, MIL-STD-810G drop-test, USB 3.1 Gen2 10Gbps)
+
+M.2 enclosures can be assembled into external data-drives for greater capacity, reliability, speed, and modularity than normal USB drives.
+
+USB Drive: SAMSUNG, Bar Plus 
