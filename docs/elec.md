@@ -1,4 +1,4 @@
-# Electrical Development
+# Electrical Design
 
 ## Introduction
 

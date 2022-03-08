@@ -1,10 +1,12 @@
-# Software Development
+# Software Design
 
 The design and development of good software systems.
 
 Languages: Python (fast abstract), PHP (fast-deploy web-dev), C (embedded, simple high-rel programs), C++ (complex high-performance programs)
 
 ## Real Time OS
+
+[Linux](https://kernel.org/)
 
 [Real Time Linux](https://wiki.linuxfoundation.org/realtime/start)
 

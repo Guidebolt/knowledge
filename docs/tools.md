@@ -1,5 +1,31 @@
 # Tools
 
+## Measurement
+
+Digital Calipers (Primary): MITUTOYO, 500-752-20 (Dual-Unit, Digital, IP67, 1X SR44 battery) - [Product Info](https://ecatalog.mitutoyo.com/ABSOLUTE-Digimatic-Caliper-Series-500-with-Exclusive-ABSOLUTE-Encode-Technology-C1381.aspx)
+
+Vernier Calipers (Backup): MITUTOYO, 530-312 (Dual-Unit, Mechanical) - [Product Info](https://ecatalog.mitutoyo.com/Vernier-Calipers-Series-530-Standard-Model-C1401.aspx)
+
+Small Weight Scale: OHAUS, NVT22000 (22kg capacity. 4X overload protection. 1g accuracy. 4X C batteries or 4X AA batteries with adapters) - [Product Info](https://us.ohaus.com/en-US/Products/Balances-Scales/Portable-Balances/Navigator/Electronic-Balance-NVT22000-AM)
+
+Large Weight Scale: OHAUS, OHASD200L (200kg capacity, 0.1kg accuracy)
+
+## Hard Organizers
+
+MILWAUKEE, Packout Series - [Product Info](https://www.milwaukeetool.com/Products/Storage-Solutions/PACKOUT) (recommended)
+
+The most time-efficient small-parts organizer that we know. Semi-transparent top, durable frame, removable subcontainers, quiet and ergonomic latches. 
+
+Low Profile Organizer (ORDERING ID: MILWAUKEE, 48-22-8431) 
+
+Standard Organizer (ORDERING ID: MILWAUKEE, 48-22-8430)
+
+Deep Organizer (ORDERING ID: MILWAUKEE, 48-22-8432)
+
+Mounting Plate (ORDERING ID: MILWAUKEE, 48-22-8485)
+
+Tip: these containers can be stacked, then opened individually without unstacking them (great access speed).
+
 ## Supplies
 
 DUCT TAPE: 3M No Residue, 2425-HD (strong, waterproof, clean removal within 6 months, UL 723 compliant fire-resist) (normal reel 48mm wide x 22.8m length) (recommended) 
@@ -185,16 +211,6 @@ Tap Bit Sets (taper, plug, bottoming):
 * M10x1.5
 * M12x1.75
 
-## Measurement
-
-Digital Calipers (Primary): MITUTOYO, 500-752-20 (Dual-Unit, Digital, IP67, 1X SR44 battery) - [Product Info](https://ecatalog.mitutoyo.com/ABSOLUTE-Digimatic-Caliper-Series-500-with-Exclusive-ABSOLUTE-Encode-Technology-C1381.aspx)
-
-Vernier Calipers (Backup): MITUTOYO, 530-312 (Dual-Unit, Mechanical) - [Product Info](https://ecatalog.mitutoyo.com/Vernier-Calipers-Series-530-Standard-Model-C1401.aspx)
-
-Small Weight Scale: OHAUS, NVT22000 (22kg capacity. 4X overload protection. 1g accuracy. 4X C batteries or 4X AA batteries with adapters) - [Product Info](https://us.ohaus.com/en-US/Products/Balances-Scales/Portable-Balances/Navigator/Electronic-Balance-NVT22000-AM)
-
-Large Weight Scale: OHAUS, OHASD200L (200kg capacity, 0.1kg accuracy)
-
 ## Compressed Air System
 
 AIR COMPRESSOR: MAKITA, MAC100Q (2019)
@@ -312,27 +328,7 @@ Hard Cases
 
 NANUK - [Product Info](https://www.nanuk.com/)
 
-## Hard Organizers
 
-MILWAUKEE, Packout Series - [Product Info](https://www.milwaukeetool.com/Products/Storage-Solutions/PACKOUT)
-
-(RECOMMENDED)
-
-The most time-efficient small-parts organizer that we know. Semi-transparent top, durable frame, removable subcontainers, quiet and ergonomic latches. 
-
-Low Profile Organizer (ORDERING ID: MILWAUKEE, 48-22-8431) 
-
-Standard Organizer (ORDERING ID: MILWAUKEE, 48-22-8430)
-
-Deep Organizer (ORDERING ID: MILWAUKEE, 48-22-8432)
-
-Mounting Plate (ORDERING ID: MILWAUKEE, 48-22-8485)
-
-Ever since we discovered that these containers can be stacked then opened individually WITHOUT unstacking them, they have become an efficient, compact, regularly-used part of our small-parts strategy.
-
-* For fastest multi-access, take out the desired subcontainers from the main-containers and place on table. Return the subcontainers to the main-containers when the heavy-access period is finished. 
-* For faster access, stack all main-containers vertically with the bottom mounted to a fixed surface and leave all latches open. Set a backwall such that all main-containers can be opened for access yet cannot be opened to the point the top containers would start to scatter their parts.
-* For fast access, stack and bottom-mount the same as above but close 1 or both latches for a secure hold (no protective backwall required). 
 
 ## INDOOR UPGRADES
 

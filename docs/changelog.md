@@ -8,7 +8,7 @@ Significantly improved main page.
 
 Merged all minor guides with major guides.
 
-Updated license to Creative Commons Zero 1.0 (http://creativecommons.org/publicdomain/zero/1.0/)
+Updated license to [Creative Commons Zero 1.0](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## 0.41 (2021-12-23)
 

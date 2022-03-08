@@ -47,6 +47,8 @@ Datasheet Archive: [Alldatasheet](https://www.alldatasheet.com/)
 
 Real-Time Electrical Part Inventory Search: [Octopart](https://octopart.com/)
 
+Technical Reference: [Engineering Toolbox](https://www.engineeringtoolbox.com)
+
 Material Property Database: [MatWeb](http://www.matweb.com/)
 
 Real-Time Team Chat: [Zulip](https://zulip.com/)

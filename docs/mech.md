@@ -1,4 +1,4 @@
-# Mechanical Development
+# Mechanical Design
 
 The design and development of good mechanical systems.
 

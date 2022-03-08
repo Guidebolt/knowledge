@@ -1,24 +1,22 @@
-# Knowledge Theory
+# Critical Thinking
 
-Knowledge, Critical Thinking, Skill
-
-Memory, Logic
+The dynamics of knowledge, thinking, skill development and application...
 
 ## Resources
 
-[Structure of Scientific Revolutions (book, Thomas S. Kuhn, 2012)](https://press.uchicago.edu/ucp/books/book/chicago/S/bo13179781.html)
-
-The Republic (book, Plato)
-
 [Psychology of Intelligence Analysis (book, CIA)](https://web.archive.org/web/20181203041905/https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis)
 
+[Structure of Scientific Revolutions (book, Thomas S. Kuhn, 2012)](https://press.uchicago.edu/ucp/books/book/chicago/S/bo13179781.html)
 
+## Truth and Preparation
 
-## Top 5 Common Mistakes
+Truth is reality in its past, present, and future. What has been, what is, what could be, and what will be. Truth is the immediate state of the world and the complex patterns of cause-and-effect structured by the specific dynamics of interactive change.
 
-1. Subconscious Overdependence: Waiting a long time with a blank mind hoping your subconscious will deliver the answer. 
+Truth is the most accurate understanding of reality. With accuracy, selected threads of possibility can be projected towards intended results. With realism, abstract ideals are mapped to actual possibilities.
 
-2. 
+Truth prepares the best possible action as relevant questions meet actionable answers. The truth of everything always points to the best answer, yet an incomplete truth can point to the worst answer. Every situation creates context for some truths to become good (improves the answer), neutral (no effect), or bad (worsens the answer). Some good truths are the sum of smaller truths that individually are bad or do not change the answer. For a given situation, all or enough of its good truths always point to the best answer. Preparation is the completion of good truths.
+
+For example, the feeling of thirst is a truth that compels you to drink water, saving you from a fatal path of unintended dehydration. That said, contaminated water can cause a fatal path of severe illness. The complete truth gives you confidence to drink the best amount of clean water at the best time with the best technique. An incomplete truth may give you deceptive confidence and cause you to drink the best amount of clean water with bad timing/technique as you spit out all the water in laughter caused by a nearby joke. 
 
 ## Think Time
 
@@ -33,6 +31,8 @@ The Republic (book, Plato)
 * durable progress (value that is hard to lose/destroy; ex. well-stored toilet paper)
 * if blocked, change task, return later
 * if uncertain, prefer adaptable paths
+
+Subconscious Overdependence: Waiting a long time with a blank mind hoping your subconscious will deliver the answer. 
 
 ## Design
 
@@ -205,25 +205,7 @@ For example, we like simple keywords for goodness.
 * BETTER, WORST
 * BEST, WORST
 
-Meta, Knowledge!
 
-Revision: 2020-07-12
-
-## Goal of this Document
-
-A versatile examination of the thinking process to better understand and use the truth.
-
-## Truth
-
-Truth is reality in its past, present, and future. What has been, what is, what could be, and what will be. Truth is the immediate state of the world and the complex patterns of cause-and-effect that structure the specific dynamics of change.
-
-Truth is the most accurate understanding of reality. With accuracy, one projects their best possible power towards intended results. With realism, one maps abstract ideals to actual possibilities.
-
-### Preparation
-
-Truth prepares the best possible action as relevant questions meet actionable answers. The truth of everything always points to the best answer, yet an incomplete truth can point to the worst answer. Every situation creates context for some truths to become good (improves the answer), neutral (no effect), or bad (worsens the answer). Some good truths are the sum of smaller truths that individually are bad or do not change the answer. For a given situation, all or enough of its good truths always point to the best answer. Preparation is the completion of good truths.
-
-Suppose that you are in a hotel room and thirsty. You find a can of juice on the bedside table. Will you drink it? What truths can drive this decision? The hotel environment is generally safe (truth1). The can is unopened and untampered (truth2). The can is labeled with a brand you trust (truth3). The can expired many years ago (truth4). Drinking the juice will lead to hospitalization and death (truth5). Statistically, a pre-packaged hotel drink is fine over 99.99% of the time (truth6). In this situation, truths 1-3 and 6 drive a YES (drink it) and therefore are BAD. Truths 4-5 drive a NO (do not drink it; ideally trash it) and therefore are GOOD. Truth5 is future-knowledge that must be learned by mapping from the present situation, such as truth4. Truth4 can be learned by looking for the expiration date labeled on the can. If the expiration label is missing or badly smudged, you can predict the age of the can by the brand-graphics version OR adjust truth6 to exceed your risk tolerance threshold. If the expiration label is incorrect and at a recent timestamp, you would be terribly misled.
 
 
 
