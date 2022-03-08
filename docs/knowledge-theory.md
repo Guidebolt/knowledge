@@ -1,5 +1,19 @@
 # Knowledge Theory
 
+Knowledge, Critical Thinking, Skill
+
+Memory, Logic
+
+## Resources
+
+[Structure of Scientific Revolutions (book, Thomas S. Kuhn, 2012)](https://press.uchicago.edu/ucp/books/book/chicago/S/bo13179781.html)
+
+The Republic (book, Plato)
+
+[Psychology of Intelligence Analysis (book, CIA)](https://web.archive.org/web/20181203041905/https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis)
+
+
+
 ## Top 5 Common Mistakes
 
 1. Subconscious Overdependence: Waiting a long time with a blank mind hoping your subconscious will deliver the answer. 
@@ -62,11 +76,9 @@
 * history research (ex. past intergenerational upgrade logic)
 * experimental learning vs thoughtful learning (spectrum idea) (consider which is better for a specific situation, problem, current skillset) (ex. better to spend 1 hour thinking of problems and solutions than 10 hours building the same problems and solutions) (ex. better to spend 1 hour building problems and solutions than 10 hours thinking the same problems and solutions)
 
-Meta, Communication!
+---
 
-Last Updated: 2021-03-22
-
-The purpose of this guide is to clarify the fundamental ideas required for efficient communication.
+Clarify the fundamental ideas required for efficient communication.
 
 What is efficient communication?
 

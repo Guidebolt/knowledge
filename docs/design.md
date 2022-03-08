@@ -1,8 +1,18 @@
 # Design
 
-2021-11-10
+**Design is a description and desire for how something can and should be.** Think about the fundamental process. Draw lines and curves (form). Fill with atoms (composition). Symbolize ideas (abstraction). Plan cause-effect possibilities (interactive potential). 
 
-Good design comes from good design thinking. In hardware development, you arrange physical atoms. In software development, you arrange abstract states. In both cases, you plan the interactive sequence of the system.
+## Resources
+
+The Design of Everyday Things - Revised and Expanded Edition (Book, 2013, Don Norman)
+
+The Design of Future Things (Book, 2009, Donald A Norman)
+
+Handbook of Human Factors and Ergonomics (Book, 2021, 5th Edition, Gavriel Salvendy and Waldermar Karwowski)
+
+Human Engineering: [MIL-STD-1472, archived on EVERYSPEC](http://everyspec.com/MIL-STD/MIL-STD-1400-1499/MIL-STD-1472H_57041/)
+
+Electrical-Part Testing: [MIL-STD-202](http://everyspec.com/MIL-STD/MIL-STD-0100-0299/MIL-STD-202G_2397/)
 
 ## Standard Design Model
 
@@ -19,14 +29,6 @@ Optimization: Think of different options that maximize particular strengths or m
 Prioritization: Decide the best balance of strengths and weaknesses, given the reality of fundamental tradeoffs that remain after optimization. 
 
 Specific Completion: The comprehensive completion of all design details required to build a prototype or produce at scale.
-
-## Standard Design Procedure
-
-## Assorted Reading
-
-Human Engineering: [MIL-STD-1472, archived on EVERYSPEC](http://everyspec.com/MIL-STD/MIL-STD-1400-1499/MIL-STD-1472H_57041/)
-
-Electrical-Part Testing: [MIL-STD-202](http://everyspec.com/MIL-STD/MIL-STD-0100-0299/MIL-STD-202G_2397/)
 
 ## Design Goals
 

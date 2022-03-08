@@ -36,7 +36,7 @@ Corporate Name Search: [Canada Nuans](https://www.ic.gc.ca/eic/site/075.nsf/eng/
 
 ## Example: Guidebolt Inc.
 
-We are federally registered under the Canada Not-for-profit Corporations Act (CNCA). Notably, this means that we are a non-stock corporation 
+We are federally registered under the Canada Not-for-profit Corporations Act (CNCA). Notably, this means that we are a non-stock corporation with no shareholders and no traditional equity system.
 
 We required extraprovincial registration with Ontario.
 

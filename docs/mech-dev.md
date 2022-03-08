@@ -30,16 +30,6 @@ Forums:
 
 [https://www.reddit.com/r/IndustrialDesign/](https://www.reddit.com/r/IndustrialDesign/)
 
----
-
-Books:
-
-The Design of Everyday Things - Revised and Expanded Edition (2013, Don Norman)
-
-The Design of Future Things (2009, Donald A Norman)
-
-Handbook of Human Factors and Ergonomics (2021, 5th Edition, Gavriel Salvendy and Waldermar Karwowski)
-
 ## Materials
 
 Molecular Perspective: Elements, Compounds, Mixtures

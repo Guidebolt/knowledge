@@ -1,5 +1,13 @@
 # Intro
 
+To learn for understanding, seek story knowledge.
+
+* Matter exists 
+
+To complete a task, seek reference knowledge. 
+
+* Water  
+
 ## Comprehensive Scope
 
 The content on this knowledge-base is limited to our understanding and experience as a company (what we know, consider, or use). For example, because we are based in Canada, we generally only mention suppliers that serve our locations in Canada. 

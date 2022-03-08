@@ -2,9 +2,9 @@
 
 !!! Info
 	
-	[Guidebolt](https://guidebolt.com/) Public Knowledge-Base. Last updated 2022-03-03. Version 0.42 alpha (work in progress).
+	[Guidebolt](https://guidebolt.com/) Public Knowledge-Base. Last updated 2022-03-08. Version 0.42 alpha (work in progress).
 	
-**Information** drives every thought, decision, and action. In our increasingly complex world where logic and trust are hard to weave confidently, it is easy to be misled by noise, incur unknown risks, and waste valuable resources. **Truth** is the fundamental solution.	
+**Information drives every thought, decision, and action.** In our increasingly complex world where logic and trust are hard to weave confidently, it is easy to be misled by noise, incur unknown risks, and waste valuable resources. **Truth is the fundamental solution.**	
 
 [Changelog](/changelog)
 
@@ -25,6 +25,10 @@ Common Platforms:
 [Github](https://github.com/),
 [Reddit](https://www.reddit.com/),
 [StackExchange](https://stackexchange.com/),
+
+Email:
+[Fastmail](https://www.fastmail.com/)
+[Protonmail](https://protonmail.com/)
 
 Common Distributors:
 [Mouser](https://www.mouser.ca/),
@@ -237,6 +241,8 @@ Accounting: [GNUCASH](https://www.gnucash.org/)
 Gantt Charts: [GanttProject](https://www.ganttproject.biz/)
 
 ## Links 5: Intermittent and Special Tools
+
+Disposable Emails: [Guerrilla Mail](https://www.guerrillamail.com/)
 
 Free Website Security Test: [Qualys SSL-Labs](https://www.ssllabs.com/ssltest/)
 

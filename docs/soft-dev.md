@@ -1,7 +1,5 @@
 # Software Development
 
-REV: 2021-11-11
-
 The design and development of good software systems.
 
 Languages: Python (fast abstract), PHP (fast-deploy web-dev), C (embedded, simple high-rel programs), C++ (complex high-performance programs)
