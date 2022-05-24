@@ -1,14 +1,60 @@
 # Tools
 
-## Measurement
+## Labeling
 
-Digital Calipers (Primary): MITUTOYO, 500-752-20 (Dual-Unit, Digital, IP67, 1X SR44 battery) - [Product Info](https://ecatalog.mitutoyo.com/ABSOLUTE-Digimatic-Caliper-Series-500-with-Exclusive-ABSOLUTE-Encode-Technology-C1381.aspx)
+Portable Label Printer: BRADY, BMP21-PLUS (AA batteries) (strongly recommended) (ordering ID: 139535)
 
-Vernier Calipers (Backup): MITUTOYO, 530-312 (Dual-Unit, Mechanical) - [Product Info](https://ecatalog.mitutoyo.com/Vernier-Calipers-Series-530-Standard-Model-C1401.aspx)
+Create time-saving labels faster with better clarity, consistency, durability than hand-writing or non-portable printing.
+
+Preferred Labels: 12.7mm wide Vinyl or Nylon (ex. 4-pack vinyl ordering ID: M21-500-595-WT-4PK) 
+
+## PCB Assembly
+
+Basic Process: Clean PCB, Dispense Solder Paste, Place Parts, Reflow, Clean, Inspect, Test
+
+Fluid Dispenser: NORDSON EFD, 7364361 (UltimusPlus 1) (10 to 100 psi, 2019 release)
+
+Solder Paste: Chip Quik, Thermally-Stable Lead-Free No-Clean SAC305 (stored at room-temp) (category L0 flux; low-activity no-halogen) (no-clean flux that is cleanable with IPA)
+
+ORDERING ID: TS391SNL250 (250 GRAM, JAR)
+
+ORDERING ID: TS391SNL500C (500 GRAM, SYRINGE)
+
+Vacuum Supply: custom pneumatic assembly using Bimba venturi pump (Mcmaster-Carr, 9997K15), solenoid valve (SMC, VX220AGLXB), foot pedal (LineMaster, Treadlite II, T-91-S; Mcmaster-Carr, 7376K2)
+
+---
+
+Reflow Oven: custom assembly using Controleo3 controller ([Whizoo, Controleo3](https://www.whizoo.com/))
+
+---
+
+SOLDERING STATION: PACE, 8007-0579 (ADS200 Accudrive with Instant Setback Cubby) (120W, thermal tips, 177C to 454C, 1.1C idle stability, ANSI/J-STD-001, 3 temperature presets, extruded-aluminum frame)
+
+Solder Wire: KESTER, 268 Series, Lead-Free (halogen-free, no-clean)
+
+---
+
+Ultrasonic Cleaner: Crest, P1100D-45 (297x242x200mm, 12.3L, 600W heat, 180W sonic, 45kHz, adjustable time/temp, degas, includes lid and drain port, UL/CSA/CE)
+
+Ultrasonic Cleaner Basket: Crest, B1100M
+
+---
+
+Hot Air Tool: QUICK, 861DW (as recommended by EEVlog and Louis-Rossman) (dual-unit; supports C/F; hold CH2 and CH3 to toggle) (recommended)
+
+## Measurement and Observation
+
+Digital Calipers (Primary): MITUTOYO, 500-752-20 (Dual-Unit, Digital, IP67, 1X SR44 battery)
+([Product Page](https://ecatalog.mitutoyo.com/ABSOLUTE-Digimatic-Caliper-Series-500-with-Exclusive-ABSOLUTE-Encode-Technology-C1381.aspx))
+
+Vernier Calipers (Backup): MITUTOYO, 530-312 (Dual-Unit, Mechanical) 
+([Product Info](https://ecatalog.mitutoyo.com/Vernier-Calipers-Series-530-Standard-Model-C1401.aspx))
 
 Small Weight Scale: OHAUS, NVT22000 (22kg capacity. 4X overload protection. 1g accuracy. 4X C batteries or 4X AA batteries with adapters) - [Product Info](https://us.ohaus.com/en-US/Products/Balances-Scales/Portable-Balances/Navigator/Electronic-Balance-NVT22000-AM)
 
 Large Weight Scale: OHAUS, OHASD200L (200kg capacity, 0.1kg accuracy)
+
+Microscope: AMSCOPE, SM-4NTP (7X-45X, stereo, metal levers, variable zoom and zoom lock) (simul-focal camera port; concurrent use of stereo-view and camera-port) (recommended)
 
 ## Hard Organizers
 
@@ -62,15 +108,11 @@ MONITOR MOUNT: ERGOTRON, 45-509-216 (dual, tall-pole, white) (RECOMMENDED)
 
 WORK PLATE: ALPHIDIA, Quadhands Jumbo Workbench (powder-coated steel, magnetic-base flex-holders)
 
+## Mechanical
+
+Arbor Press: Dake, Model 1-1/2 (3 tons, 48:1 leverage, 1.25in/31.75mm square-ram, 178mm throat, 273mm over table, 66kg) (recommended)
+
 ## Equipment
-
-MICROSCOPE: AMSCOPE, SM-4NTP (7X-45X, stereo, metal levers, variable zoom and zoom lock) (simul-focal camera port; concurrent use of stereo-view and camera-port) (RECOMMENDED)
-
-HOT AIR TOOL: QUICK, 861DW (as recommended by EEVlog and Louis-Rossman) (dual-unit; supports C/F; hold CH2 and CH3 to toggle) (RECOMMENDED)
-
-SOLDERING STATION: PACE, 8007-0579 (ADS200 Accudrive with Instant Setback Cubby) (120W, thermal tips, 177C to 454C, 1.1C idle stability, ANSI/J-STD-001, 3 temperature presets, extruded-aluminum frame)
-
-FLUID DISPENSER: NORDSON EFD, 7364361 (UltimusPlus 1) (10 to 100 psi, 2019 release)
 
 SWITCHING POWER SUPPLY (adjustable voltage and current)
 
@@ -82,11 +124,12 @@ Old 3D Printers: Lulzbot Mini 2, Lulzbot Taz Pro
 
 ## CNC Machining
 
-5-Axis CNC Machine: BROTHER, Speedio M200X3 (3050kg, LWH: 3.1m x 1.3m x 2.6m, UNIT MFG: 2020-09)
+5-Axis CNC Machine: BROTHER, Speedio M200X3 (3050kg, LWH: 3.1m x 1.3m x 2.6m, UNIT MFG: 2020-09) (INTL DIST: YAMAZEN) (EAST CANADA DIST: FERRO TECHNIQUE)
 
-(INTL DIST: YAMAZEN) (EAST CANADA DIST: FERRO TECHNIQUE)
+* power input 200-230VAC 3P+GND, 10kVA nameplate rating
+* air input 0.5MPa 165L/min (SMC, KK130 connector)
 
-The default North America model includes:
+Default NA Package:
 
 * 16k rpm spindle with dual-contact BT30 spindle-toolholder interface
 * 22-slot automatic tool-changer (1.4s chip-chip) (0.8s tool-tool)
@@ -103,33 +146,15 @@ Extras:
 
 Dedicated Phase Converter: Phase Technologies, PTE010RQT-H3S1 (Phase Perfect Enterprise, 10HP, NEMA 3R, Quiet, On/Off Switch, Protec Surge Protection, 30kg) (input 1-phase 240VAC, output 3-phase 240VAC with max steady-state 36A and class 10 thermal-overload motor-starting)
 
-Dedicated Step-Down Transformer: 3-phase 240VAC to 3-phase 220VAC, isolation, 10kVA (WARNING: machine requires 200 to 230VAC)
+Fusible Disconnect (pre-transformer): Schneider Electric, CH362AWK (60A/600V/3P, NEMA 3R/12, CSA) (with fuses, Mersen AJT30; fuse-reducers, Mersen J636)
 
-Dedicated Air Compressors: Makita, MAC320Q (2 parallel units for 165L/min at 0.5MPa)
+Dedicated Step-Down Transformer: 3-phase 240VAC to 3-phase 220VAC, isolation, 10kVA
 
-Vise:
+Receptacle/Plug (NEMA15-50, post-transformer): Hubbell, HBL8450A/HBL8451C (CSA/UL)
 
-Adapter Plate: 
-
-Toolholder1:
-
-Tool1:
-
-Toolholder2:
-
-Tool2:
-
-Toolholder3:
-
-Tool3:
+Dedicated Air Compressors: Makita, MAC320Q (2 parallel units)
 
 ## Small Parts Storage
-
-PORTABLE LABEL PRINTER: BRADY, BMP21-PLUS (AA batteries) (STRONGLY RECOMMENDED)
-
-Create time-saving labels faster with better clarity, consistency, durability than hand-writing or non-portable printing.
-
-ORDERING ID: BRADY, 139535
 
 STANDARD: Transparent Slider Bags (STRONGLY RECOMMENDED)
 
@@ -145,15 +170,27 @@ ORDERING: ULINE, HEFTY SLIDERS
 
 ## Powered Hand Tools
 
-CORDLESS DRILL: MAKITA
+Cordless Hand Drill: Makita XGT, BLDC (ORDERING ID: HP001GZ) (Driver-Drill, Hammer-Drill)
 
-SHEET METAL NIBBLER: MAKITA
+Cordless Impact Driver: Makita XGT, BLDC (ORDERING ID: TD001GZ) (1/4" Socket)
+
+Cordless Reciprocating Saw: Makita XGT (ORDERING ID: JR001GZ)
+
+Cordless Angle Grinder: Makita XGT (ORDERING ID: GA029GZ) (Variable Speed, Paddle Switch, 125mm Wheel Dia, 5/8"-11 UNC Arbor)
+
+Cordless Tool Battery: Makita XGT (ORDERING ID: BL4040)
+
+Cordless Tool Battery Charger: Makita XGT (ORDERING ID: DC40RA)
+
+SHEET METAL NIBBLER: Makita
 
 FLASHLIGHT: FENIX, HT18 (1500 lumens max, 4 bright modes plus strobe, 21700 lithium-ion battery with integrated USB-C charging, IP68 waterproof to 2m, aluminum-frame impactproof to 1m) (RECOMMENDED)
 	
 ## Hand Tools
 
 Screwdriver: PICQUIC, Super 8 Plus (durable, friction-fit bit compartment, magnetic bit holder) (recommended)
+
+Auto-Locking Hex-Bit Holder: Milwaukee, 48-32-4531
 
 Retractable Utility Knife: STANLEY, Classic 99 (retractable blade, all-metal, spare blade compartment) (recommended)
 
@@ -163,10 +200,9 @@ Offset Scissors: MILWAUKEE, Jobsite Series, 48-22-4040 (recommended)
 
 Discrete hex keys fit in tight places. Combination hex keys don't get lost easily.
 
-* HEX KEY SET, METRIC
-* HEX KEY SET, SAE
-* HEX KEY COMBO-TOOL, METRIC
-* HEX KEY COMBO-TOOL, SAE
+* Hex Keys (metric/SAE)
+* Metric Hex Key Set, Folding/Locking: Husky, HFLDHKM8PCC
+* SAE Hex Key Set, Folding/Locking: Husky, HFLDHKS8PCC
 
 Tongue-and-Groove Pliers: CHANNELLOCK
 
@@ -240,7 +276,71 @@ Notes: This needs port accessories. See below. Mount all with sealant.
 
 OUTPUT AIR TUBE: Clear Polyurethane Rubber Tubing (6mm OD, 4mm ID, 95A Durometer, 160psi max, Made in US, RoHS3, REACH) (MCMASTERCARR, 50315K69)
 
-## Soldering Station Accessories
+## Medium Storage
+
+Mailer Boxes
+
+Boxes offer good stackability and hard shell protection as a low-cost rigid part container. Mailer boxes add quick, tool-free reclosable convenience.
+
+Hard Cases
+
+NANUK - [Product Info](https://www.nanuk.com/)
+
+## Network
+
+Power Bar: TRIPP LITE, Isobar 6 Ultra (surge protecting)
+
+Modem: TECHNICOLOR, TC4400 (4Gbps, DOCSIS 3.1)
+
+Router: NETGATE, SG-3100 (1Gbps ports, 2.5Gbps throughput)
+
+Wireless Access Point: UBIQUITI, Unifi AC Pro, UAP-AC-PRO (2.4GHz 3x3 450Mbps, 5GHz 3x3 1.3 Gbps, PoE)
+
+10GbE Switch: Ubiquiti, Switch Flex XG (ID: USW-Flex-XG)
+
+Short CAT8 Ethernet Cable: STEWART CONNECTOR, CA81-020M-01 (Cat 8.1, LSZH, RJ45 metal-frame, 2m)
+
+Long CAT6a Ethernet Cable: Omron, XS6W-6LSZH (LSZH, RJ45, various lengths)
+
+## Office
+
+Printer: HP, OFFICEJET PRO 9015
+
+SSD Enclosure: STARTECH, M2E1BRU31C (IP67, MIL-STD-810G drop-test, USB 3.1 Gen2 10Gbps)
+
+M.2 enclosures can be assembled into external data-drives for greater capacity, reliability, speed, and modularity than normal USB drives.
+
+USB Drive: SAMSUNG, Bar Plus
+
+## Reach
+
+A-Frame Ladder: Gorilla Ladders, GLX-5B (Type IA 136kg, 3m vertical reach, folding, ANSI/OSHA) (recommended)
+
+Work Platform: Gorilla Ladders, GLWP-55A-2 (Type IAA 170kg, 1.4m x 0.35m area, 0.76m max/adjustable platform height, folding, ANSI/OSHA) (recommended)
+
+## General Consumables
+
+Distilled Water
+
+99% Isopropyl Alcohol (PCB cleaning)
+
+70% Isopropyl Alcohol (general-purpose cleaning, ex. degreasing)
+
+4% Acetic Acid (vinegar) (corrosion removal)
+
+## Miscellaneous
+
+Fluid Dispenser Accessories (Nordson EFD, UltimusPlus I)
+
+* 30cc adapter assembly, 0.9m (O-ID: 7012338)
+* 30cc syringe barrel and piston, 20-pack (O-ID, 7012136)
+* end cap, 20-pack (O-ID, 7012196)
+* tip cap, pack (O-ID, 7012198)
+* free dispensing tip kit
+
+---
+
+Soldering Station Accessories
 
 TIPS:
 
@@ -260,102 +360,9 @@ TIPS:
 3.05mm (3/25in) Miniwave (SKU, 1131-0032-P1)
 ```
 
-SOLDER WIRE
-
-TESTING: KESTER, 268 Series, Lead-Free (Halogen Free, No-Clean)
-
-This has most of what we want but is not rated for cleaning with IPA.
-
-We recommend the following solder-wire characteristics:
-
-* SAC305 solder alloy (lead-free)
-* low-activity no-halogen flux (category L0)
-* no-clean flux, but cleanable with IPA
-
-Solder-wire is normally thermally-stable.
-
-SOLDER PASTE
-
-PCB assembly with solder-paste can be very efficient if you have good tools for paste dispensing, part pick-and-place, and thermal reflow. 
-
-We recommend the following solder-paste characteristics:
-
-* SAC305 solder alloy (lead-free)
-* thermally-stable (no refrigeration/warm-up required)
-* low-activity no-halogen flux (category L0)
-* no-clean flux, but cleanable with IPA
-
-TESTING: CHIPQUIK, solder-paste no-fridge lead-free no-clean SAC305
-
-ORDERING ID: TS391SNL250 (250 GRAM, JAR)
-
-ORDERING ID: TS391SNL500C (500 GRAM, SYRINGE)
-
-FLUX
-
-We strongly recommend flux that is low-copper-penetration halogen-free composition for safety. This is marked "L0" as specified by ANSI/J-STD-004.
-
-## Fluid Dispenser Accessories
-
-[PRODUCT PAGE](https://www.nordson.com/en/divisions/efd/products/fluid-dispensing-systems/ultimusplus-i-ii-dispensers)
-
-Note: We mainly use this to dispense solder paste and sometimes liquid-adhesive/potting compound. Includes a foot pedal for efficient/accurate manual dispensing. Instead of the touchscreen we prefer to use a wireless mouse (LOGITECH, M190). Use 80+ psi for fine gauge dispensing of solder paste; use steady mode for start-of-session purging (as noted in quick-start guide).
-
-ACCESSORIES:
-
-* 30cc adapter assembly, 0.9m (O-ID: 7012338)
-* 30cc syringe barrel and piston, 20-pack (O-ID, 7012136)
-* end cap, 20-pack (O-ID, 7012196)
-* tip cap, pack (O-ID, 7012198)
-* free dispensing tip kit
-
-## Electrical Accessories
-
 USB-C CABLE: ANKER, Powerline 3 USB-C to USB-C (white, 10ft) (female to female)
 
 Quality: Commercial, High
 
 * 60W max power
 * 480Mbps max speed (USB2 datarate)
-
-## Medium Storage
-
-Mailer Boxes
-
-Boxes offer good stackability and hard shell protection as a low-cost rigid part container. Mailer boxes add quick, tool-free reclosable convenience.
-
-Hard Cases
-
-NANUK - [Product Info](https://www.nanuk.com/)
-
-
-
-## INDOOR UPGRADES
-
-Soap Dispenser: Frost 702 (20mL foaming manual pump, 1L universal reservoir)
-
-## CHEMICALS
-
-* DISTILLED WATER
-* 70% ISOPROPYL ALCOHOL
-* 99% ISOPROPYL ALCOHOL
-
-## ASSORTED
-
-Modem: TECHNICOLOR, TC4400 (4Gbps, DOCSIS 3.1)
-
-Router: NETGATE, SG-3100 (1Gbps ports, 2.5Gbps throughput)
-
-Wireless Access Point: UBIQUITI, Unifi AC Pro, UAP-AC-PRO (2.4GHz 3x3 450Mbps, 5GHz 3x3 1.3 Gbps, PoE)
-
-Power Bar, Surge Protector: TRIPP LITE, Isobar 6 Ultra
-
-Short Ethernet Cable: STEWART CONNECTOR, CA81-020M-01 (Cat 8.1, 2m, LSZH, RJ45 metal-frame terminations)
-
-Printer: HP, OFFICEJET PRO 9015
-
-SSD Enclosure: STARTECH, M2E1BRU31C (IP67, MIL-STD-810G drop-test, USB 3.1 Gen2 10Gbps)
-
-M.2 enclosures can be assembled into external data-drives for greater capacity, reliability, speed, and modularity than normal USB drives.
-
-USB Drive: SAMSUNG, Bar Plus 

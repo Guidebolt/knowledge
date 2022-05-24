@@ -14,6 +14,32 @@ Human Engineering: [MIL-STD-1472, archived on EVERYSPEC](http://everyspec.com/MI
 
 Electrical-Part Testing: [MIL-STD-202](http://everyspec.com/MIL-STD/MIL-STD-0100-0299/MIL-STD-202G_2397/)
 
+## Quality Score (QS)
+
+(perspective/evaluation/planning skill) (strongly recommended)
+
+### Absolute (X / 5)
+
+X = 5: one of the best possible designs based on leading-edge technologies with zero false-tradeoffs and zero relevant-errors
+
+X = 4: excellent design with significant optimizations, no major errors or false-tradeoffs
+
+X = 3: good design; no major errors affecting primary requirements, optimized
+
+X = 2: sufficient design; no significant errors, mostly unoptimized, clear unrealized-potential
+
+X = 1: barely functional; significant errors, generally unoptimized, clear unrealized-potential
+
+X = 0: does not meet functional requirements
+
+### Incremental (X + I)
+
+X: the existing design (for design revisions) OR the simplest possible design at fastest possible development (for new designs) 
+
+I: a meaningful quality improvement, incremented by 1.
+
+Example: Design and fully CAD "scissors" (new design). In 10 minutes, CAD 2 steel rectangular blocks with a hole in the center for a bolt+locknut then assemble (this fast design becomes X, with absolute QS = 1). Now add sharpened edges and finger-sized holes for one-handed usability (now X+1, still QS1). Now streamline the cutting cross-sections, transform the holes into simple hand-ergonomic slots (incremental X+2, absolute QS2).
+
 ## Standard Design Model
 
 Unlimited Possibility Space: An idea of a space where absolutely anything can happen. The greater your imagination, the greater fraction of this space is thinkable.

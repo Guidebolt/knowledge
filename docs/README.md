@@ -2,7 +2,7 @@
 
 !!! Info
 	
-	[Guidebolt](https://guidebolt.com/) Public Knowledge-Base. Last updated 2022-03-08. Version 0.42 alpha (work in progress).
+	[Guidebolt](https://guidebolt.com/) Public Knowledge-Base. Last updated 2022-05-23. Version 0.43 alpha (work in progress).
 	
 **Information drives every thought, decision, and action.** In our increasingly complex world where logic and trust are hard to weave confidently, it is easy to be misled by noise, incur unknown risks, and waste valuable resources. **Truth is the fundamental solution.**	
 
@@ -104,6 +104,9 @@ Electrical (Parts):
 [TDK](https://www.tdk.com),
 [TI](https://www.ti.com/),
 
+Electrical (Infrastructure):
+[SCHNEIDER ELECTRIC](https://www.se.com)
+
 Electrical:
 [AMD](https://www.amd.com),
 [INTEL](https://www.intel.com),
@@ -112,6 +115,15 @@ Electrical:
 Software:
 [LINUX KERNEL](https://kernel.org/)
 
+Pneumatics (Canada):
+[SUPERLOK CANADA](https://www.superlokcanada.ca),
+[PROAX](https://proax.ca/)
+
+Ultrasonics:
+[Crest Ultrasonics](https://crest-ultrasonics.com)
+
+Pneumatics:
+[SMC](https://www.smcworld.com/en-jp/)
 
 Certification:
 [CSA](https://www.csagroup.org/),
@@ -197,6 +209,8 @@ MCAD Collaborative PDM: [GrabCAD Workbench](https://grabcad.com/workbench)
 ECAD: [Kicad](https://www.kicad.org/) (strongly recommended)
 
 We use this for most of our schematic-to-PCB ECAD work. This is a good free, open-source, cross-platform EDA suite sponsored by CERN and increasingly supported by the industry.
+
+Visual PCBA Plugin for Kicad: [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)
 
 Programming Text Editor: [Visual Studio](https://visualstudio.microsoft.com/), [Atom](https://atom.io/)
 

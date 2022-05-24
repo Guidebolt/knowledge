@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.43 (2022-04-24)
+
+Significant content update to many pages.
+
+Notable Additions:
+
+* Design, Quality Score (absolute, incremental)
+
 ## 0.42 (2022-03-08)
 
 Updated knowledge-base architecture as 2-part source (markdown text, files library).

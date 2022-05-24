@@ -38,33 +38,36 @@ Molecular Perspective: Elements, Compounds, Mixtures
 
 Preferred: 6061/7075 Aluminum, A4 Stainless Steel (A4SS)
 
+3D Printing PLA: Natureworks 3D870 
+([Datasheet](https://www.natureworksllc.com/~/media/Files/NatureWorks/Technical-Documents/Technical-Data-Sheets/TechnicalDataSheet_3D870_monofilament_pdf.pdf?la=en))
+
 ## Screws
 
-Standard Type: Hex-Socket-Head Cap Screw (normal head size, A4 stainless steel)
+Head Standards: Hex-Socket-Head (primary), Hex-Head 
+
+(metric, A4 stainless steel, normal head size, M2 to M12)
 
 M6x1 (12mm, 16mm, 20mm, 25mm, 30mm, 35mm, 40mm)
 
-Strong standard for higher mechanical loads with over 5kN proof load. It is dimensionally close to the half-inch imperial-standard (good universal compatibility). Threading standard for mechanical jigs (ex. aluminum-breadboards).
+M4-0.7 (mm standards: 10, 14, 16, 20, 25, 30, 35, 40, 50)
 
-M4-0.7 (10mm, 14mm, 16mm, 20mm, 25mm)
-
-M3-0.5 (6mm, 8mm, 10mm, 12mm, 16mm, 20mm, 30mm)
+M3-0.5 (mm standards: 6, 8, 10, 12, 16, 20, 25, 30)
 
 M2.5-0.45 (6mm, 8mm, 10mm, 12mm, 16mm)
 
+Notes: M6 is a strong standard for higher mechanical loads with over 5kN proof load. It is dimensionally close to the quarter-inch imperial-standard (good universal compatibility). It is the thread standard for mechanical jigs (ex. aluminum-breadboards).
+
 ## Threaded Insert, Press-Fit
 
-Common: Aluminum or SS
+Press-fit Threaded Inserts: Pemnet, NFPC (dist: Bisco)
 
-M6 (7.9mm DIA hole, 8mm LG insert)
-
-M4 (6.3mm DIA hole, 6.7mm LG insert)
-
-M3 (4.7mm DIA hole, 5.84mm LG insert)
-
-M2.5 (4.7mm DIA hole, 5.84mm LG insert)
+* M3 (4.7mm DIA hole, 5.84mm LG insert)
+* M4 (6.3mm DIA hole, 6.7mm LG insert)
+* M6 (7.9mm DIA hole, 8mm LG insert)
 
 ## 
+
+## Notes
 
 THREAD SIZE.
 
@@ -119,11 +122,6 @@ Preferred: easy-to-clean, see process list below.
 * tool-required scrub
 * cold-water rinse
 * hot-water rinse
-
-## Fasteners
-
-* Dowel, Screw
-* Helicoil
 
 ## Construction
 

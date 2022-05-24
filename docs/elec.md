@@ -6,45 +6,19 @@ Electrical engineering; design and development. Resistance, capacitance, inducta
 
 ## Reference
 
+[Canadian Electrical Code, 25th Edition](https://www.csagroup.org/store/product/CSA%20C22.1:21/)
+
 [Wire Gauge Chart (Powerstream)](https://www.powerstream.com/Wire_Size.htm)
 
-## Great Resources
+## Resources
 
 [Linear Circuit Design Handbook, 2008, by Analog Devices](https://www.analog.com/en/education/education-library/linear-circuit-design-handbook.html)
 
 [Art of Electronics, 3rd Edition, by Paul Horowitz and Winfield Hill](https://archive.org/details/art-of-electronics-3e)
 
-[Comparing Bus Solutions, rev C, by TI](https://www.ti.com/lit/an/slla067c/slla067c.pdf)
+Thermal Intuition, TI, SLPA015 ([PDF](https://www.ti.com/lit/an/slpa015/slpa015.pdf))
 
-## Instruction Set Architecture
-
-ISA: Complex, Reduced (General), Reduced (Graphics)
-
-AMD, Intel, Nvidia
-
-[RISC-V International](https://riscv.org/)
-
-[ARM](https://www.arm.com)
-
-[SiFive](https://www.sifive.com/)
-
-## USB
-
-[USB-IF DOC LIBRARY](https://www.usb.org/documents)
-
-[USB2 SPEC-DL WEBPAGE, 2021-07-01](https://usb.org/document-library/usb-20-specification)
-
-[USB4 SPEC-DL WEBPAGE, 2021-06-09](https://www.usb.org/document-library/usb4tm-specification)
-
-[USB POWER DELIVERY SPEC-DL WEBPAGE, 2021-07-06](https://www.usb.org/document-library/usb-power-delivery)
-
-[USB Type-C REV2.1 SPEC-DL WEBPAGE, 2021-05-25](https://www.usb.org/document-library/usb-type-cr-cable-and-connector-specification-revision-21)
-
-[USB Type-C LOCKING SPEC-DL WEBPAGE, 2016-03-09](https://www.usb.org/document-library/usb-type-cr-locking-connector-specification)
-
-## SPE
-
-[SPE Summary, Microchip Webpage](https://www.microchip.com/en-us/solutions/ethernet-technology/single-pair-ethernet)
+Bus Solutions, TI, SLLA067C ([PDF](https://www.ti.com/lit/an/slla067c/slla067c.pdf))
 
 ## MFG
 
@@ -74,7 +48,7 @@ Vias: full-depth preferred
 
 Via Standards (type, drill dia, ring dia):
 
-* vias-in-pad (0.2mm, 0.25mm)
+* vias-in-pad (0.2mm, 0.3mm)
 * compact (0.25mm, 0.3mm)
 * traditional (0.4mm, 0.8mm)
 * thermal (0.5mm, 0.6mm)
@@ -91,6 +65,145 @@ Silkscreen Standard:
 * MFG Origin (ex. Made in Canada with imported parts)
 
 Special Markings: flammability (ex. UL94V-0), WEEE directive, RoHS, REACH, CE, UL Recognized, UL Listed
+
+## Passive
+
+Resistor Standard: R1608M (SMT), AEC-Q200, 100V, Thin Film, Inorganic Passivation, -55C to 175C
+
+MLC Capacitor Standard: AEC-Q200, 100V, Soft Termination, X7S/X8L
+
+## Diode
+
+10A: Diodes Inc, SBR10M100P5Q-13 (100V, 2uA leak-max 25C, 0.88V drop-max, 18ns switch, 245pF junction, -55 to 175C, 4x6.5/26mm2) (recommended)
+
+## Controller Area Network (CAN)
+
+Standards: CAN, CAN-FD, CAN-SiC (CiA 601-4), CAN-XL, CANOpen
+
+CAN-FD Transceiver: (testing) (target spec: CAN-FD-SiC, AECQ-G1, 8Mbps, -58 to 58V bus fault tolerance, exposed pad, ESD tolerance, UVLO, standby, VIO, hot-swap, thermal shutdown, 3x3mm)
+
+## RS485
+
+RS485 Transceiver: Maxim Integrated, MAX14775EATA+ 
+(-40 to 125C, 20Mbps, -65 to 65V fault tolerance, hot-swap, thermal shutdown, 3 to 5.5V input, SCP, reliable output state)
+(3x3x0.75mm, TDFN8, exposed pad, side pads)
+([Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX14775E-MAX14776E.pdf))
+
+We wanted 100Mbps (ex. Maxim Integrated, MAX22501E) but we highly value 60V+ fault protection (given our 48VDC power standard) and our current node MCU frequencies are too low anyway (future goal, 1GHz+ low-power compact MCUs).
+
+## Data Storage
+
+Commercial SATA 2.5FF SSD: SAMSUNG, 870 EVO, 4TB (0 to 70C, 2400TBW) 
+([Datasheet](https://semiconductor.samsung.com/resources/data-sheet/Samsung_SSD_870_EVO_Data_Sheet_Rev1.1.pdf))
+
+Industrial M.2 NVMe SSD: (testing) (target spec: PCIe 3.0, NVMe 1.4, -40C to 85C, 2280FF, SLC, vibration/shock/altitude)
+
+Embedded Flash: Ferroelectric RAM (testing) (target spec: SMT, AECQ-G1, on-die ECC, 2Mbit, 10^14 writes/bit, 10+ year data retention)
+
+## CPU
+
+* 8 Core, 16 Thread, 3+ GHz Base, iGPU
+* Cache: L1-I 32KBx8, L1-D 32KBx8, L2 512KBx8, L3 16MBx1
+* 64GB DDR5 RAM Support
+* <30W TDP
+
+## MCU
+
+* AECQ-G1 (-40 to 125C)
+* <100uA/MHz
+* ECC Dual-Bank Flash
+* ECC SRAM
+* Ethernet MAC
+
+## Thermal
+
+Thermal Jumpers: Vishay, THJP (170W/m-K, -65C to 150C) (preferred: 1608M/3216M, tin-plated nickel termination)
+([Datasheet](https://www.vishay.com/docs/60157/thjp.pdf))
+
+XY Thermal Pads: (testing) (1800 W/m-K, -40C to 120C)
+
+Z Thermal Pads: (testing) (28 W/m-K, -55C to 400C)
+
+## USB
+
+USB-C 24-pin Connector: Wurth Electronik, 632723300011 (SMT/THT standard-mount, -40C to 105C, 6.2mm insertion length,  1.9mm pin length)
+
+[USB-IF DOC LIBRARY](https://www.usb.org/documents)
+
+[USB2 SPEC-DL WEBPAGE, 2021-07-01](https://usb.org/document-library/usb-20-specification)
+
+[USB4 SPEC-DL WEBPAGE, 2021-06-09](https://www.usb.org/document-library/usb4tm-specification)
+
+[USB POWER DELIVERY SPEC-DL WEBPAGE, 2021-07-06](https://www.usb.org/document-library/usb-power-delivery)
+
+[USB Type-C REV2.1 SPEC-DL WEBPAGE, 2021-05-25](https://www.usb.org/document-library/usb-type-cr-cable-and-connector-specification-revision-21)
+
+[USB Type-C LOCKING SPEC-DL WEBPAGE, 2016-03-09](https://www.usb.org/document-library/usb-type-cr-locking-connector-specification)
+
+## Connector
+
+General-Purpose Wire-to-Wire: Molex, CP-4.5 Series (600V/10A max, 16-20/22-26AWG, -40C to 120C, polarized/color-mating, locking, genderless terminals, halogen-free)
+
+High-Current: Wurth Electronik, THT External-Thread, 74651173 (M3, 50A, -55C to 150C, tin-plated brass)
+
+Low-Current Permanent Wire-to-Board: Molex, Board-In 2.5mm Series, Right-Angle Models (3A/125V max, -40 to 125C, 0.22 to 0.35mm2 wire, halogen-free)
+
+## Fuse
+
+48V-Power Time-Delay Fuse: Schurter, UMT-H Series (C-UL-US/TUV/CQC, AECQ, -55 to 125C, 125VAC/72VDC, 5.3x16mm, 500A breaking)
+([Datasheet](https://www.schurter.com/en/datasheet/typ_UMT-H.pdf))
+
+Class-J Time-Delay Fuse: Mersen, AJT Series (UL/CSA, 200kA-AC/100kA-DC interrupt, open fuse indication, dual-element) (aka 4TAR9 at Grainger Canada)
+([Datasheet](https://ep-us.mersen.com/sites/mersen_us/files/DS-AJT-Class-J-Time-Delay-Mersen.pdf))
+
+Fuse Reducer: Mersen J636 (UL/CSA, 600V, adapts 30A fuse to 60A fuseholders)
+
+## Single Pair Ethernet (SPE)
+
+(SPE: IEEE 802.3)
+
+[SPE Summary, Microchip Webpage](https://www.microchip.com/en-us/solutions/ethernet-technology/single-pair-ethernet)
+
+100BASE-T1, TI, SZZY009, 2018 ([PDF](https://www.ti.com/lit/wp/szzy009/szzy009.pdf))
+
+[OPEN Alliance](https://www.opensig.org/)
+
+* video-audio bridge
+* time-sensitive networking (TSN)
+
+## Wireless
+
+(Wifi: IEEE 802.11)
+
+[Wifi Alliance](https://www.wi-fi.org/)
+
+Wifi Antenna: 2.4/5/6GHz, <1.5 VSWR, 80%+ efficiency, omnidirectional, -30 to 85C, SMA-M
+
+* 2400 to 2485 MHz
+* 5150 to 5850 MHz
+* 5925 to 7125 MHz
+
+RF Bulkhead: SMA-F to SMA-F, 18GHz max, <1.22 VSWR, <2mohm, -65 to 165C, 50 ohm impedance
+
+* stainless steel body
+* beryllium copper contact
+* gold finish (body+contact)
+* PTFE insulation
+* silicone seal
+
+RF Cable: SMA-M to SMA-M, 8GHz max, <1.5 VSWR, gold finish, 50 ohm impedance
+
+## Instruction Set Architecture
+
+ISA: Complex, Reduced (General), Reduced (Graphics)
+
+AMD, Intel, Nvidia
+
+[RISC-V International](https://riscv.org/)
+
+[ARM](https://www.arm.com)
+
+[SiFive](https://www.sifive.com/)
 
 ## NOTES
 
