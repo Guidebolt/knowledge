@@ -2,6 +2,10 @@
 
 The design and development of good mechanical systems.
 
+## Videos
+
+Additive Manufacturing, CCAT Shop Tour, 2022: [Youtube Link](https://www.youtube.com/watch?v=oVEN8h3fr6s)
+
 ## Aesthetic-Functional Design
 
 (industrial design, product design)
@@ -40,6 +44,15 @@ Preferred: 6061/7075 Aluminum, A4 Stainless Steel (A4SS)
 
 3D Printing PLA: Natureworks 3D870 
 ([Datasheet](https://www.natureworksllc.com/~/media/Files/NatureWorks/Technical-Documents/Technical-Data-Sheets/TechnicalDataSheet_3D870_monofilament_pdf.pdf?la=en))
+
+## Acoustics
+
+Basic Acoustic Theory:
+
+* Sound waves propagate through a medium (ex. air)
+* When sound waves contact a different medium (ex. air to wall), some waves are reflected by the new medium; some waves are absorbed in the new medium (as heat or kinetic resonance); some waves propagate through the new medium.
+
+The industry-standard for acoustic insulation is mass-loaded vinyl (MLV). We don't like its PVC base because the plasticizer off-gas causes reduced longevity and health risks (ok but not ideal). It seems a more durable and safe alternative is mass-loaded EVA. 
 
 ## Screws
 

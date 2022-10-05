@@ -1,16 +1,34 @@
 # Software Design
 
-The design and development of good software systems.
+## Languages
 
-Languages: Python (fast abstract), PHP (fast-deploy web-dev), C (embedded, simple high-rel programs), C++ (complex high-performance programs)
+These are the main languages that we are most familiar with:
 
-## Real Time OS
+* Python (fast abstract)
+* PHP (fast web)
+* C (high-performance)
+* C++ (high-performance complex)
+* Rust (high-performance reliable-dev)
 
-[Linux](https://kernel.org/)
+## Resources
 
-[Real Time Linux](https://wiki.linuxfoundation.org/realtime/start)
+[The Art of Unix Programming, e-book](https://archive.org/details/ost-computer-science-the_art_of_unix_programming-1)
 
-[FreeRTOS](https://www.freertos.org)
+
+
+## Operating System
+
+All our high-performance compute modules (ex. APU/MPU) run the Linux kernel. Our preferred OS is Debian. We're fully committed to this open-source kernel+OS ecosystem for all of our projects. We use real-time Linux for time-sensitive applications.
+
+All our simple compute modules (ex. MCU) run an embedded RTOS (ex. FreeRTOS).
+
+[Linux Kernel, Main Website](https://kernel.org/)
+
+[Debian, Main Website](https://www.debian.org/)
+
+[Real Time Linux, Main Website](https://wiki.linuxfoundation.org/realtime/start)
+
+[FreeRTOS, Main Website](https://www.freertos.org)
 
 ## Codebase, Version Control, Build System
 
@@ -23,6 +41,15 @@ Languages: Python (fast abstract), PHP (fast-deploy web-dev), C (embedded, simpl
 [Github](https://github.com/)
 
 [Meson](https://mesonbuild.com/)
+
+## Distribution
+
+* Source Code
+* AppImage
+
+For our open source projects, we strive to provide an easy process to compile/install/uninstall the code.
+
+For all our software distribution, we strive to provide data-integrity and data-authenticity verification.
 
 ## Graphics, VR/AR, Machine Vision
 
@@ -41,12 +68,6 @@ Languages: Python (fast abstract), PHP (fast-deploy web-dev), C (embedded, simpl
 [Alsa](https://alsa-project.org)
 
 [DeepSpeech (Mozilla)](https://github.com/mozilla/DeepSpeech)
-
-## General
-
-The Art of Unix Programming
-
-[TEXT](https://archive.org/stream/ost-computer-science-the_art_of_unix_programming-1/the_art_of_unix_programming%20%281%29_djvu.txt) [PDF](https://ia800202.us.archive.org/27/items/ost-computer-science-the_art_of_unix_programming-1/the_art_of_unix_programming%20%281%29.pdf)
 
 ## C, C++
 

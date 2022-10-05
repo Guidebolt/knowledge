@@ -12,6 +12,12 @@ repo_url: https://github.com/guidebolt/knowledge
 
 theme:
     name: material
+    custom_dir: overrides
+    palette:
+        scheme: default
+        primary: white
+    logo: assets/logo.png
+    favicon: assets/favicon.png
     features:
         - navigation.instant
         - navigation.expand
@@ -19,3 +25,8 @@ theme:
 
 markdown_extensions:
   - admonition
+  - attr_list
+  - md_in_html
+
+extra_css:
+  - assets/extra.css

@@ -1,12 +1,137 @@
 # Tools
 
-## Labeling
+## Phone Software
+
+Text Chat and Voice Calls:
+
+* [Signal](https://signal.org/en/)
+* [Whatsapp](https://www.whatsapp.com/)
+
+Basic Sound Analyzer: 
+[Sound Analyzer App (Dominique Rodrigues)](https://play.google.com/store/apps/details?id=com.dom.audioanalyzer)
+
+## Software Services
+
+Email Hosting: 
+
+* [Fastmail](https://www.fastmail.com/) (recommended)
+* [Protonmail](https://proton.me/) 
+
+Real-Time Text Chat: [Zulip](https://zulip.com/) (recommended)
+
+Project Version Control (Low-to-Medium Filesize): [Github](https://github.com/) (recommended)
+
+Online Meetings: [Google Meet](https://meet.google.com/) (recommended)
+
+Real-Time Voice Chat: [Discord](https://discord.com/)
+
+Collaborative Documents: [Google Drive](https://drive.google.com)
+
+Online PDF Editing Tool: [Sejda](https://www.sejda.com/) (recommended)
+
+Utility:
+[RapidTables Conversion](https://www.rapidtables.com/convert/index.html),
+[Digikey Calculators](https://www.digikey.ca/en/resources/online-conversion-calculators),
+
+## Computer Software
+
+Document Suite: [Libreoffice](https://www.libreoffice.org/) (recommended)
+
+Free, open-source, high-quality, cross-platform alternative to Microsoft Word for producing text documents, spreadsheets, slideshows, basic drawings, and simple databases. Great import/export compatibility for various file formats.
+
+Markdown Editor: [Ghostwriter](https://wereturtle.github.io/ghostwriter/) (recommended) (nice: nav menu, html preview)
+
+Password Manager: [KeepassXC](https://keepassxc.org/) (recommended) (free, open-source, cross-platform, offline, modern GUI, actively developed, fork of [Keepass](https://keepass.info)) (tip: save a non-obvious paper copy of your master password; save database backups regularly)
+
+MCAD: [Autodesk Inventor](https://www.autodesk.com/products/inventor/overview) with [Product Design and Manufacturing Collection](https://www.autodesk.com/collections/product-design-manufacturing/overview)
+
+MCAD Collaborative PDM: [GrabCAD Workbench](https://grabcad.com/workbench)
+
+ECAD: [Kicad](https://www.kicad.org/) (strongly recommended)
+
+We use this for most of our schematic-to-PCB ECAD work. This is a good free, open-source, cross-platform EDA suite sponsored by CERN and increasingly supported by the industry.
+
+Visual PCBA Plugin for Kicad: [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)
+
+Programming Text Editor: [Visual Studio](https://visualstudio.microsoft.com/), [Atom](https://atom.io/)
+
+CLI Text Search: [Silver Searcher](https://geoff.greer.fm/ag/), [Silver Searcher on Github](https://github.com/ggreer/the_silver_searcher)
+
+---
+
+Diagram Editor: [Draw.io](https://about.draw.io/) - Free diagramming tool with emphasis on alignment and node-to-node connections. Use online with the browser app, or download the desktop app.
+
+Vector Graphics Editor: [Inkscape](https://inkscape.org/) - Create or edit logos, line art, infographics, and other line-based images.
+
+Raster Graphics Editor: [GIMP](https://www.gimp.org/) - Produce, resize, crop, rotate, and retouch your photos and other dot-style image files.
+
+Audio Editor: [Audacity](https://www.audacityteam.org/) - Record your voice or music, manipulate audio clips for your media library, and import-export different filetypes. Great for handling standard audio tasks like other digital audio workstations (DAWs).
+
+Video Editor: [Kdenlive](https://kdenlive.org) - Simple, robust video editor with primary support for Linux. Free and open source. Renders to numerous standard formats, including WebM and MP4 (AAC/HEVC).
+
+Screen Video Capture and Live Streaming Tool: [Open Broadcaster Software](https://obsproject.com/) - Simple on-screen video recording and live streaming program.
+
+3D Animation and Modeling: [Blender](https://www.blender.org/) - Free and open-source with integrated video editor. Supported by the Blender Foundation.
+
+Digital Illustration: [Clip Studio Paint](http://www.clipstudio.net/en) - Popular and effective digital drawing program for illustrations and manga. Formerly named Manga Studio. Use with a drawing tablet (ex. Wacom, Huion).
+
+---
+
+Operating System: 
+[Debian](https://www.debian.org/),
+[Ubuntu](https://ubuntu.com/),
+[Windows](https://www.microsoft.com/en-us/windows),
+[Windows 10 Official ISO](https://www.microsoft.com/en-ca/software-download/windows10ISO)
+
+(tip: install no more than 1 OS per drive, if possible)
+
+Disk Backup: [CLONEZILLA](https://clonezilla.org/)
+
+Compression/Archival: [7ZIP](http://www.7-zip.org/)
+
+Torrent Client: [QBitTorrent](https://www.qbittorrent.org/), [Transmission](https://transmissionbt.com/download/) 
+
+---
+
+Accounting: [GNUCASH](https://www.gnucash.org/)
+
+Gantt Charts: [GanttProject](https://www.ganttproject.biz/)
+
+## Computer Hardware
+
+USB Drive: SAMSUNG, USB-C (2022 release)
+
+* [Product Page](https://semiconductor.samsung.com/consumer-storage/usb-flash-drive/type-c/)
+* Models: MUF-64DA (64GB), MUF-128DA (128GB), MUF-256DA (256GB)
+* [Review by AnandTech](https://www.anandtech.com/show/17473/samsung-muf256da-usb-c-flash-drive-thumb-sized-performance-consistency)
+
+## Intermittent and Special Tools
+
+Disposable Emails: [Guerrilla Mail](https://www.guerrillamail.com/)
+
+Free Website Security Test: [Qualys SSL-Labs](https://www.ssllabs.com/ssltest/)
+
+RAM Testing: [MEMTEST86](https://www.memtest86.com/)
+
+## Top 10
+
+Transparent Slider Bags: HEFTY, 8x7-2.7mil (strongly recommended) (200mm X 175mm)
+
+[ULINE Product Page](https://www.uline.ca/Product/Detail/S-6983/Slider-Zip-Bags/8-x-7-27-Mil-Hefty-Slider-Bags)
+
+Compact, conforming to contents. Big enough to fit your hand. Fast-identify and fast-open/close. Do not buy any of the smaller sizes. We have used several thousands of these bags over the years.
+
+---
 
 Portable Label Printer: BRADY, BMP21-PLUS (AA batteries) (strongly recommended) (ordering ID: 139535)
 
-Create time-saving labels faster with better clarity, consistency, durability than hand-writing or non-portable printing.
+Create time-saving labels faster with better clarity, consistency, durability than hand-writing or non-portable printing. Perfect complement to storage bags and boxes.
 
 Preferred Labels: 12.7mm wide Vinyl or Nylon (ex. 4-pack vinyl ordering ID: M21-500-595-WT-4PK) 
+
+---
+
+
 
 ## PCB Assembly
 
@@ -118,9 +243,17 @@ SWITCHING POWER SUPPLY (adjustable voltage and current)
 
 BASIC OSCILLOSCOPE: SIGLENT 
 
+## 3D Printing
+
 Standard 3D Printer: [Prusa Original XL](https://www.prusa3d.com/product/original-prusa-xl-6/)
 
 Old 3D Printers: Lulzbot Mini 2, Lulzbot Taz Pro
+
+Nozzles: E3D, Nozzle X
+
+Upcoming Nozzles: E3D, ObXidian
+
+Filament: PLA based on Natureworks 3D870
 
 ## CNC Machining
 
@@ -152,17 +285,27 @@ Dedicated Step-Down Transformer: 3-phase 240VAC to 3-phase 220VAC, isolation, 10
 
 Receptacle/Plug (NEMA15-50, post-transformer): Hubbell, HBL8450A/HBL8451C (CSA/UL)
 
-Dedicated Air Compressors: Makita, MAC320Q (2 parallel units)
+Dedicated Air Compressors: Makita, MAC320Q (2 parallel units) (each rated 50% duty cycle per hour)
+
+---
+
+Workholding
+
+* Adapter Plate: custom-made (2 air inlets: unlock, turbo) (adapts M200X3 table)
+* Quick Plate: Schunk, VERO-S series, NSE3-138-V1 (supports 2-pos anti-spin, 4.4kg) (OID:1313723)
+* Vise: Schunk, KSC grip 125-160 (natural VERO-S interface, 8.7kg) (OID:0432463)
+* Clamping Pin: Schunk, SPA-40RF (between vise and quick-plate) (OID:0432369)
+* Anti-Spin Pin: Schunk, IXB-V1 (between vise and quick-plate) (OID:0471980)
+
+---
+
+Flood Coolant: LubeCorp, GreenCut Cutting Fluid
+
+[Product Page](https://www.lubecorp.com/greencut-cutting-fluid/)
 
 ## Small Parts Storage
 
-STANDARD: Transparent Slider Bags (STRONGLY RECOMMENDED)
 
-Light-weight, compact (conforms to contents), fast-identify, fast open/close.
-
-We've tried different sizes. Too small and the bags are slow because we can't reach in with a full hand and the top is more rigid. Too big and the bags are slow because more distance to slide-open/close, plus harder to fit in compact containers; but big bags can contain smaller bags nicely.
-
-SIZE: 200mm X 175mm (8in X 7in) (great for standard use) (RECOMMENDED)
 
 SIZE: 16in X 12in (intended to fit several smaller bags for categorized organization. fits inside a typical large plastic/kraft storage box)
 
@@ -310,8 +453,6 @@ SSD Enclosure: STARTECH, M2E1BRU31C (IP67, MIL-STD-810G drop-test, USB 3.1 Gen2 
 
 M.2 enclosures can be assembled into external data-drives for greater capacity, reliability, speed, and modularity than normal USB drives.
 
-USB Drive: SAMSUNG, Bar Plus
-
 ## Reach
 
 A-Frame Ladder: Gorilla Ladders, GLX-5B (Type IA 136kg, 3m vertical reach, folding, ANSI/OSHA) (recommended)
@@ -327,6 +468,10 @@ Distilled Water
 70% Isopropyl Alcohol (general-purpose cleaning, ex. degreasing)
 
 4% Acetic Acid (vinegar) (corrosion removal)
+
+## Electrical Supplies
+
+AC90-XLPE
 
 ## Miscellaneous
 

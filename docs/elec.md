@@ -205,6 +205,32 @@ AMD, Intel, Nvidia
 
 [SiFive](https://www.sifive.com/)
 
+## Small Infrastructure
+
+20A 125V Duplex Outlet: Schneider Electric, Square D, X Series, SQR42204WH (tamper-resistant, matte white, outdoor, heavy-duty)
+
+---
+
+NEMA 15-50 Straight Plug: Hubbell, HBL8451C
+
+NEMA 15-50 Receptacle: Hubbell, HBL8450A (requires 63mm-hole 2-gang wallplate, deep 2-gang box)
+
+63mm-hole 2-gang Wallplate: Hubbell, SS701 (stainless steel)
+
+Deep 2-gang 3/4-Hub Box: Thomas and Betts, 2IHD5-2 (requires 3/4-hub closure x2, 3/4-hub fitting)
+
+3/4-hub closure: Thomas and Betts, PLG-2-RD (zinc) (can also be sourced from 3/4-hub box included-accessories)
+
+---
+
+1/2-hub AC90 fitting: Thomas and Betts, CI71 (zinc alloy) 
+
+3/4-hub AC90 fitting: Thomas and Betts, CI72 (zinc alloy)
+
+---
+
+Thomas and Betts, Iberville, Commercial Grade Fittings: [PDF](https://tnb.ca.abb.com/en/pdf-catalogues/fittings-and-conduit-systems/Commercial-Grade-Fittings/Iberville-Commercial-grade-fittings.pdf)
+
 ## NOTES
 
 Thermal Asymptote: When current flows through a trace, its temperature approaches infinity; when a soldering tip touches a pad, its temperature approaches the tip temperature. 

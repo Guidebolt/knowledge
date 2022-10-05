@@ -1,6 +1,6 @@
 # Design
 
-**Design is a description and desire for how something can and should be.** Think about the fundamental process. Draw lines and curves (form). Fill with atoms (composition). Symbolize ideas (abstraction). Plan cause-effect possibilities (interactive potential). 
+**Design is description and desire for how something can and should be.** Draw lines and curves (form). Fill with atoms (composition). Symbolize ideas (abstraction). Plan cause-effect possibilities (interactive potential). 
 
 ## Resources
 
@@ -14,47 +14,36 @@ Human Engineering: [MIL-STD-1472, archived on EVERYSPEC](http://everyspec.com/MI
 
 Electrical-Part Testing: [MIL-STD-202](http://everyspec.com/MIL-STD/MIL-STD-0100-0299/MIL-STD-202G_2397/)
 
-## Quality Score (QS)
+## Guiding Ideas
 
-(perspective/evaluation/planning skill) (strongly recommended)
+**Design Finality**: Making design decisions that survive to commercial production (ideally survives forever).
 
-### Absolute (X / 5)
+**Absolute Quality Score (X / 5)**: The general measure of quality of a product or service. 
 
-X = 5: one of the best possible designs based on leading-edge technologies with zero false-tradeoffs and zero relevant-errors
+* 5/5 = one of the best possible designs based on leading-edge technologies with zero false-tradeoffs and zero relevant-errors
+* 4/5 = excellent design with significant optimizations, no major errors or false-tradeoffs
+* 3/5 = good design; no major errors affecting primary requirements, optimized
+* 2/5 = sufficient design; no significant errors, mostly unoptimized, clear unrealized-potential
+* 1/5 = barely functional; significant errors, generally unoptimized, clear unrealized-potential
+* 0/5 = does not meet functional requirements
 
-X = 4: excellent design with significant optimizations, no major errors or false-tradeoffs
+**Incremental Quality Score (X + I)**: An additive measure of each meaningful improvement on top of the base design as marked by +1 score (ex. +3 for a batch of 3 improvements). The base design is the existing design (for design revisions) OR the simplest possible design (for new designs).
 
-X = 3: good design; no major errors affecting primary requirements, optimized
+Example: The design of scissors. Consider 2 thin steel blocks with sharpened inner edges and holes, held together by a locknut and bolt (absolute 0/5, incremental X). Add rounded edges and simple finger-slots on the holding-end (1/5, X+2). 
 
-X = 2: sufficient design; no significant errors, mostly unoptimized, clear unrealized-potential
+**Unlimited Possibility Space**: The idea of a space where absolutely anything can happen. The greater your imagination, the greater fraction of this space is thinkable.
 
-X = 1: barely functional; significant errors, generally unoptimized, clear unrealized-potential
+**Available Possibility Space**: What is possible in the world within a certain timeframe, from a collective or individual perspective.
 
-X = 0: does not meet functional requirements
+**Design Goals**: The abstract and specific reasons for considering a design space in the first space.
 
-### Incremental (X + I)
+**General Branching**: Grouping similar design possibilities under a single keyword/concept. Remove bad branches from the design space. Avoid tunnel visioning into a good branch where other good, perhaps better, branches also exist.
 
-X: the existing design (for design revisions) OR the simplest possible design at fastest possible development (for new designs) 
+**False Tradeoffs**: Where normally an improvement in A causes a worsening in B, a new approach that allows a pure improvement in A. Ideally discover all false tradeoffs and accordingly apply all pure improvements possible.
 
-I: a meaningful quality improvement, incremented by 1.
+**Prioritization**: Deciding the best design balance of strengths and weaknesses, supported by a deep understanding of the goals, and required by the existence of true tradeoffs.
 
-Example: Design and fully CAD "scissors" (new design). In 10 minutes, CAD 2 steel rectangular blocks with a hole in the center for a bolt+locknut then assemble (this fast design becomes X, with absolute QS = 1). Now add sharpened edges and finger-sized holes for one-handed usability (now X+1, still QS1). Now streamline the cutting cross-sections, transform the holes into simple hand-ergonomic slots (incremental X+2, absolute QS2).
-
-## Standard Design Model
-
-Unlimited Possibility Space: An idea of a space where absolutely anything can happen. The greater your imagination, the greater fraction of this space is thinkable.
-
-Available Possibility Space: What is possible in the world within a certain timeframe, from a collective or individual perspective of control.
-
-Goals: The common-abstract and application-specific reasons for considering a design space in the first place.
-
-General Branching: Grouping similar possibilities under a single keyword and concept (or a single key-phrase and its set of concepts). Remove a clearly-bad branch from the design space to simplify the consideration (deletion or single-branch-focusing is very risky). Important to remove only the bad branch and not let it overlap with a fraction of good branches!
-
-Optimization: Think of different options that maximize particular strengths or minimize particular weaknesses. Look for and remove false tradeoffs to enable absolute improvements towards a more balanced design.
-
-Prioritization: Decide the best balance of strengths and weaknesses, given the reality of fundamental tradeoffs that remain after optimization. 
-
-Specific Completion: The comprehensive completion of all design details required to build a prototype or produce at scale.
+**Specific Completion**: Finalizing all design details required to build a prototype or produce at scale with perfect clarity.
 
 ## Design Goals
 
@@ -88,8 +77,6 @@ Functional Safety:
 **Cleaning**: Smooth Surfaces, Hand-Fitting Internal Volumes, Compatible with Water Immersion and Spray, Minimal Contact with Floor, Easy-Clean Exterior (non-magnetic, non-adhesive, cleaning-chemical-compatible), Low-Splash Surface, Acceptable-Splash-Angle Surface
 
 ## Optimization
-
-Efficiency
 
 **Speed**: Motion, Data Transmission, Data Processing, Chemical Reaction Rate
 
@@ -136,14 +123,7 @@ Mechanical Unity: consistent physical connectivity; ex. car gas-cap is tethered
 * Reverse Polarity Protection (RPP)
 * Electromagnetic Compatibility (EMC)
 
-## Design Finality
 
-**Design finality**: a measure of the similarity between the current design and the intended release design. Design finality can be measured at any fraction or scope of a given system. In practice, design finality is best measured for major decisions and modules. Design finality should not be confused with design perfection. Here, finality means that the design is good enough to be built into a real-world system generating value outside of the development environment, reflecting the quality threshold of the development team. A final design is built, released (ex. MK1), then improved on (as upgrade or replacement) by the next final design (ex. MK2). The benefit of design finality is important for reducing the non-transferable sunk-cost of non-final work between a prototype and the product that must be at least viable and at best excellent. For example, a major design change can cause all CAD work and fabrication work on the current prototype to be completely discarded. Ideally, all major design decisions should be quality-final for the future and development-practical in the present. The cost of design finality is the time required to verify its correctness and the opportunity cost of building a rough non-design-final full-system (instead of building a single design-final module).
-
-* SIMPLE: The design is a functional placeholder and not intended to be final.
-* STANDARD: The design is functional and logically consistent with at least the general elements of the final design.
-* SEMIFINAL: The design is optimized and requires contextual accumulation and real world testing to reach finality.
-* FINAL: The design is final at both idea and implementation and ready for direct inclusion in the next release.
 
 
 

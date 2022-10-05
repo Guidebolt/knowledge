@@ -2,7 +2,7 @@
 
 !!! Info
 	
-	[Guidebolt](https://guidebolt.com/) Public Knowledge-Base. Last updated 2022-05-23. Version 0.43 alpha (work in progress).
+	[Guidebolt](https://guidebolt.com/) Public Knowledge-Base. Last updated 2022-10-05. Version 0.44.0 alpha (work in progress).
 	
 **Information drives every thought, decision, and action.** In our increasingly complex world where logic and trust are hard to weave confidently, it is easy to be misled by noise, incur unknown risks, and waste valuable resources. **Truth is the fundamental solution.**	
 
@@ -10,88 +10,94 @@
 
 [Introduction](/intro)
 
-## Links 1: Various
+## Search Archive
+
+Data archives primarily accessed via text search.
 
 Web Search:
 [DuckDuckGo](https://duckduckgo.com/),
 [Google](https://www.google.com/),
-[Bing](https://www.bing.com),
+[Bing](https://www.bing.com)
 
 Computational Search: [WolframAlpha](https://www.wolframalpha.com/)
 
-Common Platforms:
-[Youtube](https://www.youtube.com/),
-[Wikipedia](https://en.wikipedia.org),
-[Github](https://github.com/),
-[Reddit](https://www.reddit.com/),
-[StackExchange](https://stackexchange.com/),
+Videos: [Youtube](https://www.youtube.com/)
 
-Email:
-[Fastmail](https://www.fastmail.com/)
-[Protonmail](https://protonmail.com/)
+Documents: [Library Genesis](https://libgen.is/), [Sci-Hub](https://sci-hub.st/)
 
-Common Distributors:
-[Mouser](https://www.mouser.ca/),
-[Digikey](https://www.digikey.ca/),
-[Arrow](https://www.arrow.com/),
-[Grainger](https://www.grainger.ca),
-[McmasterCarr](https://www.mcmaster.com/),
+Encyclopedia: [Wikipedia](https://en.wikipedia.org)
 
-General Archive: [Internet Archive](https://archive.org/)
+Codebase: [Github](https://github.com/)
 
-Online Book/Document Archive: [Library Genesis](https://libgen.is/), [Sci-Hub](https://sci-hub.st/)
+Public Backup: [Internet Archive](https://archive.org/)
 
-Specification Archive: [EverySpec](http://everyspec.com/)
+Specifications: [EverySpec](http://everyspec.com/)
 
-Datasheet Archive: [Alldatasheet](https://www.alldatasheet.com/)
+Datasheets: [Alldatasheet](https://www.alldatasheet.com/)
 
-Real-Time Electrical Part Inventory Search: [Octopart](https://octopart.com/)
+Electrical Part Inventory: [Octopart](https://octopart.com/)
 
-Technical Reference: [Engineering Toolbox](https://www.engineeringtoolbox.com)
+Engineering Reference: [Engineering Toolbox](https://www.engineeringtoolbox.com)
 
-Material Property Database: [MatWeb](http://www.matweb.com/)
+Material Properties: [MatWeb](http://www.matweb.com/)
 
-Real-Time Team Chat: [Zulip](https://zulip.com/)
+Semiconductors: [Wikichip](https://en.wikichip.org/)
 
-Chat:
-[Fastmail](https://www.fastmail.com),
-[Discord](https://discord.com/),
-[Whatsapp](https://www.whatsapp.com/),
-[Signal](https://signal.org),
+## Forums and Q&A
 
-Edit: 
-[Notion](https://www.notion.so/),
-[Google Drive](https://drive.google.com),
+Online places to chat with other people, usually not real-time.
 
-Online PDF Tool: [Sejda](https://www.sejda.com/)
+Large Forums (50M+ monthly unique visitors):
 
-Utility:
-[RapidTables Conversion](https://www.rapidtables.com/convert/index.html),
-[Digikey Calculators](https://www.digikey.ca/en/resources/online-conversion-calculators),
+* [Reddit](https://www.reddit.com/)
+* [Quora](https://www.quora.com/)
+* [Stack Exchange](https://stackexchange.com/)
 
-Earth View: 
-[NASA EOSDIS Worldview](https://worldview.earthdata.nasa.gov/),
-[NASA ISS UStream](https://www.nasa.gov/multimedia/nasatv/iss_ustream.html),
-[Google Earth](https://earth.google.com)
+Medium Forums (1M+):
 
-## Links 2: Companies
+* [Hacker News](https://news.ycombinator.com/)
+* [4Chan](https://4chan.org/)
+* [Practical Machinist](https://www.practicalmachinist.com)
 
-Common (Canada):
+Small Forums (100K+):
+
+* [LessWrong](https://www.lesswrong.com/)
+* [CNCZone](https://www.cnczone.com/)
+* [EEVblog Forum](https://www.eevblog.com/forum/)
+* [ElectricianTalk](https://www.electriciantalk.com)
+
+Notable Reddit Subforums:
+
+* [World News](https://www.reddit.com/r/worldnews/)
+* [Preppers](https://www.reddit.com/r/preppers/)
+* [Datahoarder](https://www.reddit.com/r/DataHoarder/)
+
+## Companies
+
+Buy parts and explore the latest products/technologies.
+
+Common, Industrial:
+[Grainger Canada](https://www.grainger.ca),
+[McmasterCarr](https://www.mcmaster.com/)
+
+Common, Electrical Parts:
+[Mouser Canada](https://www.mouser.ca/),
+[Digikey Canada](https://www.digikey.ca/),
+[Arrow](https://www.arrow.com/)
+
+General:
 [AMAZON](https://www.amazon.ca/),
 [BESTBUY](https://www.bestbuy.ca),
 [HOME DEPOT](https://www.homedepot.ca), 
-
-Mechanical:
-[GRAINGER CANADA](https://www.grainger.ca), 
-[MCMASTER-CARR](https://www.mcmaster.com/),
+[RONA](https://www.rona.ca/en),
+[LOWES](https://www.lowes.ca/),
 [ULINE](https://www.uline.ca/)
 
-Electrical (Parts):
+Electrical Parts:
 [AMS](https://ams.com),
 [ANALOG DEVICES](https://www.analog.com),
 [DIODES](https://www.diodes.com/),
 [EPC](https://epc-co.com),
-[INFINEON](https://www.infineon.com/),
 [LITTELFUSE](https://www.littelfuse.com/),
 [MICROCHIP](https://www.microchip.com/),
 [MPS](https://www.monolithicpower.com/),
@@ -103,9 +109,26 @@ Electrical (Parts):
 [ST](https://www.st.com),
 [TDK](https://www.tdk.com),
 [TI](https://www.ti.com/),
+[INFINEON](https://www.infineon.com/)
 
-Electrical (Infrastructure):
-[SCHNEIDER ELECTRIC](https://www.se.com)
+Electrical Infrastructure (MFG):
+[SCHNEIDER ELECTRIC](https://www.se.com),
+[PHASE TECHNOLOGIES](https://www.phasetechnologies.com/),
+[MERSEN](https://www.mersen.com/)
+
+Electrical Infrastructure (DISTR):
+[HOUSE OF ELECTRICAL](https://houseofelectrical.com/),
+[CANADABREAKERS](https://www.canadabreakers.ca/)
+
+Wire and Cable (DISTR):
+[NORAMCO](https://noramco.ca/),
+[ECSWIRE](https://www.ecswire.com),
+[NATIONAL CABLE SPECIALISTS](https://nationalcablespecialists.ca)
+
+Wire and Cable (MFG):
+[NORTHERNCABLES](https://northerncables.com),
+[SOUTHWIRE](https://www.southwire.com/ca/en-ca/),
+[ELECTROCABLES](https://www.electrocables.com/)
 
 Electrical:
 [AMD](https://www.amd.com),
@@ -122,8 +145,14 @@ Pneumatics (Canada):
 Ultrasonics:
 [Crest Ultrasonics](https://crest-ultrasonics.com)
 
+Augmented Reality:
+[Kura AR](https://www.kura.tech/)
+
 Pneumatics:
 [SMC](https://www.smcworld.com/en-jp/)
+
+Construction:
+[Diamatic](https://www.diamatic.ca/)
 
 Certification:
 [CSA](https://www.csagroup.org/),
@@ -138,9 +167,11 @@ Standards:
 [JEDEC](https://www.jedec.org/),
 [IEC](https://www.iec.ch)
 
-Domain Name Registrar: [NAMECHEAP](https://www.namecheap.com/)
+Software Design Training: [Mirdin](https://mirdin.com/)
 
-Free TLS Certificates: [LETS ENCRYPT](https://letsencrypt.org/) (recommended)
+Domain Name Registrar (Global): [NAMECHEAP](https://www.namecheap.com/)
+
+Free TLS Certificates (Global): [LETS ENCRYPT](https://letsencrypt.org/) (recommended)
 
 Internet Service Provider (Canada): [TEKSAVVY](https://www.teksavvy.com/)
 
@@ -148,9 +179,13 @@ Phone Service Provider (Canada): [FREEDOM MOBILE CANADA](https://www.freedommobi
 
 Insurance (Canada): [KASE INSURANCE](https://kaseinsurance.com/)
 
-Financial (Canada):
-[RBC](https://www.rbcroyalbank.com),
-[ARCADIA SOLUTION](https://www.mytaxexpress.com/t2index.html)
+Bank (Canada): [RBC](https://www.rbcroyalbank.com)
+
+Tax Preparation Software: [ARCADIA SOLUTION](https://www.mytaxexpress.com/t2index.html)
+
+Cross-Border Shipping: [DHL](https://www.dhl.com)
+
+Standard Shipping: UPS, CANADA POST, PUROLATOR
 
 Assorted:
 [ATLAS TOOLS](https://www.atlas-machinery.com/),
@@ -170,102 +205,14 @@ Assorted:
 [MLTEST](https://www.mltest.com/),
 [BHPHOTOVIDEO](https://www.bhphotovideo.com/)
 
-Preferred Shipping: [DHL](https://www.dhl.com)
+## Special
 
-
-Shipping:
-UPS,
-CANADA POST,
-PUROLATOR
-
-## Links 3: News and Forums
-
-Small Universal Forums: [Hacker News](https://news.ycombinator.com/)
-
-Metalworking Forums: [Practical Machinist](https://www.practicalmachinist.com)
-
-[Wikichip](https://en.wikichip.org/wiki/WikiChip),
-[EEVblog Forum](https://www.eevblog.com/forum/),
-[Reddit Preppers](https://www.reddit.com/r/preppers/),
-[Reddit Datahoarder](https://www.reddit.com/r/DataHoarder/),
-[LessWrong](https://www.lesswrong.com/)
-
-[HydraulicsPneumatics](https://www.hydraulicspneumatics.com/),
-
-## Links 4: Computer Tools
-
-Document Suite: [Libreoffice](https://www.libreoffice.org/) (recommended)
-
-Free, open-source, high-quality, cross-platform alternative to Microsoft Word for producing text documents, spreadsheets, slideshows, basic drawings, and simple databases. Great import/export compatibility for various file formats.
-
-Markdown Editor: [Ghostwriter](https://wereturtle.github.io/ghostwriter/) (recommended) (nice: nav menu, html preview)
-
-Password Manager: [KeepassXC](https://keepassxc.org/) (recommended) (free, open-source, cross-platform, offline, modern GUI, actively developed, fork of [Keepass](https://keepass.info)) (tip: save a non-obvious paper copy of your master password; save database backups regularly)
-
-MCAD: [Autodesk Inventor](https://www.autodesk.com/products/inventor/overview) with [Product Design and Manufacturing Collection](https://www.autodesk.com/collections/product-design-manufacturing/overview)
-
-MCAD Collaborative PDM: [GrabCAD Workbench](https://grabcad.com/workbench)
-
-ECAD: [Kicad](https://www.kicad.org/) (strongly recommended)
-
-We use this for most of our schematic-to-PCB ECAD work. This is a good free, open-source, cross-platform EDA suite sponsored by CERN and increasingly supported by the industry.
-
-Visual PCBA Plugin for Kicad: [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)
-
-Programming Text Editor: [Visual Studio](https://visualstudio.microsoft.com/), [Atom](https://atom.io/)
-
-CLI Text Search: [Silver Searcher](https://geoff.greer.fm/ag/), [Silver Searcher on Github](https://github.com/ggreer/the_silver_searcher)
-
----
-
-Diagram Editor: [Draw.io](https://about.draw.io/) - Free diagramming tool with emphasis on alignment and node-to-node connections. Use online with the browser app, or download the desktop app.
-
-Vector Graphics Editor: [Inkscape](https://inkscape.org/) - Create or edit logos, line art, infographics, and other line-based images.
-
-Raster Graphics Editor: [GIMP](https://www.gimp.org/) - Produce, resize, crop, rotate, and retouch your photos and other dot-style image files.
-
-Audio Editor: [Audacity](https://www.audacityteam.org/) - Record your voice or music, manipulate audio clips for your media library, and import-export different filetypes. Great for handling standard audio tasks like other digital audio workstations (DAWs).
-
-Video Editor: [Kdenlive](https://kdenlive.org) - Simple, robust video editor with primary support for Linux. Free and open source. Renders to numerous standard formats, including WebM and MP4 (AAC/HEVC).
-
-Screen Video Capture and Live Streaming Tool: [Open Broadcaster Software](https://obsproject.com/) - Simple on-screen video recording and live streaming program.
-
-3D Animation and Modeling: [Blender](https://www.blender.org/) - Free and open-source with integrated video editor. Supported by the Blender Foundation.
-
-Digital Illustration: [Clip Studio Paint](http://www.clipstudio.net/en) - Popular and effective digital drawing program for illustrations and manga. Formerly named Manga Studio. Use with a drawing tablet (ex. Wacom, Huion).
-
----
-
-Operating System: 
-[Debian](https://www.debian.org/),
-[Ubuntu](https://ubuntu.com/),
-[Windows](https://www.microsoft.com/en-us/windows),
-[Windows 10 Official ISO](https://www.microsoft.com/en-ca/software-download/windows10ISO)
-
-(tip: install no more than 1 OS per drive, if possible)
-
-Disk Backup: [CLONEZILLA](https://clonezilla.org/)
-
-Compression/Archival: [7ZIP](http://www.7-zip.org/)
-
-Torrent Client: [QBitTorrent](https://www.qbittorrent.org/), [Transmission](https://transmissionbt.com/download/) 
-
----
-
-Accounting: [GNUCASH](https://www.gnucash.org/)
-
-Gantt Charts: [GanttProject](https://www.ganttproject.biz/)
-
-## Links 5: Intermittent and Special Tools
-
-Disposable Emails: [Guerrilla Mail](https://www.guerrillamail.com/)
-
-Free Website Security Test: [Qualys SSL-Labs](https://www.ssllabs.com/ssltest/)
-
-RAM Testing: [MEMTEST86](https://www.memtest86.com/)
+Earth View: 
+[NASA EOSDIS Worldview](https://worldview.earthdata.nasa.gov/),
+[NASA ISS UStream](https://www.nasa.gov/multimedia/nasatv/iss_ustream.html),
+[Google Earth](https://earth.google.com)
 
 ## Export This Resource
-
 The entirety of this resource is comprised of 2 parts: the markdown text and the files library
 
 Full Markdown Archive: [Github Repo Download](https://github.com/Guidebolt/knowledge/archive/master.zip)

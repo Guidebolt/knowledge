@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.44 (2022-10-05)
+
+* Simplified visual theme
+* Updated company logo
+* Added pages: pneumatics
+* Organized outcast tool recommendations to tools page
+* Restructured main page
+* Condensed business page
+* Condensed critical thinking page
+* Condensed design page
+
 ## 0.43 (2022-04-24)
 
 Significant content update to many pages.
