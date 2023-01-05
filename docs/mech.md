@@ -2,6 +2,12 @@
 
 The design and development of good mechanical systems.
 
+## Resources
+
+Description | Link
+---|---
+History of the jerry can | https://web.archive.org/web/20070524182038if_/http://www.americanheritage.com/articles/magazine/it/1987/2/1987_2_62.shtml
+
 ## Videos
 
 Additive Manufacturing, CCAT Shop Tour, 2022: [Youtube Link](https://www.youtube.com/watch?v=oVEN8h3fr6s)
@@ -126,6 +132,32 @@ MATERIAL.
 
 A super common problem we see is a lack of rounded, chamfered, and deburred edges/corners! This affects not only ergonomics but also safety and reliability! Sharp corners can get dirty and cause infected cuts. Rough edges can abrade wire-jackets to various failure conditions.
 
+## Pneumatics
+
+[Basic Pneumatics (PDF, SMC, 2005)](https://www.smcpneumatics.com/pdfs/smc/basic_pneumatics.pdf)
+
+[SMC, 2022 New AFF/AM/AMD Series](https://ca01.smcworld.com/catalog/New-products-en/mpv/es30-17-aff/index.html)
+
+Compressed Air Purity Standard: ISO 8573
+
+* Air Pre-Filters
+* Air Compressors (ex. 4x pumps, paired 50% duty cycle)
+* Inline Filters (ex. 15um)
+* Check Valves
+* Aftercooler
+* Auto Drain
+* Relief Valve (ex. 1 MPa)
+* Water Separator 
+* Main Line Filter (ex. 1um)
+* Mist Separator (ex. 0.1um)
+* Micro Mist Separator (ex. 0.01um)
+* Purge Valve
+* Tank (with ball-valve + auto-drain bottom)
+
+The North American pipe thread standard is NPT. Our pipe/tube fitting standard is 1 inch NPT (thread size) and 316/A4 stainless steel (material), providing over 2500 LPM (90 CFM) flow capacity at 60 psi.
+
+[Pipe Air Flow (PDF, Parker)](https://www.parker.com/parkerimages/pneumatic/serv/TEC-15.pdf)
+
 ## Cleaning
 
 Preferred: easy-to-clean, see process list below.
@@ -141,3 +173,17 @@ Preferred: easy-to-clean, see process list below.
 [BuildingScience](https://www.buildingscience.com/)
 
 [Belinda Carr](https://www.youtube.com/channel/UC_NzYRcT5IroUsMU2472ViQ)
+
+## Thermal
+
+Refrigerant
+
+## Acoustic
+
+Sound Dampening, Mass-Loaded EVA
+
+https://ncma.org/resource/sound-transmission-class-ratings-for-concrete-masonry-walls/
+
+## Finishing
+
+How to spot galling | https://www.finishing.com/228/49.shtml

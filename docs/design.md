@@ -14,6 +14,14 @@ Human Engineering: [MIL-STD-1472, archived on EVERYSPEC](http://everyspec.com/MI
 
 Electrical-Part Testing: [MIL-STD-202](http://everyspec.com/MIL-STD/MIL-STD-0100-0299/MIL-STD-202G_2397/)
 
+### Stories
+
+Name | Description | Discussion
+---|---|---
+[The Maintenance Race](https://www.worksinprogress.co/issue/the-maintenance-race/) | 1968 Golden Globe Race (sail around the world) | [HackerNews](https://news.ycombinator.com/item?id=32196345)
+[HUDS and GUIS](https://www.hudsandguis.com) | Next-Gen UI Examples | [HackerNews](https://news.ycombinator.com/item?id=31105513)
+[Can't Unsee](https://cantunsee.space/) | Aesthetic Intuition Practice | 
+
 ## Guiding Ideas
 
 **Design Finality**: Making design decisions that survive to commercial production (ideally survives forever).

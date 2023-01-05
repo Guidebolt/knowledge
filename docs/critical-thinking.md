@@ -2,9 +2,13 @@
 
 ## Resources
 
+Topic | Description | Link
+---|---|---
+[Notational Intelligence, thesephist](https://thesephist.com/posts/notation/)
+[Research Debt (Olah & Carter, Distill, 2017)](https://distill.pub/2017/research-debt/)
 [Psychology of Intelligence Analysis (book, CIA)](https://web.archive.org/web/20181203041905/https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/psychology-of-intelligence-analysis)
-
 [Structure of Scientific Revolutions (book, Thomas S. Kuhn, 2012)](https://press.uchicago.edu/ucp/books/book/chicago/S/bo13179781.html)
+Psychology | Programmer's Emotions | https://blog.sidebits.tech/programmers-emotions/
 
 ## Truth and Preparation
 
@@ -13,6 +17,10 @@
 **Truth helps prepare the best possible action.** With clarity, ideals settle for possibilities. With realism, ideals ground to the specific experiences of all entities across all time. With accuracy, a clearly-and-specifically considered intent maps correctly to its thread of present-to-future.
 
 **Preparation is the completion of good truths.** In practice, the full truth of everything is always learned incompletely in pieces. Good truths improve the path, bad truths worsen the path, irrelevant truths make no difference, and non-truths can cause whatever. Some combination of good truths always points to the perfect path; the sufficient collection of good truths for equivalently perfect guidance, at least for a moment, as if possessing the full truth.
+
+## Efficient Thinking
+
+**Every thought and observation should improve your satisfaction or decision-making.** Anything that improves neither is unnecessary/incidental noise.
 
 ## Guiding Ideas
 
@@ -33,7 +41,7 @@
 * **Incremental Improvement**: Skill growth can occur in small steps.
 * **Comfortable Expertise**: Master skills enough to perform superbly with ease.
 * **Scientific Intuition**: Learn ideas deeply enough to be able to think about their conceptual and numerical approximations naturally.
-* **True Causality**: Know what truly causes what. Seemingly small decisions can have big consequences and seemingly big decisions can have small consequences.
+* **True Causality**: Know what truly causes what. Seemingly small decisions can have actually big consequences and seemingly big decisions can have actually small consequences.
 * **First-Time Excellence**: Do it right the first time. Avoid the frustration and sunk cost of incurring even a single major problem.
 * **Convenient Action**: Set up your tasks to be easier to do and they are more likely to get done.
 * **Steady Action**: Move cautiously to avoid unintended injuries and damage. Slowly signal your action before committing fully.
@@ -77,4 +85,4 @@
 
 
 
-.
+

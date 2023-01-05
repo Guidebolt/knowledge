@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.45 (2022-12-23)
+
+* Updated Introduction
+* Added new page: CNC Machining
+* Added table views
+* Added 25+ external resource links
+
 ## 0.44 (2022-10-05)
 
 * Simplified visual theme

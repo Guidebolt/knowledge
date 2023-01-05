@@ -2,6 +2,21 @@
 
 The information on this page is from our perspective as a Canadian business. Your country may have different rules and opportunities so some information may not be fully applicable to your situation.
 
+## Stories
+
+Topic | Description | Link
+---|---|---
+Leadership | Ebook: The Great CEO Within, Matt Mochary | https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8
+Big Retail | The Last Days of Target Canada | https://archive.canadianbusiness.com/the-last-days-of-target-canada/
+User Retention | Lessons from Citizendium | https://upload.wikimedia.org/wikipedia/commons/d/d5/Lessons_from_Citizendium.pdf
+Investors | Reasons Investors Pass on Start-ups, Alex Iskold | https://twitter.com/alexiskold/status/1565732379079196675
+
+[5 Keys to a Successful Team (Google, 2015)](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
+
+[Article: A Group Is Its Own Worst Enemy, 2003-07-01, Clay Shirky](https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html)
+
+[Article: Unicorns and Horses](https://medium.com/@awilkinson/unicorns-vs-horses-f81d8dd61f17)
+
 ## General Recommendations
 
 [Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/complete-file-input-tax-credit.html): GST/HST paid on business expenses become fully refundable tax credits. Benefit is 5% to 15% savings depending on which provinces you mainly purchase from. Import GST is also eligible.
@@ -12,13 +27,11 @@ The information on this page is from our perspective as a Canadian business. You
 
 **Data Security Policy**: Protects against typical brute-force, phishing, and social-engineering attacks. Benefit is significant risk reduction of a typical $1M+ ransomware settlement, reputation damage, and business disruption.
 
-## Resources
+## Tools
 
-[Ebook: The Great CEO Within, Matt Mochary](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8)
-
-[Article: A Group Is Its Own Worst Enemy, 2003-07-01, Clay Shirky](https://web.archive.org/web/20131130191257/http://www.shirky.com/writings/group_enemy.html)
-
-[Article: Unicorns and Horses](https://medium.com/@awilkinson/unicorns-vs-horses-f81d8dd61f17)
+Topic | Description | Link
+---|---|---
+Taxes | Canada Payroll Calculator | https://www.canada.ca/en/revenue-agency/services/e-services/e-services-businesses/payroll-deductions-online-calculator.html
 
 ## Basics
 

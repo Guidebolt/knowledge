@@ -14,6 +14,16 @@ These are the main languages that we are most familiar with:
 
 [The Art of Unix Programming, e-book](https://archive.org/details/ost-computer-science-the_art_of_unix_programming-1)
 
+Topic | Description | Link
+---|---|---
+Site Reliability | Google SRE Free Books/Resources | https://sre.google/books/
+Build System | Future Plans for Autotools | https://news.ycombinator.com/item?id=25910496
+Operating System | Operating Systems: Three Easy Pieces | https://pages.cs.wisc.edu/~remzi/OSTEP/
+Antivirus | Debian Manual | https://www.debian.org/doc/manuals/securing-debian-manual/ch08s08.en.html
+Dev Setup | Best Programming Setup and IDE, John Carmack and Lex Fridman | https://www.youtube.com/watch?v=tzr7hRXcwkw
+
+
+
 
 
 ## Operating System
@@ -22,12 +32,11 @@ All our high-performance compute modules (ex. APU/MPU) run the Linux kernel. Our
 
 All our simple compute modules (ex. MCU) run an embedded RTOS (ex. FreeRTOS).
 
+Topic | Description | Link
+---|---|---
 [Linux Kernel, Main Website](https://kernel.org/)
-
 [Debian, Main Website](https://www.debian.org/)
-
 [Real Time Linux, Main Website](https://wiki.linuxfoundation.org/realtime/start)
-
 [FreeRTOS, Main Website](https://www.freertos.org)
 
 ## Codebase, Version Control, Build System
@@ -95,11 +104,15 @@ C Coding Guidelines for Critical Systems (2004) (MISRA)
 
 All comments shall use inline comment syntax (ex. //).
 
+## CAN
 
+https://github.com/linux-can/can-utils
 
+https://www.kernel.org/doc/html/latest/networking/can.html
 
+## Wireless
 
-
+https://wireless.wiki.kernel.org/en/users/documentation/iw
 
 
 

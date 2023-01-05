@@ -71,6 +71,18 @@ location / {
 
 ```
 
+## Updates
+
+```
+mkdocs --version
+
+pip install -U mkdocs
+
+mkdocs-material --version
+
+pip install -U mkdocs-material
+```
+
 ## Dependencies
 
 Markdown to Static Site Converter: [https://www.mkdocs.org/](https://www.mkdocs.org/)

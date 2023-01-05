@@ -1,5 +1,167 @@
 # Tools
 
+## Computer Software
+
+### General
+
+Function | Name | Description
+---|---|---
+Document Suite | [Libreoffice](https://www.libreoffice.org/) | Free, open-source, high-quality, cross-platform alternative to Microsoft Word for producing text documents, spreadsheets, slideshows, basic drawings, and simple databases. Great import/export compatibility for various file formats. (RCMD)
+Diagram Creator | [Draw.io](https://www.diagrams.net/) | Free, browser app / desktop app. (RCMD)
+Markdown Editor | [Ghostwriter](https://wereturtle.github.io/ghostwriter/) | Free, open-source, nav menu, html preview. (RCMD)
+Password Manager | [KeepassXC](https://keepassxc.org/) | Free, open-source, cross-platform, offline, modern GUI, active dev, fork of [Keepass](https://keepass.info). Save a paper copy of your master password. (RCMD)
+Screen Capture, Live Streaming | [Open Broadcaster Software](https://obsproject.com/) | 
+Compression | [7ZIP](http://www.7-zip.org/)
+
+### Programming
+
+Function | Name | Description
+---|---|---
+Programming Text Editor | [Visual Studio](https://visualstudio.microsoft.com/)
+CLI Text Search | [Silver Searcher](https://geoff.greer.fm/ag/), [Silver Searcher on Github](https://github.com/ggreer/the_silver_searcher)
+
+### Electrical
+
+Function | Name | Description
+---|---|---
+Electronic Design Suite | [Kicad](https://www.kicad.org/) | Free, open-source, cross-platform, sponsored by CERN (RCMD)
+Kicad Visual PCBA Plugin | [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) | 
+
+### Mechanical
+
+Function | Name | Description
+---|---|---
+Mechanical CAD | Autodesk Inventor
+Mechanical CAM | Autodesk Inventor CAM
+
+### Multimedia
+
+Function | Name | Description
+---|---|---
+Vector Graphics Editor | [Inkscape](https://inkscape.org/) | Create or edit logos, line art, infographics, and other line-based images.
+Raster Graphics Editor | [GIMP](https://www.gimp.org/) | Produce, resize, crop, rotate, and retouch your photos and other dot-style image files. (RCMD)
+Audio Editor | [Audacity](https://www.audacityteam.org/) | Record your voice or music, manipulate audio clips for your media library, and import-export different filetypes. Great for handling standard audio tasks like other digital audio workstations (DAWs). (RCMD)
+Video Editor | [Kdenlive](https://kdenlive.org) | Simple, robust video editor with primary support for Linux. Free and open source. Renders to numerous standard formats, including WebM and MP4 (AAC/HEVC). (RCMD)
+3D Animation and Modeling | [Blender](https://www.blender.org/) | Free and open-source with integrated video editor. Supported by the Blender Foundation.
+Digital Illustration | [Clip Studio Paint](http://www.clipstudio.net/en) | Popular and effective digital drawing program for illustrations and manga. Formerly named Manga Studio. Use with a drawing tablet (ex. Wacom, Huion).
+
+### Other
+
+Function | Name | Description
+---|---|---
+Torrenting | [QBitTorrent](https://www.qbittorrent.org/), [Transmission](https://transmissionbt.com/download/)
+Accounting | [GNUCASH](https://www.gnucash.org/)
+Gantt Chart | [GanttProject](https://www.ganttproject.biz/)
+
+---
+
+Operating System: 
+[Debian](https://www.debian.org/),
+[Ubuntu](https://ubuntu.com/),
+[Windows](https://www.microsoft.com/en-us/windows),
+[Windows 10 Official ISO](https://www.microsoft.com/en-ca/software-download/windows10ISO)
+
+(tip: install no more than 1 OS per drive, if possible)
+
+Disk Backup: [CLONEZILLA](https://clonezilla.org/)
+
+## Computer Hardware
+
+USB Drive: SAMSUNG, USB-C (2022 release)
+
+* [Product Page](https://semiconductor.samsung.com/consumer-storage/usb-flash-drive/type-c/)
+* Models: MUF-64DA (64GB), MUF-128DA (128GB), MUF-256DA (256GB)
+* [Review by AnandTech](https://www.anandtech.com/show/17473/samsung-muf256da-usb-c-flash-drive-thumb-sized-performance-consistency)
+
+Consumer hardware/electronics is best purchased during sales or package promotions.
+
+## Hand Tools
+
+### Adjustable Wrench
+
+Small: Channellock, 8WCB (200mm length, wide 40mm opening, comfort grips)
+
+Medium: Milwaukee, 48-22-7415 (400mm length, precision anti-backoff)
+
+The anti-backoff matters a lot more for high-torque wrenching.
+
+Tested by Project Farm, [2021 video](https://www.youtube.com/watch?v=cyOd05PUix4&t=521s)
+
+### Assorted
+
+Tool/Function | Description | DISTR
+---|---|---
+Ferrule Crimper | Pheonix Contact, CRIMPFOX DUO 16S (0.14mm2 to 16mm2) (Part Number: 1202877), RCMD | Mouser Canada
+
+Screwdriver: PICQUIC, Super 8 Plus (durable, friction-fit bit compartment, magnetic bit holder) (recommended)
+
+Auto-Locking Hex-Bit Holder: Milwaukee, 48-32-4531
+
+Retractable Utility Knife: STANLEY, Classic 99 (retractable blade, all-metal, spare blade compartment) (recommended)
+
+Straight Scissors: MILWAUKEE, Jobsite Series, 48-22-4041 (recommended)
+
+Offset Scissors: MILWAUKEE, Jobsite Series, 48-22-4040 (recommended)
+
+Parallel Clamp: BESSEY, K Body REVOlution, KRE3524 (recommended)
+
+Discrete hex keys fit in tight places. Combination hex keys don't get lost easily.
+
+* Hex Keys (metric/SAE)
+* Metric Hex Key Set, Folding/Locking: Husky, HFLDHKM8PCC
+* SAE Hex Key Set, Folding/Locking: Husky, HFLDHKS8PCC
+
+Tongue-and-Groove Pliers: CHANNELLOCK
+
+Slip-Joint Pliers: CHANNELLOCK
+
+Cutting Pliers: CHANNELLOCK
+
+Linemen Pliers: CHANNELLOCK
+
+Long Nose Pliers: CHANNELLOCK
+
+Long Reach Pliers: CHANNELLOCK
+
+Crimping Pliers: CHANNELLOCK
+
+## Power Tools
+
+Tool/Function | Description | DISTR
+---|---|---
+Cordless Drill | Makita XGT Compact Drill/Driver (Part ID: HP001GZ)
+Reciprocating Saw | Makita XGT (Gen1: JR001GZ) (Gen2: JR002GZ)
+
+A cordless reciprocating saw is one of the only compact/practical options to cut metals like aluminum and steel without the mess/hazard of an abrasive saw. Significant resilient value for all kinds of work. Later we plan to acquire a cold saw to reduce setup time and improve accuracy for our cuts.
+
+Cordless Impact Driver: Makita XGT, BLDC (ORDERING ID: TD001GZ) (1/4" Socket)
+
+Cordless Angle Grinder: Makita XGT (ORDERING ID: GA029GZ) (Variable Speed, Paddle Switch, 125mm Wheel Dia, 5/8"-11 UNC Arbor)
+
+Cordless Tool Battery: Makita XGT (ORDERING ID: BL4040)
+
+Cordless Tool Battery Charger: Makita XGT (ORDERING ID: DC40RA)
+
+FLASHLIGHT: FENIX, HT18 (1500 lumens max, 4 bright modes plus strobe, 21700 lithium-ion battery with integrated USB-C charging, IP68 waterproof to 2m, aluminum-frame impactproof to 1m) (RECOMMENDED)
+	
+SHEET METAL NIBBLER: Makita
+
+## Mechanical Design
+
+This workflow starts with a **3D modeling program**. The free and open-source option is [FreeCAD](https://www.freecadweb.org/) but it's not efficient yet for professional use. We use [Autodesk Inventor](https://www.autodesk.com/products/inventor/overview). 
+
+Using this program, we digitally produce parts, assemblies, and drawings.
+
+Windows (OS) -> Autodesk Inventor (CAD) -> 3D Model
+
+... Export STL File -> Cura (CAM) -> Gcode file (on USB Drive) -> 3D Printer -> **Additive Plastic Parts (up to 0.1mm precision)**
+
+... Autodesk Inventor CAM (CAM) -> Gcode file (on USB Drive) -> CNC Machine -> **Subtractive Metal/Plastic Parts (up to 0.001mm precision)**
+
+* 
+* [Product Design and Manufacturing Collection](https://www.autodesk.com/collections/product-design-manufacturing/overview)
+* [Cura](https://ultimaker.com/software/ultimaker-cura)
+
 ## Phone Software
 
 Text Chat and Voice Calls:
@@ -33,77 +195,7 @@ Utility:
 [RapidTables Conversion](https://www.rapidtables.com/convert/index.html),
 [Digikey Calculators](https://www.digikey.ca/en/resources/online-conversion-calculators),
 
-## Computer Software
 
-Document Suite: [Libreoffice](https://www.libreoffice.org/) (recommended)
-
-Free, open-source, high-quality, cross-platform alternative to Microsoft Word for producing text documents, spreadsheets, slideshows, basic drawings, and simple databases. Great import/export compatibility for various file formats.
-
-Markdown Editor: [Ghostwriter](https://wereturtle.github.io/ghostwriter/) (recommended) (nice: nav menu, html preview)
-
-Password Manager: [KeepassXC](https://keepassxc.org/) (recommended) (free, open-source, cross-platform, offline, modern GUI, actively developed, fork of [Keepass](https://keepass.info)) (tip: save a non-obvious paper copy of your master password; save database backups regularly)
-
-MCAD: [Autodesk Inventor](https://www.autodesk.com/products/inventor/overview) with [Product Design and Manufacturing Collection](https://www.autodesk.com/collections/product-design-manufacturing/overview)
-
-MCAD Collaborative PDM: [GrabCAD Workbench](https://grabcad.com/workbench)
-
-ECAD: [Kicad](https://www.kicad.org/) (strongly recommended)
-
-We use this for most of our schematic-to-PCB ECAD work. This is a good free, open-source, cross-platform EDA suite sponsored by CERN and increasingly supported by the industry.
-
-Visual PCBA Plugin for Kicad: [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)
-
-Programming Text Editor: [Visual Studio](https://visualstudio.microsoft.com/), [Atom](https://atom.io/)
-
-CLI Text Search: [Silver Searcher](https://geoff.greer.fm/ag/), [Silver Searcher on Github](https://github.com/ggreer/the_silver_searcher)
-
----
-
-Diagram Editor: [Draw.io](https://about.draw.io/) - Free diagramming tool with emphasis on alignment and node-to-node connections. Use online with the browser app, or download the desktop app.
-
-Vector Graphics Editor: [Inkscape](https://inkscape.org/) - Create or edit logos, line art, infographics, and other line-based images.
-
-Raster Graphics Editor: [GIMP](https://www.gimp.org/) - Produce, resize, crop, rotate, and retouch your photos and other dot-style image files.
-
-Audio Editor: [Audacity](https://www.audacityteam.org/) - Record your voice or music, manipulate audio clips for your media library, and import-export different filetypes. Great for handling standard audio tasks like other digital audio workstations (DAWs).
-
-Video Editor: [Kdenlive](https://kdenlive.org) - Simple, robust video editor with primary support for Linux. Free and open source. Renders to numerous standard formats, including WebM and MP4 (AAC/HEVC).
-
-Screen Video Capture and Live Streaming Tool: [Open Broadcaster Software](https://obsproject.com/) - Simple on-screen video recording and live streaming program.
-
-3D Animation and Modeling: [Blender](https://www.blender.org/) - Free and open-source with integrated video editor. Supported by the Blender Foundation.
-
-Digital Illustration: [Clip Studio Paint](http://www.clipstudio.net/en) - Popular and effective digital drawing program for illustrations and manga. Formerly named Manga Studio. Use with a drawing tablet (ex. Wacom, Huion).
-
----
-
-Operating System: 
-[Debian](https://www.debian.org/),
-[Ubuntu](https://ubuntu.com/),
-[Windows](https://www.microsoft.com/en-us/windows),
-[Windows 10 Official ISO](https://www.microsoft.com/en-ca/software-download/windows10ISO)
-
-(tip: install no more than 1 OS per drive, if possible)
-
-Disk Backup: [CLONEZILLA](https://clonezilla.org/)
-
-Compression/Archival: [7ZIP](http://www.7-zip.org/)
-
-Torrent Client: [QBitTorrent](https://www.qbittorrent.org/), [Transmission](https://transmissionbt.com/download/) 
-
----
-
-Accounting: [GNUCASH](https://www.gnucash.org/)
-
-Gantt Charts: [GanttProject](https://www.ganttproject.biz/)
-
-## Computer Hardware
-
-USB Drive: SAMSUNG, USB-C (2022 release)
-
-* [Product Page](https://semiconductor.samsung.com/consumer-storage/usb-flash-drive/type-c/)
-* Models: MUF-64DA (64GB), MUF-128DA (128GB), MUF-256DA (256GB)
-* [Review by AnandTech](https://www.anandtech.com/show/17473/samsung-muf256da-usb-c-flash-drive-thumb-sized-performance-consistency)
 
 ## Intermittent and Special Tools
 
@@ -167,19 +259,36 @@ Ultrasonic Cleaner Basket: Crest, B1100M
 
 Hot Air Tool: QUICK, 861DW (as recommended by EEVlog and Louis-Rossman) (dual-unit; supports C/F; hold CH2 and CH3 to toggle) (recommended)
 
-## Measurement and Observation
+## Metrology
 
-Digital Calipers (Primary): MITUTOYO, 500-752-20 (Dual-Unit, Digital, IP67, 1X SR44 battery)
-([Product Page](https://ecatalog.mitutoyo.com/ABSOLUTE-Digimatic-Caliper-Series-500-with-Exclusive-ABSOLUTE-Encode-Technology-C1381.aspx))
+Function | MFG | Product ID | Description | DISTR
+---|---|---|---|---
+Digital Calipers | MITUTOYO | 500-752-20 | 150mm max, 20um accuracy, dual-unit, IP67, SR44 battery, RCMD | ITM Instruments
+Vernier Calipers | MITUTOYO | 530-312 | 150mm max, 30um accuracy, dual-unit | ITM Instruments
+Micrometer | MITUTOYO | 293-340-30 | dual-unit, 25mm max, 1.3um accuracy, ratchet stop, IP65, SR44 battery, RCMD | ITM Instruments
+Small Weight Scale | OHAUS | NVT22000 | 22kg max, 4X overload protection, 1g accuracy, corded or 4x C batteries | M&L Testing Equipment
+Large Weight Scale | OHAUS | SD200L | 200kg max, 100g accuracy, corded or 3x C batteries | Grainger Canada
 
-Vernier Calipers (Backup): MITUTOYO, 530-312 (Dual-Unit, Mechanical) 
-([Product Info](https://ecatalog.mitutoyo.com/Vernier-Calipers-Series-530-Standard-Model-C1401.aspx))
-
-Small Weight Scale: OHAUS, NVT22000 (22kg capacity. 4X overload protection. 1g accuracy. 4X C batteries or 4X AA batteries with adapters) - [Product Info](https://us.ohaus.com/en-US/Products/Balances-Scales/Portable-Balances/Navigator/Electronic-Balance-NVT22000-AM)
-
-Large Weight Scale: OHAUS, OHASD200L (200kg capacity, 0.1kg accuracy)
 
 Microscope: AMSCOPE, SM-4NTP (7X-45X, stereo, metal levers, variable zoom and zoom lock) (simul-focal camera port; concurrent use of stereo-view and camera-port) (recommended)
+
+3D Tester: TSCHORN, SlimplusV2, 001V2D012 (10 micron scale, 140mm after shank)
+
+[WEBPAGE](https://www.tschorn-gmbh.de/en/products/3DTesterSLIMplusV2.html)
+
+Dial Test Indicator, Standard: MITUTOYO, 513-405-10T (metric, 0.2mm range, 2um graduation, 0-100-0 reading, 4um accuracy)
+
+Dial Test Indicator, High Accuracy: MITUTOYO, 513-401-10E (metric, 0.14mm range, 1um graduation, 0-70-0 reading, 4um accuracy)
+
+Dial Test Indicator, Wide: MITUTOYO, 513-425-10E (metric, 0.6mm range, 2um graduation, 0-100-0 reading, 7um accuracy)
+
+Rigid Indicator Holder: NOGA, PH3100 (bottom fine adjust)
+
+Articulated Indicator Holder, Small: NOGA, NF6160 (dual fine adjust)
+
+Articulated Indicator Holder, Medium: NOGA, DG6160 (dual fine adjust)
+
+Articulated Indicator Holder, Large: NOGA, MG6161 (dual fine adjust)
 
 ## Hard Organizers
 
@@ -199,10 +308,12 @@ Tip: these containers can be stacked, then opened individually without unstackin
 
 ## Supplies
 
-DUCT TAPE: 3M No Residue, 2425-HD (strong, waterproof, clean removal within 6 months, UL 723 compliant fire-resist) (normal reel 48mm wide x 22.8m length) (recommended) 
+Function | MFG | Product ID | Description | DISTR
+---|---|---|---|---
+No-Residue Duct Tape | 3M | 2420 | strong, waterproof, clean removal within 6 months, UL 723 fire-resist | [ULINE Canada](https://www.uline.ca/Product/Detail/S-23823/3M-Duct-Cloth-Tape/3M-2420-No-Residue-Duct-Tape-2-x-20-yds-Gray)
+Lint-Free Wipes | Dupont | Sontara AC9165a | aerospace-grade | [ULINE Canada](https://www.uline.ca/Product/Detail/S-20681/Wipers/Sontara-Aerospace-Wipers-9-x-17)
+N95 Dust Respirator | Moldex | 2200 | durable shell | [ULINE Canada](https://www.uline.ca/Product/Detail/S-15312/Disposable-Masks/Moldex-2200-N95-Respirator)
 
-* [3M CANADA](https://www.3mcanada.ca/3M/en_CA/p/d/v000274856/)
-* [3M US](https://www.3m.com/3M/en_US/p/dc/v000250015/)
 
 ## Safety
 
@@ -237,6 +348,8 @@ WORK PLATE: ALPHIDIA, Quadhands Jumbo Workbench (powder-coated steel, magnetic-b
 
 Arbor Press: Dake, Model 1-1/2 (3 tons, 48:1 leverage, 1.25in/31.75mm square-ram, 178mm throat, 273mm over table, 66kg) (recommended)
 
+[Arbor Press Buying Guide](https://gallivantingcraftsman.com/best-arbor-press-for-sale/)
+
 ## Equipment
 
 SWITCHING POWER SUPPLY (adjustable voltage and current)
@@ -255,54 +368,6 @@ Upcoming Nozzles: E3D, ObXidian
 
 Filament: PLA based on Natureworks 3D870
 
-## CNC Machining
-
-5-Axis CNC Machine: BROTHER, Speedio M200X3 (3050kg, LWH: 3.1m x 1.3m x 2.6m, UNIT MFG: 2020-09) (INTL DIST: YAMAZEN) (EAST CANADA DIST: FERRO TECHNIQUE)
-
-* power input 200-230VAC 3P+GND, 10kVA nameplate rating
-* air input 0.5MPa 165L/min (SMC, KK130 connector)
-
-Default NA Package:
-
-* 16k rpm spindle with dual-contact BT30 spindle-toolholder interface
-* 22-slot automatic tool-changer (1.4s chip-chip) (0.8s tool-tool)
-* top cover
-* PLC
-* A-axis clamp (turning axis) and C-axis clamp (4th axis)
-* chip shower and 150L coolant tank with chute
-* automatic grease lubricator
-* Coolant-Thru-Spindle Interface (CTSI) (WARNING: requires 1.5MPa, double-check)
-
-Extras:
-
-* hydraulic interface
-
-Dedicated Phase Converter: Phase Technologies, PTE010RQT-H3S1 (Phase Perfect Enterprise, 10HP, NEMA 3R, Quiet, On/Off Switch, Protec Surge Protection, 30kg) (input 1-phase 240VAC, output 3-phase 240VAC with max steady-state 36A and class 10 thermal-overload motor-starting)
-
-Fusible Disconnect (pre-transformer): Schneider Electric, CH362AWK (60A/600V/3P, NEMA 3R/12, CSA) (with fuses, Mersen AJT30; fuse-reducers, Mersen J636)
-
-Dedicated Step-Down Transformer: 3-phase 240VAC to 3-phase 220VAC, isolation, 10kVA
-
-Receptacle/Plug (NEMA15-50, post-transformer): Hubbell, HBL8450A/HBL8451C (CSA/UL)
-
-Dedicated Air Compressors: Makita, MAC320Q (2 parallel units) (each rated 50% duty cycle per hour)
-
----
-
-Workholding
-
-* Adapter Plate: custom-made (2 air inlets: unlock, turbo) (adapts M200X3 table)
-* Quick Plate: Schunk, VERO-S series, NSE3-138-V1 (supports 2-pos anti-spin, 4.4kg) (OID:1313723)
-* Vise: Schunk, KSC grip 125-160 (natural VERO-S interface, 8.7kg) (OID:0432463)
-* Clamping Pin: Schunk, SPA-40RF (between vise and quick-plate) (OID:0432369)
-* Anti-Spin Pin: Schunk, IXB-V1 (between vise and quick-plate) (OID:0471980)
-
----
-
-Flood Coolant: LubeCorp, GreenCut Cutting Fluid
-
-[Product Page](https://www.lubecorp.com/greencut-cutting-fluid/)
-
 ## Small Parts Storage
 
 
@@ -311,55 +376,8 @@ SIZE: 16in X 12in (intended to fit several smaller bags for categorized organiza
 
 ORDERING: ULINE, HEFTY SLIDERS
 
-## Powered Hand Tools
 
-Cordless Hand Drill: Makita XGT, BLDC (ORDERING ID: HP001GZ) (Driver-Drill, Hammer-Drill)
 
-Cordless Impact Driver: Makita XGT, BLDC (ORDERING ID: TD001GZ) (1/4" Socket)
-
-Cordless Reciprocating Saw: Makita XGT (ORDERING ID: JR001GZ)
-
-Cordless Angle Grinder: Makita XGT (ORDERING ID: GA029GZ) (Variable Speed, Paddle Switch, 125mm Wheel Dia, 5/8"-11 UNC Arbor)
-
-Cordless Tool Battery: Makita XGT (ORDERING ID: BL4040)
-
-Cordless Tool Battery Charger: Makita XGT (ORDERING ID: DC40RA)
-
-SHEET METAL NIBBLER: Makita
-
-FLASHLIGHT: FENIX, HT18 (1500 lumens max, 4 bright modes plus strobe, 21700 lithium-ion battery with integrated USB-C charging, IP68 waterproof to 2m, aluminum-frame impactproof to 1m) (RECOMMENDED)
-	
-## Hand Tools
-
-Screwdriver: PICQUIC, Super 8 Plus (durable, friction-fit bit compartment, magnetic bit holder) (recommended)
-
-Auto-Locking Hex-Bit Holder: Milwaukee, 48-32-4531
-
-Retractable Utility Knife: STANLEY, Classic 99 (retractable blade, all-metal, spare blade compartment) (recommended)
-
-Straight Scissors: MILWAUKEE, Jobsite Series, 48-22-4041 (recommended)
-
-Offset Scissors: MILWAUKEE, Jobsite Series, 48-22-4040 (recommended)
-
-Discrete hex keys fit in tight places. Combination hex keys don't get lost easily.
-
-* Hex Keys (metric/SAE)
-* Metric Hex Key Set, Folding/Locking: Husky, HFLDHKM8PCC
-* SAE Hex Key Set, Folding/Locking: Husky, HFLDHKS8PCC
-
-Tongue-and-Groove Pliers: CHANNELLOCK
-
-Slip-Joint Pliers: CHANNELLOCK
-
-Cutting Pliers: CHANNELLOCK
-
-Linemen Pliers: CHANNELLOCK
-
-Long Nose Pliers: CHANNELLOCK
-
-Long Reach Pliers: CHANNELLOCK
-
-Crimping Pliers: CHANNELLOCK
 
 ## Mechanical Bits
 
@@ -439,6 +457,8 @@ Router: NETGATE, SG-3100 (1Gbps ports, 2.5Gbps throughput)
 
 Wireless Access Point: UBIQUITI, Unifi AC Pro, UAP-AC-PRO (2.4GHz 3x3 450Mbps, 5GHz 3x3 1.3 Gbps, PoE)
 
+[Unifi Network Application Scripts for Linux](https://glennr.nl/s/unifi-network-controller)
+
 10GbE Switch: Ubiquiti, Switch Flex XG (ID: USW-Flex-XG)
 
 Short CAT8 Ethernet Cable: STEWART CONNECTOR, CA81-020M-01 (Cat 8.1, LSZH, RJ45 metal-frame, 2m)
@@ -472,6 +492,36 @@ Distilled Water
 ## Electrical Supplies
 
 AC90-XLPE
+
+## Battery
+
+Eneloop 5th Gen AA (NiMH, 1.2V 2Ah)
+
+Eneloop 5th Gen AAA (NiMH, 1.2V 0.8Ah)
+
+[Eneloop101, Info Site](https://eneloop101.com/)
+
+---
+
+SR44 (ex. for digital caliper) (target stock 10)
+
+Product ID: MURATA, SR44R (11.6mm DIA, 5.4mm HIGH, 1.55V, 150mAh, -10C to 60C, IEC SR44, 2.2g) (DISTR: Mouser)
+
+CR1616 (ex. for keyless entry device) (target stock 10)
+
+Product ID: MURATA, CR1616
+
+CR2450 (ex. for digital 3D tester) (target stock 10)
+
+Product ID: MURATA, CR2450
+
+---
+
+Makita XGT (lithium-ion, 40V 4Ah)
+
+---
+
+EM3EV (lithium-ion, 48V-52V 24Ah)
 
 ## Miscellaneous
 

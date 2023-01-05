@@ -1,5 +1,19 @@
 # Electrical Design
 
+## Resources
+
+Topic | Description | Link
+---|---|---
+Embedded Linux | Exploration, Jay Carlson | https://jaycarlson.net/embedded-linux/
+Microcontroller | Exploration, Jay Carlson | https://jaycarlson.net/microcontrollers/
+General | Art of Electronics, 3rd Edition, Paul Horowitz and Winfield Hill | https://archive.org/details/the-art-of-electronics-3rd-ed-2015_202008
+Linear Circuits | Linear Circuit Design Handbook, 2008, by Analog Devices | https://www.analog.com/en/education/education-library/linear-circuit-design-handbook.html
+Thermal | Accurate Thermal Calculations on the Back of a Napkin, Texas Instruments | https://www.ti.com/lit/an/slpa015/slpa015.pdf
+Bus | Comparing Bus Solutions, Texas Instruments | https://www.ti.com/lit/an/slla067c/slla067c.pdf
+MFG Design Limits | Design Limits, Candor | https://www.candorind.com/design-limits/
+Layout | Placement of Inductors, ROHM | https://techweb.rohm.com/knowledge/dcdc/dcdc_pwm/dcdc_pwm03/3254
+Silicon Design | Build Custom Silicon with Google | https://developers.google.com/silicon
+
 ## Introduction
 
 Electrical engineering; design and development. Resistance, capacitance, inductance in the complex source-sink-impedance dynamics of signal-power transmission. Forward and return paths (ground shift), parasitics (leakage, distortion) and electromagnetics (EMI, EMC), form-tradeoffs (3D size, weight) and thermals (real-time distribution, ambient expansion, operating range, cycling, MTBF effects). Whiskering and corrosion (ECM, CAF), part-protection (SMT/THT shock-resist, IP rating, TVS, moisture-sensitivity, conformal-coat/encapsulation), user-safety (fuses, flammability, total-impact of material-lifecycle). Stack-up definition (layers, surface finish, impedance control), production stress (reflow conduction-paths, flux activation, soldermask-defined-pads), quality-assurance (optical inspection, QVL/PPAP), performance-limits and failure-modes (FIT, cascading-events). User experience (silkscreen, connector-mechanisms) and ease-of-maintenance (top vs bottom assembly, universal footprints/pinouts), modularity (universal interfaces, multiple firmware options).
@@ -10,19 +24,7 @@ Electrical engineering; design and development. Resistance, capacitance, inducta
 
 [Wire Gauge Chart (Powerstream)](https://www.powerstream.com/Wire_Size.htm)
 
-## Resources
-
-[Linear Circuit Design Handbook, 2008, by Analog Devices](https://www.analog.com/en/education/education-library/linear-circuit-design-handbook.html)
-
-[Art of Electronics, 3rd Edition, by Paul Horowitz and Winfield Hill](https://archive.org/details/art-of-electronics-3e)
-
-Thermal Intuition, TI, SLPA015 ([PDF](https://www.ti.com/lit/an/slpa015/slpa015.pdf))
-
-Bus Solutions, TI, SLLA067C ([PDF](https://www.ti.com/lit/an/slla067c/slla067c.pdf))
-
-## MFG
-
-[Design Limits, Candor Webpage](https://www.candorind.com/design-limits/)
+* SWD over USB-C
 
 ## Design Quality Standards and Targets
 
@@ -192,6 +194,8 @@ RF Bulkhead: SMA-F to SMA-F, 18GHz max, <1.22 VSWR, <2mohm, -65 to 165C, 50 ohm 
 * silicone seal
 
 RF Cable: SMA-M to SMA-M, 8GHz max, <1.5 VSWR, gold finish, 50 ohm impedance
+
+https://www.digikey.com/en/articles/unlicensed-915-mhz-band-fits-many-applications-and-allows-higher-transmit-power
 
 ## Instruction Set Architecture
 

@@ -9,3 +9,7 @@
 a {
   font-weight: bold;
 }
+
+.md-nav__title { 
+  font-size: 1.1rem;
+}
