@@ -64,7 +64,7 @@ Company | Description | Notes
 [Grainger Canada](https://www.grainger.ca) | Industrial | 
 [McmasterCarr](https://mcmaster.com) | Industrial |
 [Mouser Canada](https://www.mouser.ca/) | Electrical Parts |
-[Digikey Canada](https://www.grainger.ca) | Electrical Parts |
+[Digikey Canada](https://www.digikey.ca/) | Electrical Parts |
 [Arrow](https://www.arrow.com/) | Electrical Parts |
 [Uline](https://www.uline.ca/) | Logistical Supplies
 [Amazon Canada](https://www.amazon.ca/) | Consumer Goods
@@ -95,6 +95,8 @@ Company | Description | Notes
 [RCC ELECTRONICS](https://www.rcce.com/) | Test Equipment | Ex. Siglent
 [TEQUIPMENT](https://www.tequipment.net/) | Test Equipment
 [METAL SUPERMARKETS](https://www.metalsupermarkets.com) | Metals
+[Mr. Metal =](https://mrmetal.ca/) | Metals
+[Kaiser Aluminum](https://www.kaiseraluminum.com/) | Metals
 [Puretap Water](https://puretap.ca/) | Distilled Water | Canada
 
 ### Manufacturers
