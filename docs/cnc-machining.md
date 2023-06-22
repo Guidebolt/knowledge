@@ -4,8 +4,37 @@ Modern CNC machines are capable of micron-scale (0.001+ mm) material processing.
 
 ## Setup
 
-The ideal machine space is a climate-controlled room (temperature, humidity, airflow) with a flat, level, finished floor (ex. thick polished reinforced concrete) 
+The ideal machine space is a climate-controlled room (temperature, humidity, airflow) with a flat, level, finished floor (ex. thick polished reinforced concrete).
 
+We recommend a solid-state 3-phase converter (240VAC 1P to 240VAC 3P) that is rated for at least twice the rated power of the machine as marked on its nameplate (ex. 10kVA machine, 25kVA converter). This safety factor is important for burst power stability (ex. spindle ramp-up) and burst regeneration tolerance (ex. spindle braking). 
+
+We recommend a step-down transformer (240VAC 3P to 220VAC 3P, delta-wye) that supports at least the rated power of the machine (ex. 10kVA machine, 10kVA transformer or better).
+
+## Tooling
+
+For tapping, we use NT Tool Synchrofit 2 (elastic tapholders) with dual-contact BT30 (NT Tool, AHO type).
+
+Function | Toolholder (NT Tool) | Collet (NT Tool) | Tap Interface Standard
+---|---|---|---
+M2 | WBT-AHO30A-SMH8-75 | ER8-3.0A | DIN371
+M2.5 | WBT-AHO30A-SMH8-75 | ER8-3.0A | DIN371
+M3 | WBT-AHO30A-SMH8-75 | ER8-3.5A | DIN371
+M4 | WBT-AHO30A-SMH16-90 | ER16GH-4.5-3.4 | DIN371
+M5 | WBT-AHO30A-SMH16-90 | ER16GH-6-4.9 | DIN371
+M6 | WBT-AHO30A-SMH16-90 | ER16GH-6-4.9 | DIN371
+M8 | WBT-AHO30A-SMH16-90 | ER16GH-8-6.3 | DIN371
+M10 | WBT-AHO30A-SMH16-90 | ER16GH-7-5.5 | DIN376
+M12 | WBT-AHO30A-SMH16-90 | ER16GH-9-7.1 | DIN376
+
+## Operation
+
+The automatic tool change command (ex. M06 T88) selects a tool number (88) in the tool library, checks whether that tool is installed in the ATC carousel according to the ATC list (ex. tool 88 in ATC slot 10), then, if installed, performs an ATC cycle to that ATC slot (10).
+
+Setting new tools on the ATC list can only be done in MDI mode, for accidental change prevention.
+
+The manual-pulse-generator pendant axis-selection knob must be set to OFF in order to move the machine-head (else "Handle Mode" alarm). 
+
+Workpiece clamping force deforms the part while held. Accurately machined dimensions may not survive when the part is released. Minimize clamping force while maintaining sufficient workpiece retention. Plan fabrication around clamp-release deflection.
 
 ## Overview
 
@@ -45,15 +74,17 @@ Add-Ons (most are default on NA product package):
 
 
 
-## Workflow
+## CAD-CAM Workflow
 
 Step | Tool
 ---|---
-General Design | 
+General Design | Regular Documents
 CAD | Autodesk Inventor
 CAM | Autodesk Inventor CAM
 
 ## Toolholders
+
+### Assorted
 
 We generally prefer dual-contact hydraulic toolholders with short gage lengths (ex. 45mm) and direct tool mounting (no collets) for best rigidity and runout. 
 
@@ -205,11 +236,47 @@ Single Point Diamond Tools
 
 ## Workholding
 
-* Adapter Plate: custom-made (2 air inlets: unlock, turbo) (adapts M200X3 table)
-* Quick Plate: Schunk, VERO-S series, NSE3-138-V1 (supports 2-pos anti-spin, 4.4kg) (OID:1313723)
-* Vise: Schunk, KSC grip 125-160 (natural VERO-S interface, 8.7kg) (OID:0432463)
-* Clamping Pin: Schunk, SPA-40RF (between vise and quick-plate) (OID:0432369)
-* Anti-Spin Pin: Schunk, IXB-V1 (between vise and quick-plate) (OID:0471980)
+We use Schunk KSC3 self-centering vises for their high clamping force (35kN) (workpiece pre-stamping is not required), fully encapsulated spindle, and 10um repeatability.
+
+[KSC3 Info Sheet](https://web.archive.org/web/20230119081205if_/https://d16vz4puxlsxm1.cloudfront.net/asset/076200133045-Prod/document_0bieptt4oh63nfolgemvvlk24p/Flyer:%20KONTEC%20KSC3%20Centric%20Clamping%20Vises)
+
+[KSC3 Webpage](https://schunk.com/ca/en/workpiece-clamping-technology/manual-clamping-systems/centric-clamping-vises/ksc3/c/PGR_6876)
+
+Compared to the previous gen (KSC):
+
+* better anti-corrosion (nickel-plated body)
+* better mounting flexibility (Lang 96x96 M10 compatible)
+* more compact form-factor (driving hex does not stick out)
+
+Function | Description | Schunk Product ID
+---|---|---
+Vise with Reversible Jaws | KSC3 grip 125-160 | 1514238
+Vise | KSC3 125-160 | 1514241
+Mounting Pin | SPA-40RF (between vise and quick-plate) | 0432369
+Indexing Pin | IXB-V1 (between vise and quick-plate) | 0432371
+Quick Plate | NSE3-138-V1 | 1313723
+Adapter Plate | (between quick-plate and machine-table) | custom
+5-axis System Jaw | compact, not reversible, requires top jaws, 1-piece | 432472
+Ground Top Jaw | simple flat, 1-piece | 1373278
+Prismatic Top Jaw | for round workpieces, 1-piece | 1373344
+
+These vises support a clamping range of 0 to 156mm/163mm (with the default reversible jaws) but they only have a ~40mm actuation range; the system jaws must be reversed and/or remounted (to either the inner or outer position). For max ranges of different system jaws, see the KSC3 info sheet, page 24 (default reversible jaw is 10). 
+
+For best efficiency building prototype parts, use multiple vises because it's faster and more reliable to quick-swap the vise than the jaws.
+
+Name | Function | Description
+---|---|---
+Vise1 | 0 - 40mm (up to 1.5") | reversible jaws, inner
+Vise2 | 38 - 78mm (2" to 3") | reversible jaws, outer
+Vise3 | 85 - 125mm (3" to 4") | reversible jaws, inner, reversed
+Vise4 | 123 - 163mm (5" to 6") | reversible jaws, outer, reversed
+Vise5 | 0 - 40mm (up to 1.5") | 5-axis jaws with ground top jaws, inner
+Vise6 | 38 - 78mm (2" to 3") | 5-axis jaws with ground top jaws, outer
+
+* driving interface: 12mm male hex (use socket)
+* driving max torque: 100 Nm
+* jaw screw head: M10 female hex
+* jaw screw target torque: 60 Nm
 
 ## Supporting Tools
 

@@ -73,14 +73,28 @@ location / {
 
 ## Updates
 
+mkdocs, mkdocs-material
+
 ```
+# one time setup of python virtual environment
+python3 -m python-venv
+
+# activate virtual environment
+source python-venv/bin/activate
+
 mkdocs --version
 
 pip install -U mkdocs
 
-mkdocs-material --version
-
 pip install -U mkdocs-material
+```
+
+merging update branch into main branch
+
+```
+git checkout master
+
+git merge --squash readybranchnamehere
 ```
 
 ## Dependencies

@@ -29,6 +29,8 @@ Psychology | Programmer's Emotions | https://blog.sidebits.tech/programmers-emot
 * **Proportional Consideration**: Spend more time thinking and getting feedback on more important decisions.
 * **Possibility Over Probability**: Brainstorm and prepare for all normal and abnormal possibilities, especially for high-stakes situations. 
 * **Resilient Value**: Prefer resources that continue to produce useful value even after plans and circumstances change.
+* **Correct X for Y**: Use the correct tools for the job. Use the correct parts for the job. Assign the correct people for the project/task. Consider the correct approach to the problem. Consider the correct idea for the question. Think from the correct perspective for the situation. Establish the correct design for the application.
+* **Full Utilization**: Fully leverage existing resources, especially non-consumables such as durable tools and skills. 
 * **Clear Expectations**: Communicate what you want. Plan and agree to what should happen when something goes wrong, before something goes wrong.
 * **Rational Vigilance**: Routinely question what you are doing and why you are doing it.
 * **Completion**: Finish what you start, start only what you will finish, and stop what is not worth finishing.

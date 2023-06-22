@@ -2,6 +2,26 @@
   font-size: 0.8rem;
 }
 
+.md-nav__title { 
+  font-size: 1.1rem;
+  padding: 0.5rem 1.2rem;
+}
+
+.md-nav--primary .md-nav__link {
+  margin-top: 0;
+  padding: 0.6rem 0.6rem;
+}
+
+.md-nav--secondary .md-nav__link {
+  margin-top: 0;
+  padding: 0.2rem 0.6rem;
+}
+
+.md-nav__link:hover {
+  color: #333;
+  background-color: #F6F6F6;
+}
+
 .md-footer {
   margin-top: 5rem;
 }
@@ -10,6 +30,30 @@ a {
   font-weight: bold;
 }
 
-.md-nav__title { 
-  font-size: 1.1rem;
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6
+{
+  font-weight: bold;
 }
+
+.md-typeset a {
+  color: #0067b5;
+}
+
+.md-typeset a:hover {
+  color: #63bfec;
+  text-decoration: underline;
+}
+
+:root {
+  --md-primary-fg-color:        #222;
+  --md-primary-fg-color--light: #333;
+  --md-default-fg-color--light: #333;
+  --md-primary-fg-color--dark:  #FFF;
+}
+
+

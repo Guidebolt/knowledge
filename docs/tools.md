@@ -13,20 +13,6 @@ Password Manager | [KeepassXC](https://keepassxc.org/) | Free, open-source, cros
 Screen Capture, Live Streaming | [Open Broadcaster Software](https://obsproject.com/) | 
 Compression | [7ZIP](http://www.7-zip.org/)
 
-### Programming
-
-Function | Name | Description
----|---|---
-Programming Text Editor | [Visual Studio](https://visualstudio.microsoft.com/)
-CLI Text Search | [Silver Searcher](https://geoff.greer.fm/ag/), [Silver Searcher on Github](https://github.com/ggreer/the_silver_searcher)
-
-### Electrical
-
-Function | Name | Description
----|---|---
-Electronic Design Suite | [Kicad](https://www.kicad.org/) | Free, open-source, cross-platform, sponsored by CERN (RCMD)
-Kicad Visual PCBA Plugin | [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) | 
-
 ### Mechanical
 
 Function | Name | Description
@@ -38,7 +24,7 @@ Mechanical CAM | Autodesk Inventor CAM
 
 Function | Name | Description
 ---|---|---
-Vector Graphics Editor | [Inkscape](https://inkscape.org/) | Create or edit logos, line art, infographics, and other line-based images.
+Vector Graphics Editor | [Inkscape](https://inkscape.org/) | Create and edit logos, line art, QR codes (extensions > render > barcode > qr), infographics, and other scalable images. 
 Raster Graphics Editor | [GIMP](https://www.gimp.org/) | Produce, resize, crop, rotate, and retouch your photos and other dot-style image files. (RCMD)
 Audio Editor | [Audacity](https://www.audacityteam.org/) | Record your voice or music, manipulate audio clips for your media library, and import-export different filetypes. Great for handling standard audio tasks like other digital audio workstations (DAWs). (RCMD)
 Video Editor | [Kdenlive](https://kdenlive.org) | Simple, robust video editor with primary support for Linux. Free and open source. Renders to numerous standard formats, including WebM and MP4 (AAC/HEVC). (RCMD)
@@ -145,6 +131,32 @@ Cordless Tool Battery Charger: Makita XGT (ORDERING ID: DC40RA)
 FLASHLIGHT: FENIX, HT18 (1500 lumens max, 4 bright modes plus strobe, 21700 lithium-ion battery with integrated USB-C charging, IP68 waterproof to 2m, aluminum-frame impactproof to 1m) (RECOMMENDED)
 	
 SHEET METAL NIBBLER: Makita
+
+## Metal Cutting
+
+Compact small-volume metal-cutting station for under $2000.
+
+* powered by a standard electrical outlet (1500W-2000W)
+* bandsaw can be used on tabletop without mounting to table
+
+Adjust the height of the bandsaw table for best operator ergonomics.
+
+Adjust the height of the stock table to horizontally align the table's stock-support surface to the bandsaw's workholding-surface (no need for specialized jigs).
+
+Use the stock table as small-storage for frequently-used stock lengths.
+
+Function | Product
+---|---
+Mini Bandsaw | FEMI, NG120XL ($1250 CAD at Princess Auto)
+Table for Bandsaw | HUSKY, HOLT46XDB12CA (46-inch, adjustable-height) (RCMD)
+Table for Stock-Support | HUSKY, HOLT46XDB12CA (46-inch, adjustable-height) (RCMD)
+
+FEMI, NG120XL (1300W, 18kg, manual feed, variable-speed electronic-control):
+
+* supports rectangular stock up to 120x102 mm
+* supports square stock up to 112x112 mm
+* supports round stock up to 120mm DIA
+* blade dimensions (1440x13x0.65mm)
 
 ## Mechanical Design
 
@@ -306,15 +318,6 @@ Mounting Plate (ORDERING ID: MILWAUKEE, 48-22-8485)
 
 Tip: these containers can be stacked, then opened individually without unstacking them (great access speed).
 
-## Supplies
-
-Function | MFG | Product ID | Description | DISTR
----|---|---|---|---
-No-Residue Duct Tape | 3M | 2420 | strong, waterproof, clean removal within 6 months, UL 723 fire-resist | [ULINE Canada](https://www.uline.ca/Product/Detail/S-23823/3M-Duct-Cloth-Tape/3M-2420-No-Residue-Duct-Tape-2-x-20-yds-Gray)
-Lint-Free Wipes | Dupont | Sontara AC9165a | aerospace-grade | [ULINE Canada](https://www.uline.ca/Product/Detail/S-20681/Wipers/Sontara-Aerospace-Wipers-9-x-17)
-N95 Dust Respirator | Moldex | 2200 | durable shell | [ULINE Canada](https://www.uline.ca/Product/Detail/S-15312/Disposable-Masks/Moldex-2200-N95-Respirator)
-
-
 ## Safety
 
 SAFETY GLASSES: MILWAUKEE, 48-73-2040 (fully-framed clear lens with impact-resist and anti-fog, gasket)
@@ -349,12 +352,6 @@ WORK PLATE: ALPHIDIA, Quadhands Jumbo Workbench (powder-coated steel, magnetic-b
 Arbor Press: Dake, Model 1-1/2 (3 tons, 48:1 leverage, 1.25in/31.75mm square-ram, 178mm throat, 273mm over table, 66kg) (recommended)
 
 [Arbor Press Buying Guide](https://gallivantingcraftsman.com/best-arbor-press-for-sale/)
-
-## Equipment
-
-SWITCHING POWER SUPPLY (adjustable voltage and current)
-
-BASIC OSCILLOSCOPE: SIGLENT 
 
 ## 3D Printing
 
@@ -522,6 +519,17 @@ Makita XGT (lithium-ion, 40V 4Ah)
 ---
 
 EM3EV (lithium-ion, 48V-52V 24Ah)
+
+## Supplies
+
+Function | MFG | Product | Description | DISTR
+---|---|---|---|---
+Nitrile Gloves | Medicom | General-purpose | 150 gloves, latex-free | Costco
+Shop Towels | Scott | Multi-purpose Original | 550 towels | Costco
+Microfiber Towels | Kirkland | General-purpose | 36 or 324 towels | Costco
+Lint-Free Wipes | Dupont | Sontara AC9165a | aerospace-grade | [ULINE Canada](https://www.uline.ca/Product/Detail/S-20681/Wipers/Sontara-Aerospace-Wipers-9-x-17)
+No-Residue Duct Tape | 3M | 2420 | strong, waterproof, clean removal within 6 months, UL 723 fire-resist | [ULINE Canada](https://www.uline.ca/Product/Detail/S-23823/3M-Duct-Cloth-Tape/3M-2420-No-Residue-Duct-Tape-2-x-20-yds-Gray)
+N95 Dust Respirator | Moldex | 2200 | durable shell | [ULINE Canada](https://www.uline.ca/Product/Detail/S-15312/Disposable-Masks/Moldex-2200-N95-Respirator)
 
 ## Miscellaneous
 

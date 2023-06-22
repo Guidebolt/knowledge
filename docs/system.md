@@ -1,30 +1,40 @@
-# Design
-
-**Design is description and desire for how something can and should be.** Draw lines and curves (form). Fill with atoms (composition). Symbolize ideas (abstraction). Plan cause-effect possibilities (interactive potential). 
+# System Design
 
 ## Resources
 
-The Design of Everyday Things - Revised and Expanded Edition (Book, 2013, Don Norman)
+### General
 
-The Design of Future Things (Book, 2009, Donald A Norman)
+Description | Link
+---|---
+Human Engineering Design Standard (MIL-STD-1472H) (RCMD) | [WEB-PDF](http://everyspec.com/MIL-STD/MIL-STD-1400-1499/MIL-STD-1472H_57041/)
 
-Handbook of Human Factors and Ergonomics (Book, 2021, 5th Edition, Gavriel Salvendy and Waldermar Karwowski)
 
-Human Engineering: [MIL-STD-1472, archived on EVERYSPEC](http://everyspec.com/MIL-STD/MIL-STD-1400-1499/MIL-STD-1472H_57041/)
 
-Electrical-Part Testing: [MIL-STD-202](http://everyspec.com/MIL-STD/MIL-STD-0100-0299/MIL-STD-202G_2397/)
+### Assorted
 
-### Stories
+Description | Links
+---|---
+1968 Golden Globe Race (sail around the world) | [WEB](https://www.worksinprogress.co/issue/the-maintenance-race/) / [HackerNews](https://news.ycombinator.com/item?id=32196345)
+Next-Gen UI Examples | [WEBSITE](https://www.hudsandguis.com) / [HackerNews](https://news.ycombinator.com/item?id=31105513)
+Aesthetic Intuition Practice | [WEBSITE](https://cantunsee.space/)
+The Design of Everyday Things (Book, 2013, Don Norman) |
+The Design of Future Things (Book, 2009, Donald A Norman) |
+Handbook of Human Factors and Ergonomics (Book, 2021, 5th Edition, Gavriel Salvendy and Waldermar Karwowski) |
 
-Name | Description | Discussion
----|---|---
-[The Maintenance Race](https://www.worksinprogress.co/issue/the-maintenance-race/) | 1968 Golden Globe Race (sail around the world) | [HackerNews](https://news.ycombinator.com/item?id=32196345)
-[HUDS and GUIS](https://www.hudsandguis.com) | Next-Gen UI Examples | [HackerNews](https://news.ycombinator.com/item?id=31105513)
-[Can't Unsee](https://cantunsee.space/) | Aesthetic Intuition Practice | 
+## Key Knowledge
 
-## Guiding Ideas
+Description | Notes
+---|---
 
-**Design Finality**: Making design decisions that survive to commercial production (ideally survives forever).
+**Design is description and desire for how something can and should be.** Draw lines and curves (form). Fill with atoms (composition). Symbolize ideas (abstraction). Plan cause-effect possibilities (interactive potential). 
+
+## Abstract Design
+
+Keyword | Description
+---|---
+**Design Finality** | Make design decisions that survive (ideally forever, but at least up to the upcoming/next commercial release)
+
+### Quality
 
 **Absolute Quality Score (X / 5)**: The general measure of quality of a product or service. 
 
@@ -38,6 +48,10 @@ Name | Description | Discussion
 **Incremental Quality Score (X + I)**: An additive measure of each meaningful improvement on top of the base design as marked by +1 score (ex. +3 for a batch of 3 improvements). The base design is the existing design (for design revisions) OR the simplest possible design (for new designs).
 
 Example: The design of scissors. Consider 2 thin steel blocks with sharpened inner edges and holes, held together by a locknut and bolt (absolute 0/5, incremental X). Add rounded edges and simple finger-slots on the holding-end (1/5, X+2). 
+
+### Design Direction
+
+
 
 **Unlimited Possibility Space**: The idea of a space where absolutely anything can happen. The greater your imagination, the greater fraction of this space is thinkable.
 
@@ -53,7 +67,7 @@ Example: The design of scissors. Consider 2 thin steel blocks with sharpened inn
 
 **Specific Completion**: Finalizing all design details required to build a prototype or produce at scale with perfect clarity.
 
-## Design Goals
+## Practical Design
 
 **Basic 1**: Safety, Performance, Reliability, Durability, Longevity
 
@@ -65,7 +79,14 @@ Note: durability means it does not break easily, longevity means it generally wo
 
 **Environment**: Design for... Temperature (ex. thermal expansion), Ingress/Submersion (ex. dust/dirt/sand/water), Condensation, Erosion (natural/artificial), Corrosion, Sunlight (ex. UV exposure), Precipitation (avoid standing water, assess drip dynamics for externalities), Pressure (atmospheric/special)
 
-## Safety
+Design Goals:
+
+Description | Notes
+---|---
+Single User Operation | 
+
+
+### Safety
 
 **Safety Methods**: Danger Removal, Danger Reduction, Shielding, Lockout, Signaling, Intuitive Interface (subconsciously guide safe user experience), Instructions
 
@@ -76,7 +97,7 @@ Functional Safety:
 [ISO 26262](https://www.iso.org/standard/68383.html) (automotive),
 [IEC 60730](https://webstore.iec.ch/publication/3117) (household)
 
-## Common
+### Common
 
 **Common Events**: Impact Test (random shock), Compression Test (random weight), Drop Test (avoid damage/injury/shatter/chip)
 
@@ -84,11 +105,11 @@ Functional Safety:
 
 **Cleaning**: Smooth Surfaces, Hand-Fitting Internal Volumes, Compatible with Water Immersion and Spray, Minimal Contact with Floor, Easy-Clean Exterior (non-magnetic, non-adhesive, cleaning-chemical-compatible), Low-Splash Surface, Acceptable-Splash-Angle Surface
 
-## Optimization
+### Optimization
 
 **Speed**: Motion, Data Transmission, Data Processing, Chemical Reaction Rate
 
-## Usability
+### Usability
 
 **Constrained Use**: One-Handed Use, Independent Use, Low-Tactile-Sense Use, Color-Blind Use, Impaired Vision Use, Impaired Hearing Use, Long-Distance Use, Awkward-Angle Use
 
@@ -96,23 +117,21 @@ Functional Safety:
 
 **Intuitive Sequence**: Left-to-Right, Top-to-Bottom
 
-## Reliability
-
-**Automotive Part Standards**: [AEC Qualification](http://www.aecouncil.com/AECDocuments.html)
+### Reliability
 
 Temperature: operating range, derating, cycling before use, cycling during use, freeze-thaw resistance, flame retardance (UL94)
 
-## Maintenance
+### Maintenance
 
 Signals: Maintenance Reminder, Problem Warning, Maintenance Guiding
 
 Special: Spare Parts Inside Product (Useful Unity), First-to-Fail is Easiest-to-Replace (Zero Maintenance Damage Mitigation), On-Part Info Sticker/Engraving (ex. Company Name, Part Number)
 
-## Durability
+### Durability
 
-Resistance: Scratch, Chip, Dent, Vibrate, Fatigue, Shock, Ingress (assume it happens), Chemical, Galvanic Corrosion
+Resistance: Scratch, Chip, Dent, Vibrate, Fatigue, Shock, Ingress (prevention, ) Chemical, Galvanic Corrosion
 
-## Size, Weight, Form
+### Size, Weight, Form
 
 Fit Through: Standard Door, Garage Door, Car Door, Spiral Corridor, 
 
@@ -122,14 +141,9 @@ Special: Stackable Storage, Stackable Operation, Stands Upright Independently, T
 
 Mechanical Unity: consistent physical connectivity; ex. car gas-cap is tethered
 
-## Electrical
+## Notes
 
-* Lightning Resistance
-* ESD Resistance
-* Overvoltage Protection (OVP)
-* Overcurrent Protection (OCP)
-* Reverse Polarity Protection (RPP)
-* Electromagnetic Compatibility (EMC)
+* disaster-tolerant design
 
 
 

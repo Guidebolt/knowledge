@@ -2,37 +2,34 @@
 
 !!! Info
 	
-	[Guidebolt](https://guidebolt.com/) Public Knowledge-Base. Last updated 2023-01-05. Version 0.45.0 alpha (work in progress).
+	[Guidebolt](https://guidebolt.com/) Public Knowledge-Base. Last updated 2023-06-22. Version 0.46.0 alpha (work in progress).
 	
 **Information drives every thought, decision, and action.** In our increasingly complex world where logic and trust are hard to weave confidently, it is easy to be misled by noise, incur unknown risks, and waste valuable resources. **Truth is the fundamental solution.**	
+
+Truths cost **time** (read/watch/listen/think). Some truths are **useful** (some more than others); some truths are **joyful**; some truths **mislead**; some truths make **no difference**. Different truths serve different **goals** and **situations**.  
+
+This resource uses a  **high-efficiency content style** that is mainly intended for rigorous technical learners/professionals/users.
 
 Abbreviation | Meaning | Notes
 ---|---|---
 RCMD | Recommended | Our threshold for quiet inclusion is low. We highlight excellence explicitly.
 
-First time here? Start with [Introduction](/intro) then explore [Tools](/tools) for personal upgrades that fit your interests/needs, especially the free and recommended ones. For holistic ideas, [Design](/design) explains **quality** and [Critical Thinking](/critical-thinking) explains **preparation**. For focused content, try specific guides such as [Software Design](/software), [Electrical Design](/elec), and [Mechanical Design](/mech). Keep in mind that the use-pattern of this resource varies across new vs returning readers, novices vs experts, and specifically diverse needs; possessing the **correct intent** (for your actual needs) and mapping its **best content flow** (on this and other resources) are up to you.
-
 ## Common
-
-### General
 
 Function | Links | Notes
 ---|---|---
 Web Search | [DuckDuckGo](https://duckduckgo.com/) [Google](https://www.google.com/) [Bing](https://www.bing.com)
 Videos | [Youtube](https://www.youtube.com/)
+Document Archive | [LibraryGenesis](https://libgen.is/), [SciHub](https://sci-hub.st/)
 AI Chat | [OpenAI-ChatGPT](https://chat.openai.com/chat) | 
 Computational Search | [WolframAlpha](https://www.wolframalpha.com/)
 Public Encyclopedia | [Wikipedia](https://en.wikipedia.org)
-Documents | [LibraryGenesis](https://libgen.is/) [SciHub](https://sci-hub.st/)
 Codebases | [Github](https://github.com/)
 Elec Part Availability | [Octopart](https://octopart.com/)
 Engineering | [EngineeringToolbox](https://www.engineeringtoolbox.com)
 Materials | [MatWeb](http://www.matweb.com/)
-Archive | [InternetArchive](https://archive.org/)
-
-### Software
-
-[Debian Packages](https://www.debian.org/distrib/packages)
+Internet Archive | [InternetArchive](https://archive.org/)
+Freelancing | [Upwork](https://www.upwork.com/), [Toptal](https://www.toptal.com/)
 
 ### Other
 
@@ -57,109 +54,126 @@ Website | Monthly Unique Visitors | Notes
 
 ## Companies
 
-### Distributors
+These are companies that we either have interacted with in the past, or are interested in for the future.
+
+### Distributors 1
 
 Company | Description | Notes
 ---|---|---
+[Amazon Canada](https://www.amazon.ca/) | Consumer Goods
+[Arrow](https://www.arrow.com/) | Electrical Parts |
+[Bestbuy](https://www.bestbuy.ca) | Consumer Electronics
+[Digikey Canada](https://www.digikey.ca/) | Electrical Parts |
 [Grainger Canada](https://www.grainger.ca) | Industrial | 
+[Home Depot](https://www.homedepot.ca) | Consumer Hardware
+[ITM Instruments](https://www.itm.com/) | Metrology | Canada
+[Lowes](https://www.lowes.ca/) | Consumer Hardware
 [McmasterCarr](https://mcmaster.com) | Industrial |
 [Mouser Canada](https://www.mouser.ca/) | Electrical Parts |
-[Digikey Canada](https://www.digikey.ca/) | Electrical Parts |
-[Arrow](https://www.arrow.com/) | Electrical Parts |
-[Uline](https://www.uline.ca/) | Logistical Supplies
-[Amazon Canada](https://www.amazon.ca/) | Consumer Goods
-[Bestbuy](https://www.bestbuy.ca) | Consumer Electronics
-[Home Depot](https://www.homedepot.ca) | Consumer Hardware
 [RONA](https://www.rona.ca/en) | Consumer Hardware
-[Lowes](https://www.lowes.ca/) | Consumer Hardware
-[ITM Instruments](https://www.itm.com/) | Metrology | Canada
+[Uline](https://www.uline.ca/) | Logistical Supplies
 
-### Other Distributors
+### Distributors 2
 
 Company | Description | Notes
 ---|---|---
-[Ferro Technique](https://ferrotechnique.com/) | Machines/Tools/Service | Eastern Canada, DISTR for Brother/Yamazen, Schunk, Big Daishowa
-[Quality Carbide Grind](https://www.qcgcarbide.com/) | Machine Tools/Reconditioning | DISTR for YG1, Widia
-[Mississauga Hardware](https://www.mississaugahardware.com/) | Consumer Hardware
-[House of Electrical](https://houseofelectrical.com/) | Elec Infra Parts
-[Proax](https://proax.ca/) | Industrial/Pneumatics | Ex. SMC
-[CanadaBreakers](https://www.canadabreakers.ca/) | Elec Infra Parts | Breakers
-[Noramco](https://noramco.ca/) | Wire/Cable | Canada
-[ECS Wire](https://www.ecswire.com) | Wire/Cable | Canada
-[National Cable Specialists](https://nationalcablespecialists.ca) | Wire/Cable Master Distributor | Canada
-[Superlok Canada/AR-Thomson](https://www.superlokcanada.ca) | Pipe/Compression Fittings | High quality. 316SS focus. Canada DISTR for BMT.
-[BHPHOTOVIDEO](https://www.bhphotovideo.com/) | Consumer Electronics
 [Atlas Machinery](https://www.atlas-machinery.com/) | General Hardware Tools
-[M&L Testing Equipment](https://www.mltest.com/) | Test Equipment | 
-[Ohaus Canada](https://www.ohaus.ca/) | Ohaus Test Equipment | Managed by M&L Testing Equipment
-[RCC ELECTRONICS](https://www.rcce.com/) | Test Equipment | Ex. Siglent
-[TEQUIPMENT](https://www.tequipment.net/) | Test Equipment
-[METAL SUPERMARKETS](https://www.metalsupermarkets.com) | Metals
-[Mr. Metal =](https://mrmetal.ca/) | Metals
+[BHPHOTOVIDEO](https://www.bhphotovideo.com/) | Consumer Electronics
+[CanadaBreakers](https://www.canadabreakers.ca/) | Elec Infra Parts | Breakers
+[ECS Wire](https://www.ecswire.com) | Wire/Cable | Canada
+[Ferro Technique](https://ferrotechnique.com/) | Machines/Tools/Service | Eastern Canada, DISTR for Brother/Yamazen, Schunk, Big Daishowa
+[House of Electrical](https://houseofelectrical.com/) | Elec Infra Parts
 [Kaiser Aluminum](https://www.kaiseraluminum.com/) | Metals
+[M&L Testing Equipment](https://www.mltest.com/) | Test Equipment | 
+[METAL SUPERMARKETS](https://www.metalsupermarkets.com) | Metals
+[Mississauga Hardware](https://www.mississaugahardware.com/) | Consumer Hardware
+[Mr. Metal](https://mrmetal.ca/) | Metals
+[National Cable Specialists](https://nationalcablespecialists.ca) | Wire/Cable Master Distributor | Canada
+[Noramco](https://noramco.ca/) | Wire/Cable | Canada
+[Ohaus Canada](https://www.ohaus.ca/) | Ohaus Test Equipment | Managed by M&L Testing Equipment
+[Proax](https://proax.ca/) | Industrial/Pneumatics | Ex. SMC
 [Puretap Water](https://puretap.ca/) | Distilled Water | Canada
+[Quality Carbide Grind](https://www.qcgcarbide.com/) | Machine Tools/Reconditioning | DISTR for YG1, Widia
+[RCC ELECTRONICS](https://www.rcce.com/) | Test Equipment | Ex. Siglent
+[Superlok Canada/AR-Thomson](https://www.superlokcanada.ca) | Pipe/Compression Fittings | High quality. 316SS focus. Canada DISTR for BMT.
+[TEQUIPMENT](https://www.tequipment.net/) | Test Equipment
 
-### Manufacturers
+### Manufacturers 1
 
 Company | Description | Notes
 ---|---|---
-[Texas Instruments](https://www.ti.com/) | Semi/IC | Top tier quality. Direct sales available.
-[Microchip](https://www.microchip.com/) | Semi/IC |
-[NXP](https://www.nxp.com/) | Semi/IC
-[Analog Devices](https://www.analog.com) | Semi/IC
-[OnSemi](https://www.onsemi.com/) | Semi/IC | 
-[Diodes](https://www.diodes.com/) | Semi/IC
-[Renesas](https://www.renesas.com) | Semi/IC
-[MPS](https://www.monolithicpower.com/) | Power semi/IC |
-[ST](https://www.st.com) | Semi/IC
-[Samsung Semiconductor](https://semiconductor.samsung.com/) | Semi/IC
-[EPC](https://epc-co.com) | GaNFET | 
-[TDK Invensense](https://invensense.tdk.com/) | Sensors
+[AMD](https://www.amd.com) | CPU, GPU | x86-64 ISA
 [AMS](https://ams.com) | Sensors
-[Murata](https://www.murata.com) | Discrete Elec
-[Littelfuse](https://www.littelfuse.com/) | Discrete Elec
-[Nexperia](https://www.nexperia.com/) | Discrete Elec
-[TDK](https://www.tdk.com) | Discrete Elec
+[Analog Devices](https://www.analog.com) | Semi/IC
+[Big Daishowa](https://www.bigdaishowa.com/en) | Machining Tools
+[Diodes](https://www.diodes.com/) | Semi/IC
+[EPC](https://epc-co.com) | GaNFET |
 [Infineon](https://www.infineon.com/) | Discrete Elec | High-quality silicon FETs.
-[Omron Components](https://components.omron.com) | Discrete/Infra Elec
-[Pheonix Contact](https://www.phoenixcontact.com/en-us/) | Discrete/Infra Elec
-[Schneider Electric](https://www.se.com) | Infra Elec
-[Mersen](https://www.mersen.com/) | Infra Elec
-[AMD](https://www.amd.com) | Compute
 [Intel](https://www.intel.com) | Compute
-[Samsung](https://www.samsung.com) | Consumer Electronics
+[Littelfuse](https://www.littelfuse.com/) | Discrete Elec
+[Lyndex Nikken](https://www.lyndexnikken.com/) | Machining Tools
+[Makita Canada](https://www.makita.ca/) | Power Tools | excellent XGT BLDC cordless line-up
+[Maritool](https://www.maritool.com/) | Machining Tools | cost-effective, up-front pricing/discounts
+[Mersen](https://www.mersen.com/) | Infra Elec | fuses
+[Microchip](https://www.microchip.com/) | Semi/IC |
 [Mitutoyo](https://www.mitutoyo.com/) | Metrology | Trusted
+[MPS](https://www.monolithicpower.com/) | Power semi/IC |
+[Murata](https://www.murata.com) | Discrete Elec
+[Nexperia](https://www.nexperia.com/) | Discrete Elec
+[NXP](https://www.nxp.com/) | Semi/IC
+[Omron Components](https://components.omron.com) | Discrete/Infra Elec
+[OnSemi](https://www.onsemi.com/) | Semi/IC |
+[Pheonix Contact](https://www.phoenixcontact.com/en-us/) | Discrete/Infra Elec
+[Renesas](https://www.renesas.com) | Semi/IC
+[Samsung Semiconductor](https://semiconductor.samsung.com/) | Semi/IC
+[Samsung](https://www.samsung.com) | Consumer Electronics
+[Schneider Electric](https://www.se.com) | Infra Elec
+[Sensirion](https://sensirion.com) | Sensors | Switzerland
+[Siglent](https://siglentna.com/) | Electronic Test/Measurement Tools | cost-effective
 [SMC](https://www.smcworld.com/en-jp/) | Pneumatics | Ex. filters, regulators, valves
-[YG1](https://www.yg1.kr/main.asp) | NC Tools 
+[ST](https://www.st.com) | Semi/IC
+[Tenstorrent](https://tenstorrent.com/) | AI Computers | combo training/inference, RISC-V
+[TDK Invensense](https://invensense.tdk.com/) | Sensors
+[TDK](https://www.tdk.com) | Discrete Elec
+[Texas Instruments](https://www.ti.com/) | Semi/IC | Top tier quality. Direct sales available.
 [Widia](https://www.widia.com) | NC Tools
-[Maritool](https://www.maritool.com/) | NC Tools
-[Big Daishowa](https://www.bigdaishowa.com/en) | NC Tools
-[Lyndex Nikken](https://www.lyndexnikken.com/) | NC Tools
-[Makita Canada](https://www.makita.ca/) | Power Tools | Excellent cordless tools (XGT)
+[YG1](https://www.yg1.kr/main.asp) | NC Tools
 
-### Other Manufacturers
+### Manufacturers 2
 
 Company | Description | Notes
 ---|---|---
-[Brother Machine Tools](https://machinetool.global.brother/en-ap) | CNC Machines | Reliable CNC machines
-[Ubiquiti](https://www.ui.com/) | Networking Equipment
-[Noga Engineering](https://www.noga.com/) | Holding | Ex. Magnetic-base Adjustable-arm
-[Phase Technologies](https://www.phasetechnologies.com/) | Solid State Phase Conversion
-[Crest Ultrasonics](https://crest-ultrasonics.com) | Ultrasonic Cleaners 
-[Carmex](https://carmex.com) | Specialty Carbide Tools | Ex. Bidirectional chamfering tools
-[NorthernCables](https://northerncables.com) | Wire/Cable
-[Southwire](https://www.southwire.com/ca/en-ca/) | Wire/Cable
-[Electrocables](https://www.electrocables.com/) | Wire/Cable
-[Igus](https://www.igus.ca) | High-Performance Polymer Parts | Ex. plain bearings
-[Chip Quik](https://chipquik.com) | PCBA Supplies | Ex. Soldering
-[ASROCK INDUSTRIAL](https://www.asrockind.com/) | Industrial Computers
-[NORDSON EFD](https://www.nordson.com) | Fluid Processing Tools
-[KVASER](https://www.kvaser.com/) | CAN Electronics
-[MOLDEX](https://www.moldex.com) | PPE | Respirator Focus
-[Andymark](https://www.andymark.com/) | Competition-Grade Robotics Hardware
-[BASELABTOOLS](https://www.baselabtools.com/) | Lab Hardware
-[ALPHIDIA](https://www.quadhands.com/) | Tabletop Utility Plates
-[Diamatic](https://www.diamatic.ca/) | Construction Chemicals
+[Alphidia](https://www.quadhands.com/)	|	Tabletop Utility Plates	
+[Andymark](https://www.andymark.com/)	|	Competition-Grade Robotics Hardware	
+[ASROCK INDUSTRIAL](https://www.asrockind.com/)	|	Industrial Computers	
+[BASELABTOOLS](https://www.baselabtools.com/)	|	Lab Hardware	
+[Brother Machine Tools](https://machinetool.global.brother/en-ap)	|	CNC Machines	Reliable CNC machines
+[Carmex](https://carmex.com)	|	Specialty Carbide Tools	Ex. Bidirectional chamfering tools
+[Chip Quik](https://chipquik.com)	|	PCBA Supplies	Ex. Soldering
+[Crest Ultrasonics](https://crest-ultrasonics.com)	|	Ultrasonic Cleaners	
+[Diamatic](https://www.diamatic.ca/)	|	Construction Chemicals	
+[Electrocables](https://www.electrocables.com/)	|	Wire/Cable	
+[Harvey Tools](https://www.harveytool.com/)	|	Specialty Carbide Tools	
+[Igus](https://www.igus.ca)	|	High-Performance Polymer Parts	Ex. plain bearings
+[KVASER](https://www.kvaser.com/)	|	CAN Electronics	
+[MOLDEX](https://www.moldex.com)	|	PPE	Respirator Focus
+[Noga Engineering](https://www.noga.com/)	|	Holding	Ex. Magnetic-base Adjustable-arm
+[NORDSON EFD](https://www.nordson.com)	|	Fluid Processing Tools	
+[NorthernCables](https://northerncables.com)	|	Wire/Cable	
+[Phase Technologies](https://www.phasetechnologies.com/)	|	Solid State Phase Converters	
+[Southwire](https://www.southwire.com/ca/en-ca/)	|	Wire/Cable	
+[Ubiquiti](https://www.ui.com/)	|	Networking Equipment	
+[Vega](https://vegatools.com)	|	Driver Bits	
+[Wago](https://www.wago.com)	|	Wire Splicing	
+[Wera Tools](https://www-us.wera.de/en/)	|	Hand Tools	
+[Wiha](https://www.wihatools.com/)	|	Hand Tools	
+
+### Custom Manufacturing
+
+Company | Description | Notes
+---|---|---
+[Aisler](https://aisler.net/) | PCB Fab (Europe)
+[Candor Industries](https://www.candorind.com/) | Advanced PCB Fab (Canada)
 
 ### Software Organizations
 

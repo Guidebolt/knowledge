@@ -109,7 +109,13 @@ Assorted Reading:
 
 [CNCA, Legal Text](https://laws-lois.justice.gc.ca/eng/acts/C-7.75/)
 
+## SRED
 
+[2021 Guidelines on SRED Work Eligibility](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/policies-procedures-guidelines/guidelines-eligibility-work-sred-tax-incentives.html)
+
+[Pre-Claim Consultation Request](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/claim-consultation-request-form.html)
+
+[List of SRED Program Changes](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/whats-new-program.html)
 
 
 

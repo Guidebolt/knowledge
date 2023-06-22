@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.46 (2023-06-22)
+
+* Improved structure for "Electrical Design"
+* Improved structure for "Software Design"
+* Renamed "Design" to "System Design"
+* Improved structure for "System Design"
+* Updated UI
+* Updated mkdocs (v1.4.3) and mkdocs-material (v9.1.16)
+* Refactoring "Introduction"
+* Improved "Main Page" landing text
+
 ## 0.45 (2022-12-23)
 
 * Updated Introduction
