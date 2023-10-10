@@ -1,8 +1,25 @@
+:root {
+  --md-primary-fg-color: #111;
+  --md-primary-fg-color--light: #FFF;
+  --md-default-fg-color--light: #FFF;
+  --md-primary-fg-color--dark:  #FFF;
+}
+
+body {
+  background: #222;
+  --md-default-bg-color: #222;
+}
+
+.md-header[data-md-state="shadow"] {
+  box-shadow: none;
+}
+
 .md-nav {
   font-size: 0.8rem;
 }
 
 .md-nav__title { 
+  color: #FFF;
   font-size: 1.1rem;
   padding: 0.5rem 1.2rem;
 }
@@ -17,17 +34,23 @@
   padding: 0.2rem 0.6rem;
 }
 
+.md-nav__link[data-md-state="blur"] {
+  color: #FFF;
+}
+
 .md-nav__link:hover {
-  color: #333;
-  background-color: #F6F6F6;
+  color: #FFF;
+  background-color: #262626;
+  border-radius: 5px;
+}
+
+.md-nav__item .md-nav__link--active {
+  color: #FFF;
+  text-decoration: underline;
 }
 
 .md-footer {
   margin-top: 5rem;
-}
-
-a {
-  font-weight: bold;
 }
 
 .md-typeset h1,
@@ -37,23 +60,31 @@ a {
 .md-typeset h5,
 .md-typeset h6
 {
+  color: #FFF;
   font-weight: bold;
 }
 
+.md-typeset h2 {
+  font-size: 1.4rem;
+}
+
 .md-typeset a {
-  color: #0067b5;
+  color: #ff9326;
 }
 
 .md-typeset a:hover {
-  color: #63bfec;
+  color: #ff9326;
   text-decoration: underline;
 }
 
-:root {
-  --md-primary-fg-color:        #222;
-  --md-primary-fg-color--light: #333;
-  --md-default-fg-color--light: #333;
-  --md-primary-fg-color--dark:  #FFF;
+.md-typeset table:not([class]){
+  background-color: #262626;
 }
+
+/*
+.md-footer__inner {
+  display: none;
+}
+*/
 
 

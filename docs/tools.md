@@ -1,5 +1,41 @@
 # Tools
 
+## Cost-Effective Common
+
+### Work Table
+
+HUSKY, HOLT46XDB12CA (24x46 inch) (DISTR: Home Depot) (white model is $238 USD) (STRONG RCMD)
+
+Sturdy simple wooden tabletop with steel legs (painted black or white) and adjustable-height crank (manually operated). Requires assembly with M6 screws (included). Also comes with 4x lockable swivel casters and 4x feet. Bottom support bar can be mounted in the center or front/rear. This is the smallest length model and we prefer it compared to the longer sizes that are harder to transport.
+
+### Light-Duty Shelf
+
+Tuff Store, 72in x 36in black plastic shelf (model: 1918555) (DISTR: Home Depot) ($45 CAD) (RCMD)
+
+Fast assembly/disassembly, light-weight, 70kg max load per shelf and 340kg max load total (when evenly distributed), Made in Canada.
+
+### Small Plastic Bin
+
+Tuff Store (transparent, 5.76L capacity, Made in Canada) (clear lid model: 94210) (grey lid 4-pack model: 942110) (blue lid 4-pack model: 942109)  ($2 CAD each, $7 for 4) (RCMD)
+
+12 of these bins can fit on each level of the light-duty shelf above.
+
+### Label Printer
+
+BRADY, M210 (formerly BMP21-PLUS) (ordering ID: 139535) (STRONG RCMD)
+
+Create time-saving labels faster with better clarity, consistency, durability than hand-writing or non-portable printing. Perfect complement to storage bags and boxes. Portable size and runs on AA batteries.
+
+Preferred Labels: 12.7mm wide Vinyl or Nylon (ex. 4-pack vinyl ordering ID: M21-500-595-WT-4PK) 
+
+### Slider Bags
+
+Transparent Slider Bags: HEFTY, 8x7-2.7mil (STRONG RCMD) (200mm X 175mm / 8" x 7") ($63 USD per 250 bags)
+
+Compact, conforming to contents. Big enough to fit your hand. Fast-identify and fast-open/close. Do not buy any of the smaller sizes. We have used thousands of these bags over the years.
+
+[ULINE Product Page](https://www.uline.ca/Product/Detail/S-6983/Slider-Zip-Bags/8-x-7-27-Mil-Hefty-Slider-Bags)
+
 ## Computer Software
 
 ### General
@@ -217,25 +253,9 @@ Free Website Security Test: [Qualys SSL-Labs](https://www.ssllabs.com/ssltest/)
 
 RAM Testing: [MEMTEST86](https://www.memtest86.com/)
 
-## Top 10
 
-Transparent Slider Bags: HEFTY, 8x7-2.7mil (strongly recommended) (200mm X 175mm)
-
-[ULINE Product Page](https://www.uline.ca/Product/Detail/S-6983/Slider-Zip-Bags/8-x-7-27-Mil-Hefty-Slider-Bags)
-
-Compact, conforming to contents. Big enough to fit your hand. Fast-identify and fast-open/close. Do not buy any of the smaller sizes. We have used several thousands of these bags over the years.
 
 ---
-
-Portable Label Printer: BRADY, BMP21-PLUS (AA batteries) (strongly recommended) (ordering ID: 139535)
-
-Create time-saving labels faster with better clarity, consistency, durability than hand-writing or non-portable printing. Perfect complement to storage bags and boxes.
-
-Preferred Labels: 12.7mm wide Vinyl or Nylon (ex. 4-pack vinyl ordering ID: M21-500-595-WT-4PK) 
-
----
-
-
 
 ## PCB Assembly
 
@@ -278,9 +298,9 @@ Function | MFG | Product ID | Description | DISTR
 Digital Calipers | MITUTOYO | 500-752-20 | 150mm max, 20um accuracy, dual-unit, IP67, SR44 battery, RCMD | ITM Instruments
 Vernier Calipers | MITUTOYO | 530-312 | 150mm max, 30um accuracy, dual-unit | ITM Instruments
 Micrometer | MITUTOYO | 293-340-30 | dual-unit, 25mm max, 1.3um accuracy, ratchet stop, IP65, SR44 battery, RCMD | ITM Instruments
+Telescoping Gauge Set | MITUTOYO | 155-905 | 8mm to 150mm | ITM Instruments
 Small Weight Scale | OHAUS | NVT22000 | 22kg max, 4X overload protection, 1g accuracy, corded or 4x C batteries | M&L Testing Equipment
 Large Weight Scale | OHAUS | SD200L | 200kg max, 100g accuracy, corded or 3x C batteries | Grainger Canada
-
 
 Microscope: AMSCOPE, SM-4NTP (7X-45X, stereo, metal levers, variable zoom and zoom lock) (simul-focal camera port; concurrent use of stereo-view and camera-port) (recommended)
 
@@ -339,9 +359,7 @@ DISTRIBUTOR: TEQUIPMENT
 * CIRCUIT BREAKER (ACCESSIBLE, LABELED, KNOWN)
 * GFCI PROTECTION (ON ALL AC PORTS)
 
-## Work Table
-
-TABLE: HUSKY, HOLT46XDB12CA (46-inch, adjustable-height) (RECOMMENDED)
+## Assorted
 
 MONITOR MOUNT: ERGOTRON, 45-509-216 (dual, tall-pole, white) (RECOMMENDED)
 

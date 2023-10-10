@@ -1,6 +1,103 @@
 # Mechanical Design
 
-The design and development of good mechanical systems.
+## Material Science
+
+### Composition
+
+[Periodic Table of Elements (PubChem)](https://pubchem.ncbi.nlm.nih.gov/periodic-table/)
+
+**Elemental Composition**: All physical materials are made of elements.
+
+**Molecular Structure**: One or more elements chemically bond into molecules.
+
+**Crystal Structure**: Molecules are scattered randomly (amorphous) or organized to some pattern (crystalline) based on intermolecular dynamics.
+
+Example: steel
+
+**Cutouts, Infill, Porosity**: Internal geometry can include various forms of material removal/absence such as slots (strength-weight optimizing) and voids (open-cell, closed-cell).
+
+**Composite Structure**: Different materials can be combined at the geometric level.
+
+Example: reinforced concrete
+
+**Residual Stress**: Uneven changes in temperature/microstructure causing spring-like internal tension.
+
+Example: hot-rolled steel
+
+### Properties
+
+**Yield Strength**: Permanent deformation limit. 
+
+**Ultimate Tensile Strength**: stretch-break limit (MPa)
+
+**Fracture Strength**: stress at break
+
+**Thermal Expansion**
+
+**Galvanic Corrosion**
+
+**Resonant Frequency**
+
+### Selection
+
+**6061-T6 Aluminum**
+
+**A4 (SAE 316) Stainless Steel**
+
+**A2 (SAE 304) Stainless Steel**
+
+---
+
+3D Printing Filaments:
+
+* Prototyping: Precision PLA (±20um DIA) based on [Natureworks 3D870](https://www.natureworksllc.com/~/media/Files/NatureWorks/Technical-Documents/Technical-Data-Sheets/TechnicalDataSheet_3D870_monofilament_pdf.pdf?la=en)
+
+## Fasteners
+
+### Standard
+
+Our fastener standard is passivated stainless steel (A2/A4; 304/316) in metric sizes (generally hex-socket/hex-head coarse-threaded M2 thru M12). We often use M2x0.4, M3x0.5, M4x0.7, M6x1, M8x1.25, M10x1.5, M12x1.75; we rarely use M2.5x0.45 and M5x0.8.
+
+* M2 and M3 for micromechanical/electronic (ex. car remote, phone)
+* M4 for light structural (ex. VESA mounting standard)
+* M6 and M8 for medium structural
+* M10 and M12 for heavy structural
+
+M6 is a particularly good general-purpose size with over 5kN proof load (500kg). It has good compatibility (dimensionally close to the 1/4-20 imperial size) and universality (standard thread for aluminum breadboards).
+
+Screw Thread | Common Lengths (mm)
+---|---
+M2 | 
+M2.5 | 6, 8, 10, 12, 16
+M3 | 6, 8, 10, 12, 16, 20, 25, 30
+M4 | 10, 14, 16, 20, 25, 30, 35, 40, 50
+M5 | 
+M6 | 12, 16, 20, 25, 30, 35, 40
+
+[Tensile Load and Proof Load Charts (engineeringtoolbox)](https://www.engineeringtoolbox.com/metric-bolts-minimum-ultimate-tensile-proof-loads-d_2026.html)
+
+For improved reliability, we like to use:
+
+* stainless steel self-locking nuts (nylon-insert or metal-tension)
+* stainless steel threaded-insert nuts for plastic designs
+
+We use: IUTC-M2, IUTC-M3, IUTC-M4, IUTC-M6 (DISTR: Hi-Tech Fasteners, Bisco Industries)
+
+### Special
+
+Specialty fasteners help in plastic, sheet metal, laminate, ceramic, composite, and exotic applications.
+
+[Specialty Fastener Catalog (Pemnet)](https://www.pemnet.com/catalog-downloads/)
+
+## Geometry
+
+### Common Issues
+
+* all corners/edges are not deburred/radiused/chamfered
+
+
+
+
 
 ## Resources
 
@@ -8,9 +105,11 @@ Description | Link
 ---|---
 History of the jerry can | https://web.archive.org/web/20070524182038if_/http://www.americanheritage.com/articles/magazine/it/1987/2/1987_2_62.shtml
 
-## Videos
-
 Additive Manufacturing, CCAT Shop Tour, 2022: [Youtube Link](https://www.youtube.com/watch?v=oVEN8h3fr6s)
+
+Forums:
+
+[https://www.reddit.com/r/IndustrialDesign/](https://www.reddit.com/r/IndustrialDesign/)
 
 ## Aesthetic-Functional Design
 
@@ -36,21 +135,6 @@ Principles:
 
 ---
 
-Forums:
-
-[https://www.reddit.com/r/IndustrialDesign/](https://www.reddit.com/r/IndustrialDesign/)
-
-## Materials
-
-Molecular Perspective: Elements, Compounds, Mixtures
-
-[Table of Elements, PTABLE](https://ptable.com)
-
-Preferred: 6061/7075 Aluminum, A4 Stainless Steel (A4SS)
-
-3D Printing PLA: Natureworks 3D870 
-([Datasheet](https://www.natureworksllc.com/~/media/Files/NatureWorks/Technical-Documents/Technical-Data-Sheets/TechnicalDataSheet_3D870_monofilament_pdf.pdf?la=en))
-
 ## Acoustics
 
 Basic Acoustic Theory:
@@ -59,78 +143,6 @@ Basic Acoustic Theory:
 * When sound waves contact a different medium (ex. air to wall), some waves are reflected by the new medium; some waves are absorbed in the new medium (as heat or kinetic resonance); some waves propagate through the new medium.
 
 The industry-standard for acoustic insulation is mass-loaded vinyl (MLV). We don't like its PVC base because the plasticizer off-gas causes reduced longevity and health risks (ok but not ideal). It seems a more durable and safe alternative is mass-loaded EVA. 
-
-## Screws
-
-Head Standards: Hex-Socket-Head (primary), Hex-Head 
-
-(metric, A4 stainless steel, normal head size, M2 to M12)
-
-M6x1 (12mm, 16mm, 20mm, 25mm, 30mm, 35mm, 40mm)
-
-M4-0.7 (mm standards: 10, 14, 16, 20, 25, 30, 35, 40, 50)
-
-M3-0.5 (mm standards: 6, 8, 10, 12, 16, 20, 25, 30)
-
-M2.5-0.45 (6mm, 8mm, 10mm, 12mm, 16mm)
-
-Notes: M6 is a strong standard for higher mechanical loads with over 5kN proof load. It is dimensionally close to the quarter-inch imperial-standard (good universal compatibility). It is the thread standard for mechanical jigs (ex. aluminum-breadboards).
-
-## Threaded Insert, Press-Fit
-
-Press-fit Threaded Inserts: Pemnet, NFPC (dist: Bisco)
-
-* M3 (4.7mm DIA hole, 5.84mm LG insert)
-* M4 (6.3mm DIA hole, 6.7mm LG insert)
-* M6 (7.9mm DIA hole, 8mm LG insert)
-
-## 
-
-## Notes
-
-THREAD SIZE.
-
-We use M2 to M12 threading for all small to medium-scale applications.
-
-Our standard increments:
-
-* M2
-* M2.5
-* M3
-* M4
-* M5
-* M6
-* M8
-* M12
-
-M2 and M2.5 are the smallest sizes with common-stock and tooling-support. It is used in miniaturized devices such as car-remotes and phones.
-
-M3 is our standard for small mechatronic devices. We usually prefer the marginal robustness over compactness (compared to smaller threads).
-
-M4 is our strong standard for lower mechanical loads. It offers a proof load over 3000N (property class 5.8, middle-curve). It is used in the VESA international-mounting-standard.
-
-M5, we don't use much because it's marginally different from M4 and M6. 
-
-M8 and M12 are reserved for specific applications requiring high-strength or high-opening-diameter (ex. circular-connectors, cable glands).
-
-HEAD DRIVE.
-
-We use philips, hex-socket, and torx. 
-
-We prefer hex-socket head-drive for most applications. It is a strong and practical balance of tool-accessibility (ex. hex keys are common), strength (ex. less stripping of driver-bit/device than philips/torx), and ease-of-assembly (ex. can be driven at an angle with ball-ends).
-
-Philips optimizes for tool-accessibility. Saves time!
-
-Torx optimizes for driving-strength. Improves mounting-torque (useful for getting the most out of small fasteners)!
-
-MATERIAL.
-
-* A2 stainless steel (SAE 304)
-* A4 stainless steel (SAE 316)
-
-## Ergonomics
-
-A super common problem we see is a lack of rounded, chamfered, and deburred edges/corners! This affects not only ergonomics but also safety and reliability! Sharp corners can get dirty and cause infected cuts. Rough edges can abrade wire-jackets to various failure conditions.
 
 ## Pneumatics
 

@@ -1,5 +1,17 @@
 # Software Design
 
+## Linux
+
+[Linux Kernel Organization](https://kernel.org/) (US non-profit)
+
+## Free TLS Certificates
+
+[Let's Encrypt](https://letsencrypt.org/) (US non-profit)
+
+## Domain Name Registrar
+
+[Namecheap](https://www.namecheap.com/)
+
 ## Resources
 
 ### General
@@ -218,6 +230,8 @@ Playbook Design: idempotency
 ## Website
 
 Web Traffic Analytics
+
+[HTMX](https://htmx.org/)
 
 ## Notes
 

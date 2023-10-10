@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.47 (2023-10-10)
+
+* complete visual update with dark theme
+* major content update (partial progress)
+
 ## 0.46 (2023-06-22)
 
 * Improved structure for "Electrical Design"

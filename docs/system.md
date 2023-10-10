@@ -8,7 +8,9 @@ Description | Link
 ---|---
 Human Engineering Design Standard (MIL-STD-1472H) (RCMD) | [WEB-PDF](http://everyspec.com/MIL-STD/MIL-STD-1400-1499/MIL-STD-1472H_57041/)
 
-
+* Time Format: [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) (ex. 2022-12-31) (strongly recommended)
+* Text Format: [Markdown](https://commonmark.org/) (strongly recommended)
+* Project Management: [ISO 21502:2020](https://www.iso.org/standard/74947.html) 
 
 ### Assorted
 

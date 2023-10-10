@@ -12,23 +12,25 @@ repo_url: https://github.com/guidebolt/knowledge
 
 nav:
     -  'README.md'
-    -  'intro.md'
-    -  'critical-thinking.md'
+    -  'advice.md'
+    -  'companies.md'
     -  'tools.md'
+    -  'intro.md'
     -  'system.md'
     -  'mech.md'
     -  'elec.md'
     -  'software.md'
     -  'business.md'
     -  'cnc-machining.md'
+    - 'robotics.md'
     -  'changelog.md'
 
 theme:
     name: material
     custom_dir: overrides
     palette:
-        scheme: default
-        primary: custom
+        scheme: slate
+
     logo: assets/logo.png
     favicon: assets/favicon.png
     features:
@@ -38,6 +40,7 @@ theme:
 
 markdown_extensions:
   - admonition
+  - pymdownx.details
   - attr_list
   - md_in_html
   - pymdownx.magiclink

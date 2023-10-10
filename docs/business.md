@@ -1,6 +1,56 @@
 # Business
 
-The information on this page is from our perspective as a Canadian business. Your country may have different rules and opportunities so some information may not be fully applicable to your situation.
+We try to simplify our business functions as much as possible.
+
+## General
+
+### Email
+
+We host our company emails on [Fastmail](https://www.fastmail.com/) (RCMD).
+
+### Company Chat/Voice
+
+Our preferred company chat/voice system is [Zulip](https://zulip.com/) (STRONG RCMD).
+
+[Google Meet](https://meet.google.com/) is our voice chat backup.
+
+### Banking
+
+We have a CAD bank account and USD bank account with [RBC](https://www.rbcroyalbank.com).
+
+We have a CAD credit card (1% cashback) and a USD credit card (to avoid costly credit-card FOREX).
+
+### FOREX
+
+We do FOREX with [Wise](https://wise.com/) (usually CAD-USD).
+
+### Payroll
+
+We handle payroll internally on a monthly basis with [Canada Payroll Deductions Calculator](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/payroll-deductions-online-calculator.html). 
+
+Every month we submit and remit our payroll source deductions to the CRA via [CRA My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html).
+
+### Credits
+
+**SRED and OITC**: We get fully refundable tax credits for about 40% of our scientific, research, and experimental development expenses via [SRED](https://canada.ca/taxes-sred) (federal program) and [Ontario Innovation Tax Credit](https://www.ontario.ca/page/ontario-innovation-tax-credit) (provincial program). Both programs are STRONG RCMD. Part of our corporate tax return.
+
+### Corporate Taxes and Filings
+
+**Annual Return**: Every year we submit our corporate return to [Corporations Canada Annual Return Service](https://ised-isde.canada.ca/site/corporations-canada/en/annual-return-business-corporations). 
+
+**Corporate Tax Return**: Every year we prepare our corporate tax return with [T2Express](https://www.mytaxexpress.com/t2index.html) and submit to CRA via their NETFILE service (sendable from T2Express). Includes annual financial statements.
+
+**HST Refund**: We get fully refundable tax credits for all the HST (domestic sales tax) and GST (import tax) that we pay for our business expenses via [Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/complete-file-input-tax-credit.html). This is STRONG RCMD. Part of our HST return.
+
+**HST Return**: Every year we submit and remit our HST return (HST from our sales) to the CRA via [CRA My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html). 
+
+### Business Insurance
+
+[Kase Insurance](https://kaseinsurance.com/) (Canadian insurance broker)
+
+### Phone Service
+
+[Freedom Mobile Canada](https://www.freedommobile.ca/en-CA) (Canadian phone service provider) (cost-effective: $15/mth 1GB annual prepaid)
 
 ## Stories
 
@@ -17,65 +67,27 @@ Investors | Reasons Investors Pass on Start-ups, Alex Iskold | https://twitter.c
 
 [Article: Unicorns and Horses](https://medium.com/@awilkinson/unicorns-vs-horses-f81d8dd61f17)
 
-## General Recommendations
+## Resources
 
-[Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/complete-file-input-tax-credit.html): GST/HST paid on business expenses become fully refundable tax credits. Benefit is 5% to 15% savings depending on which provinces you mainly purchase from. Import GST is also eligible.
+Government of Canada:
 
-**Commercial General Liability (CGL) Insurance**: Protects against third-party injury and property damage claims. Benefit is significant risk reduction of the business having to directly pay a typical $100K to $1M legal settlement. 
+Description | Link
+---|---
+Doing Business in Canada | [WEB](https://www.canada.ca/en/services/business.html)
+**CanadaBuys**: selling to government of Canada | [WEB](https://canadabuys.canada.ca)
+**CorporationsCanada**: federal company registration/search/maintenance | [WEB](https://corporationscanada.ic.gc.ca)
+**NUANS**: Canada corporate name search | [WEB](https://www.ic.gc.ca/eic/site/075.nsf/eng/home)
+**Canada Innovation Superclusters** | [WEB](https://www.ic.gc.ca/eic/site/093.nsf/eng/home)
+Made in Canada | [WEB](https://www.competitionbureau.gc.ca/eic/site/cb-bc.nsf/eng/03169.html)
 
-**Data Backup Schedule and Reliable Data System**: Prevents data loss and business disruption caused by drive failure, human error, indirect damage (ex. fire), and special data problems (ex. bitrot). Benefit is significant risk reduction of a variable $10K to $1M+ business disruption cost (depends on business size and data-dependency). 
+Government of Ontario:
 
-**Data Security Policy**: Protects against typical brute-force, phishing, and social-engineering attacks. Benefit is significant risk reduction of a typical $1M+ ransomware settlement, reputation damage, and business disruption.
-
-## Tools
-
-Topic | Description | Link
----|---|---
-Taxes | Canada Payroll Calculator | https://www.canada.ca/en/revenue-agency/services/e-services/e-services-businesses/payroll-deductions-online-calculator.html
-
-## Basics
-
-Typical business scope:
-
-* Sales, Marketing, Support (public engagement)
-* Operations, Engineering, Project Management (product-service focus)
-* Accounting/Finance, Human Resources, Legal, Security (resource accumulation/protection)
-* Strategy (planning/direction leadership)
-
-Key questions:
-
-* What is the long-term strategy?
-* What makes the product/service compelling?
-* What is strong about the product-market fit?
-
-Key planning ideas:
-
-* Prepare for market saturation.
-* Focus on significant upgrades (ex. air conditioning inside cars).
-
-## Standards
-
-* Time Format: [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) (ex. 2022-12-31) (strongly recommended)
-* Text Format: [Markdown](https://commonmark.org/) (strongly recommended)
-* Project Management: [ISO 21502:2020](https://www.iso.org/standard/74947.html) 
-
-## Canada Resources
-
-Selling to the Government: [CanadaBuys](https://canadabuys.canada.ca)
-
-Federal Company Registration and Maintenance: [Corporations Canada](https://corporationscanada.ic.gc.ca)
-
-Corporate Name Search: [Canada Nuans](https://www.ic.gc.ca/eic/site/075.nsf/eng/home)
-
-* [Canada, Innovation Superclusters](https://www.ic.gc.ca/eic/site/093.nsf/eng/home)
-* [Canada, Business](https://www.canada.ca/en/services/business.html)
-* [Made in Canada](https://www.competitionbureau.gc.ca/eic/site/cb-bc.nsf/eng/03169.html)
-
-Ontario:
-
-* [Ontario Made](https://www.supportontariomade.ca/)
-* [Ontario, Business and Economy](https://www.ontario.ca/page/business-and-economy)
-* [WSIB Ontario](https://www.wsib.ca/en)
+Description | Link
+---|---
+Doing Business in Ontario | [WEB](https://www.ontario.ca/page/business-and-economy)
+**Ontario Made** | [WEBSITE](https://www.supportontariomade.ca/)
+**Workplace Safety Insurance Board (WSIB)** | [WEBSITE](https://www.wsib.ca/en)
+**Electrical Safety Authority (ESA)** | [WEBSITE](https://esasafe.com/)
 
 ## Corporate Maintenance, Guidebolt Inc.
 
@@ -84,13 +96,6 @@ Federal Registration: Canada NFP Act (equity-less)
 Extraprovincial Registration: Ontario
 
 Note: The federal corporation number (organization ID with Corporations Canada) is different from the federal business number (organization ID with Canada Revenue Agency).
-
-Maintenance: 
-
-* Annual Return (to Corporations Canada)
-* Annual Financial Statements (balance sheet, income statement)
-* Annual HST Return (to CRA)
-* Annual/Quarterly Payroll Deductions (to CRA)
 
 Documents:
 
@@ -117,7 +122,31 @@ Assorted Reading:
 
 [List of SRED Program Changes](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/whats-new-program.html)
 
+## Old Notes
 
+**Commercial General Liability (CGL) Insurance**: Protects against third-party injury and property damage claims. Benefit is significant risk reduction of the business having to directly pay a typical $100K to $1M legal settlement. 
+
+**Data Backup Schedule and Reliable Data System**: Prevents data loss and business disruption caused by drive failure, human error, indirect damage (ex. fire), and special data problems (ex. bitrot). Benefit is significant risk reduction of a variable $10K to $1M+ business disruption cost (depends on business size and data-dependency). 
+
+**Data Security Policy**: Protects against typical brute-force, phishing, and social-engineering attacks. Benefit is significant risk reduction of a typical $1M+ ransomware settlement, reputation damage, and business disruption.
+
+Typical business scope:
+
+* Sales, Marketing, Support (public engagement)
+* Operations, Engineering, Project Management (product-service focus)
+* Accounting/Finance, Human Resources, Legal, Security (resource accumulation/protection)
+* Strategy (planning/direction leadership)
+
+Key questions:
+
+* What is the long-term strategy?
+* What makes the product/service compelling?
+* What is strong about the product-market fit?
+
+Key planning ideas:
+
+* Prepare for market saturation.
+* Focus on significant upgrades (ex. air conditioning inside cars).
 
 
 
